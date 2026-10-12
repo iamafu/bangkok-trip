@@ -200,7 +200,7 @@ p { margin: 0; }
 .choices button:active { transform: scale(0.97); }
 .choices button[aria-pressed="true"] { background: var(--coral); color: var(--card); }
 .choices button:disabled { opacity: 0.55; cursor: not-allowed; }
-.vote-note { font-size: 0.82rem; color: var(--muted); }
+.note-text { font-size: 0.82rem; color: var(--muted); }
 
 .sources { font-size: 0.78rem; color: var(--muted); }
 .sources a { color: var(--sea); }

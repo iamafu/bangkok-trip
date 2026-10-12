@@ -121,7 +121,7 @@ function nearbyBlock(nearby) {
         el("p", { className: "why", text: `距離：${orUnverified(n.distance)}　狀態：${orUnverified(n.status)}` }),
       ])
     )),
-    el("p", { className: "vote-note", text: "點擊地點名稱會開啟 Google 地圖搜尋，請確認第一筆結果是否為該地點。" }),
+    el("p", { className: "note-text", text: "點擊地點名稱會開啟 Google 地圖搜尋，請確認第一筆結果是否為該地點。" }),
   ]);
 }
 
@@ -152,7 +152,7 @@ function card(a) {
     el("p", { className: "section-title", text: "優點" }), listOrUnverified(a.pros),
     el("p", { className: "section-title", text: "缺點" }), listOrUnverified(a.cons),
     el("p", { className: "section-title", text: "熱度依據" }),
-    el("p", { className: "vote-note", text: pop.reason || UNVERIFIED }),
+    el("p", { className: "note-text", text: pop.reason || UNVERIFIED }),
     sourceLinks(pop.sources),
   ]);
 
