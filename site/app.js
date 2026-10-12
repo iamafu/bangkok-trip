@@ -178,9 +178,14 @@ function renderSection(title, id, items) {
   return section;
 }
 
-function renderAppendix(items) {
+function renderAppendix(items, attractionCount) {
   const section = el("section", { id: "sec-appendix", "aria-labelledby": "h-sec-appendix" });
-  section.append(el("h2", { id: "h-sec-appendix", text: "附錄（不分析）" }));
+  section.append(el("h2", { id: "h-sec-appendix", text: "清單完整對照與附錄" }));
+  const dup = items.filter((x) => /重複/.test(x.type || "")).length;
+  section.append(el("p", {
+    className: "note-text",
+    text: `原清單共 ${attractionCount + items.length} 項。下方 ${attractionCount} 個景點有完整分析；以下 ${items.length - dup} 項不做分析，${dup} 項為重複、已併入景點，列出是為了完整對照。`,
+  }));
   section.append(el("ul", { className: "appendix-list" }, items.map((x) =>
     el("li", {}, [
       el("strong", { text: x.name_zh }),
@@ -206,6 +211,8 @@ async function main() {
   }
 
   const list = Array.isArray(data.attractions) ? data.attractions : [];
+  // 附錄放最上方：清單 21 項的完整對照先呈現，避免誤以為有遺漏。
+  app.append(renderAppendix(Array.isArray(data.appendix) ? data.appendix : [], list.length));
   const placed = new Set();
   for (const sec of SECTIONS) {
     const items = list.filter((a) => sec.match.test(a.type || ""));
@@ -214,7 +221,6 @@ async function main() {
   }
   const rest = list.filter((a) => !placed.has(a.id));
   if (rest.length) app.append(renderSection("其他", "sec-other", rest));
-  app.append(renderAppendix(Array.isArray(data.appendix) ? data.appendix : []));
 
   status.textContent = `共 ${list.length} 個景點，附錄 ${(data.appendix || []).length} 項。查證日 ${data.meta?.checked_on || "未知"}。`;
 }
