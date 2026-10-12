@@ -1,0 +1,12 @@
+# 本機設定與機敏檔案
+.claude/settings.local.json
+.env
+.env.*
+*.pem
+*.key
+
+# 依賴與暫存
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

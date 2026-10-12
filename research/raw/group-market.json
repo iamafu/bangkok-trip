@@ -1,0 +1,396 @@
+[
+  {
+    "id": "jodd-fairs-ratchada",
+    "name_zh": "喬德夜市新址 Jodd Fairs",
+    "name_en": "Jodd Fairs Ratchada",
+    "name_th": null,
+    "type": "夜市",
+    "list_rating": 4.1,
+    "list_review_count": null,
+    "area": "曼谷 Din Daeng 區，Ratchadaphisek 路（泰國文化中心 MRT 站旁、Big C Place Ratchadaphisek 旁）",
+    "coords": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Jodd+Fairs+Ratchada+Bangkok",
+    "status": "營運中",
+    "popularity": {
+      "level": "高",
+      "reason": "2025 至 2026 年有多篇媒體、旅遊平台與 YouTube 影片報導搬遷與新址，且 2026 年指南皆列為營運中。",
+      "sources": [
+        {"title": "SAYS：Jodd Fairs Rama 9 closes down（報導拉瑪 9 舊址關閉與 Ratchada 新址）", "url": "https://says.com/my/makan/popular-bangkok-night-market-jodd-fairs-moved", "date": "2025-01"},
+        {"title": "Seth Lui：Jodd Fairs Rama 9 shut down", "url": "https://sethlui.com/jodd-fairs-shuts-down-phra-rama-9-thailand-jan-2025/", "date": "2025-01"},
+        {"title": "Go2-Thailand：Jodd Fairs Ratchada 位置、時段與行程規劃", "url": "https://go2-thailand.com/blog/jodd-fairs-bangkok-night-market-guide/", "date": "2026-07"},
+        {"title": "Trip.com Moments：Jodd Fairs Ratchada", "url": "https://www.trip.com/moments/poi-jodd-fairs-rama-9-night-markets-134009241/", "date": "2026-03"}
+      ]
+    },
+    "features": [
+      "拉瑪 9 世舊址已於 2025 年 1 月前後因租約到期關閉，現行據點為拉差達（Ratchadaphisek）新址。",
+      "新址緊鄰 Big C Place Ratchadaphisek，從泰國文化中心 MRT 站 4 號出口步行約 2 至 3 分鐘。",
+      "攤位數各來源差異大（約 800 至 1,500 以上），以美食為主，另有服飾、配件與小店。",
+      "部分攤位只收現金或泰國 QR Code，外國信用卡常不通用。",
+      "同區另有「Train Night Market Ratchada」，為不同市集，名稱易混淆。"
+    ],
+    "pros": [
+      "捷運直達，交通簡單。",
+      "吃喝、購物集中在同一區，傍晚氣氛熱鬧、好拍照。",
+      "適合順路安排 Ratchada 一帶行程。"
+    ],
+    "cons": [
+      "用餐時段人潮擁擠、視覺吵雜。",
+      "偏觀光客取向，較不像在地夜市，也不一定最便宜。",
+      "網路上仍有大量舊資料指向拉瑪 9 世舊址，易走錯。"
+    ],
+    "tickets": "【資料不足，無法確認】各來源皆未明確寫入場費，推測性說法不採用。",
+    "hours": "多數 2026 指南為每日 17:00 至 01:00（個別攤位可能較早收）；另有一來源寫 16:00 至 24:00，來源間不一致。",
+    "transport": "搭 MRT 藍線至泰國文化中心站（Thailand Cultural Centre）4 號出口，步行約 2 至 3 分鐘，朝 Big C 方向走。",
+    "dress_code": null,
+    "best_time": "查無 2027 年 1–2 月的專屬來源。時段建議：17:00–18:30 較不擁擠，18:30–21:30 最熱鬧、需排隊（Go2-Thailand，2026-07）。",
+    "nearby": [
+      {
+        "name": "Train Night Market Ratchada（火車夜市拉差達）",
+        "why": "傳統火車夜市風格的另一個市集，與 Jodd Fairs 步行可互通，可併排行程。",
+        "distance": "步行約 5 分鐘（單一來源，細節待確認）",
+        "status": "據單一 2026 來源，2026-03-27 在 Esplanade Ratchadaphisek 後方原址重新開放，每日 17:00–01:00；其他來源對其現況說法不一，待查證。",
+        "sources": [
+          {"title": "Airportels：Night Market Bangkok 12 Still Open in 2026", "url": "https://www.airportels.asia/travel-guides/bangkok-night-market/", "date": "2026-07"}
+        ]
+      },
+      {
+        "name": "The One Ratchada",
+        "why": "拉差達一帶的另一個夜市，常被拿來與 Jodd Fairs 比較。",
+        "distance": null,
+        "status": "待查證（僅找到未標日期的來源與影片比較，未能確認 2025–2026 營運狀態）",
+        "sources": [
+          {"title": "Phuket101：The One Ratchada", "url": "https://www.phuket101.net/bangkok/the-one-ratchada/", "date": null}
+        ]
+      }
+    ],
+    "videos": [
+      {"role": "main", "title": "【搶先實拍】曼谷人氣夜市開分支～Jodd Fairs Ratchada，昨晚開幕啦！", "channel": "胡慧冲遊泰國", "url": "https://www.youtube.com/watch?v=gLRk7VUhuDE", "video_id": "gLRk7VUhuDE", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"},
+      {"role": "backup", "title": "Jodd Fairs Ratchada - Bangkok's Go-To Night Market - Bangkok Thailand 2026", "channel": "Endless Journey", "url": "https://www.youtube.com/watch?v=WY_l3MQSwEs", "video_id": "WY_l3MQSwEs", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"}
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "coords（座標）",
+      "name_th（泰文名）",
+      "list_review_count",
+      "tickets",
+      "營業時間（來源間 16:00/17:00 開、24:00/01:00 收不一致）",
+      "影片觀看數與上傳日",
+      "舊址關閉確切日期（各報導說法不一，2024-11 開幕或 2025-07 全面搬遷）",
+      "nearby 的 The One Ratchada 營運狀態與距離",
+      "2027 年 1–2 月專屬建議"
+    ]
+  },
+  {
+    "id": "talad-rot-fai-srinakarin",
+    "name_zh": "席娜卡琳火車夜市",
+    "name_en": "Talad Rot Fai Srinakarin (Train Night Market Srinakarin)",
+    "name_th": null,
+    "type": "夜市",
+    "list_rating": 4.3,
+    "list_review_count": null,
+    "area": "曼谷 Prawet 區 Nong Bon，Srinakarin Soi 51（Seacon Square 後方）",
+    "coords": {"lat": 13.695259531726, "lng": 100.650653984130},
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=13.695259531726,100.650653984130",
+    "status": "營運中",
+    "popularity": {
+      "level": "高",
+      "reason": "2026 年多個旅遊指南與大量近 2 年 YouTube 影片皆介紹，且 2026 年指南列為營運中。",
+      "sources": [
+        {"title": "Thai Holiday Guide：Train Night Market Srinakarin", "url": "https://www.thaiholidayguide.com/attraction/train-night-market-srinakarin/", "date": "2026-06"},
+        {"title": "Airportels：Night Market Bangkok 12 Still Open in 2026", "url": "https://www.airportels.asia/travel-guides/bangkok-night-market/", "date": "2026-07"},
+        {"title": "Thai2Siam：Talad Rot Fai Srinakarin Market", "url": "https://www.thai2siam.com/business/bangkok/attractions-shopping/market/talad-rot-fai-srinakarin-market", "date": null},
+        {"title": "YouTube：MASSIVE Bangkok Night Market Tour 2025（Srinakarin Train Market）", "url": "https://www.youtube.com/watch?v=wiNVbycrEgg", "date": "2025-01"}
+      ]
+    },
+    "features": [
+      "以復古、二手與古董為主的露天夜市，另有倉庫區、Rod's Antiques（改建工廠的古董與老爺車展售）。",
+      "有街邊小吃、入口處臨時酒吧與現場樂團，並有古董車、Vespa。",
+      "旅行社與媒體資料提到場內擺放古董車與飛機等大型裝置，可拍照（清單備註「有飛機」可由此佐證，飛機詳情未查證）。",
+      "攤位數約 2,000 以上（Thai2Siam）。"
+    ],
+    "pros": [
+      "復古與古董攤位多，拍照題材豐富。",
+      "價格被部分指南形容比市區觀光夜市親民。",
+      "免費入場，晚上有酒吧與現場音樂。"
+    ],
+    "cons": [
+      "位在市郊，單程約 30 至 45 分鐘車程，來回需規劃叫車。",
+      "週末晚上人潮擁擠。",
+      "開放日與位置描述在各來源不一致。"
+    ],
+    "tickets": "免費（Thai Holiday Guide，2026-06）",
+    "hours": "多數來源：週四至週日 17:00 至 24:00 或 01:00，週一至週三休。另有旅行社資料寫週四至週六，來源不一致。",
+    "transport": "MRT 黃線至 Suan Luang Rama IX 站（1 號出口）後步行約 5 至 10 分鐘（各來源時間不一）；舊資料多寫 BTS Udom Suk 或 Punnawithi 轉計程車或機車計程車。",
+    "dress_code": null,
+    "best_time": "查無 2027 年 1–2 月的專屬來源。時段建議：開市後 19:00 起最熱鬧；週五至週日人潮最多（Thai Holiday Guide，2026-06）。須挑週四至週日前往。",
+    "nearby": [
+      {
+        "name": "Seacon Square（Seacon Square 購物中心）",
+        "why": "大型商場，可作為夜市前用餐、避暑與乘車地標，黃線站就在商場前方。",
+        "distance": "夜市位於其後方，約數百公尺（確切距離未查證）",
+        "status": "營運中（2025–2026 來源僅間接提及，待查證）",
+        "sources": [
+          {"title": "Expedia：Seacon Square Prawet 導覽", "url": "https://www.expedia.com/es/Seacon-Square-Prawet.d6184465.Guia-Turistica", "date": null}
+        ]
+      },
+      {
+        "name": "Paradise Park",
+        "why": "同為黃線沿線的大型商場，可順路逛。",
+        "distance": "步行可達（單一來源，確切距離未查證）",
+        "status": "待查證（未找到 2025–2026 日期來源）",
+        "sources": [
+          {"title": "Expedia：Seacon Square Prawet 導覽", "url": "https://www.expedia.com/es/Seacon-Square-Prawet.d6184465.Guia-Turistica", "date": null}
+        ]
+      }
+    ],
+    "videos": [
+      {"role": "main", "title": "Bangkok's Original Train Night Market: Rod Fai Srinakarin [4K HDR]", "channel": "Walkzilla Journey", "url": "https://www.youtube.com/watch?v=8p9LoCtG6xM", "video_id": "8p9LoCtG6xM", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"},
+      {"role": "backup", "title": "MASSIVE Bangkok Night Market Tour | Srinakarin Train Market Street Food + Vintage Shopping", "channel": "The Dufresnes", "url": "https://www.youtube.com/watch?v=wiNVbycrEgg", "video_id": "wiNVbycrEgg", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"}
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "name_th（泰文名）",
+      "list_review_count",
+      "營業日（週四至週日 vs 週四至週六，來源不一致）",
+      "營業結束時間（24:00 vs 01:00）",
+      "「有飛機」的具體位置與是否仍在",
+      "影片觀看數與上傳日（無中文影片，僅英文）",
+      "nearby 兩項的 2025–2026 日期來源與距離",
+      "2027 年 1–2 月專屬建議"
+    ]
+  },
+  {
+    "id": "chula-banthat-thong-night-market",
+    "name_zh": "朱拉隆功夜市",
+    "name_en": "Chulalongkorn Night Market / Banthat Thong Road (Chula Food Street)",
+    "name_th": "บรรทัดทอง",
+    "type": "夜市／街市",
+    "list_rating": 4.4,
+    "list_review_count": null,
+    "area": "曼谷 Pathum Wan 區，Banthat Thong 路（Phayathai 路與朱拉隆功大學之間、Soi Chulalongkorn 5 一帶）",
+    "coords": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Banthat+Thong+Road+Chulalongkorn+night+market+Bangkok",
+    "status": "營運中",
+    "popularity": {
+      "level": "高",
+      "reason": "2026 年 Tripadvisor、旅遊部落格與多支 2025 年 YouTube 影片皆介紹；但無官方資料。",
+      "sources": [
+        {"title": "Your Thai Guide：Chulalongkorn Food Street 指南", "url": "https://yourthaiguide.com/chulalongkorn-food-street-your-complete-guide-to-bangkoks-bhantat-thong-night-market/", "date": "2026-01"},
+        {"title": "Tripadvisor：Chulalongkorn night market", "url": "https://www.tripadvisor.ie/Attraction_Review-g293916-d34381958-Reviews-Chulalongkorn_night_market-Bangkok.html", "date": "2026-05"},
+        {"title": "YouTube：Bangkok's Best Kept Night Market Secrets 含 Banthatthong（2025）", "url": "https://www.youtube.com/watch?v=cIeiBAeZo98", "date": "2025-01"}
+      ]
+    },
+    "features": [
+      "沿 Banthat Thong 路延伸的美食街，一路是店屋餐廳與街邊小吃，並非單一封閉式夜市。",
+      "指南列出的熱門項目包括 Elvis Suki（火鍋）、Jeh O Chula、青木瓜沙拉、烤豬肉串、粥與甜點。",
+      "單價約 40 至 150 銖（Your Thai Guide，2026-01）。",
+      "路段上有 TAY 復古與二手服飾市集（YouTube 說明欄）。"
+    ],
+    "pros": [
+      "大學城氛圍，在地感強、價格親民。",
+      "捷運與 BTS 都能步行抵達。",
+      "格局緊湊，第一次去也好逛。"
+    ],
+    "cons": [
+      "傍晚尖峰人潮擁擠，名店需排隊。",
+      "多數攤位只收現金，附近 ATM 常大排長龍。",
+      "各來源營業時間不一致，且無官方資料。"
+    ],
+    "tickets": "免費（街市，無入場收費的說明；各來源未提及收費）",
+    "hours": "各來源不一：約 16:00 至 24:00（週末部分攤位至 01:00 後）；Tripadvisor 2026-05 顯示 16:00 至 23:45；一支影片說明寫 18:00 至 01:00。",
+    "transport": "BTS 國立體育館站（National Stadium）步行約 5 至 7 分鐘；MRT Sam Yan 站步行約 10 分鐘。",
+    "dress_code": null,
+    "best_time": "查無 2027 年 1–2 月專屬來源。時段建議：17:30 前或 22:00 後較不擁擠，尖峰約 18:00 至 21:00（Your Thai Guide，2026-01）。",
+    "nearby": [
+      {
+        "name": "CU Centenary Park（朱拉隆功大學百年紀念公園）",
+        "why": "都市中的綠地與雨水回收設計公園，適合夜市前後散步拍照。",
+        "distance": "步行可達（確切距離未查證）",
+        "status": "營運中（開放時間僅單一來源：每日 05:00 至 22:00，免費；日期未確認）",
+        "sources": [
+          {"title": "朱拉隆功大學：CU Centenary Park", "url": "https://www.chula.ac.th/en/services/cu-centenary-park/", "date": null},
+          {"title": "Your Thai Guide：CU Centenary Park 遊客 FAQ", "url": "https://yourthaiguide.com/chulalongkorn-university-centenary-park-tourist-faq/", "date": null}
+        ]
+      },
+      {
+        "name": "Jim Thompson House（金湯普森之家）",
+        "why": "泰式柚木老屋與絲綢博物館，是文化型景點，可與夜市搭配成半日行程。",
+        "distance": "同在 BTS 國立體育館站周邊（確切距離未查證）",
+        "status": "營運中（2026 年多個指南列出；票價與時段各來源不一：09:00 或 10:00 開，票價 200 或 250 銖）",
+        "sources": [
+          {"title": "TravelTriangle：Jim Thompson House 2026", "url": "https://traveltriangle.com/blog/jim-thompson-house/", "date": "2026-01"},
+          {"title": "Tripadvisor：Jim Thompson House", "url": "https://www.tripadvisor.com/447276", "date": null}
+        ]
+      }
+    ],
+    "videos": [
+      {"role": "main", "title": "Bangkok's Best Kept Night Market Secrets: Dragon Town, Joy Fest & Banthatthong - Thailand 2025", "channel": "Endless Journey", "url": "https://www.youtube.com/watch?v=cIeiBAeZo98", "video_id": "cIeiBAeZo98", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"},
+      {"role": "backup", "title": "[BANGKOK] Banthat Thong Road \"Discover Street Foods Paradise In Bangkok\" | Thailand [4K HDR]", "channel": "Walkzilla Journey", "url": "https://www.youtube.com/watch?v=NnUNLhFZnXo", "video_id": "NnUNLhFZnXo", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"}
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "coords（座標）",
+      "list_review_count",
+      "清單「朱拉隆功夜市」對應地點為 Banthat Thong 路屬於推斷（各來源皆稱 Chula night market 即此街），無官方名稱",
+      "營業時間（來源間不一致）",
+      "影片為英文（未找到適合的中文影片）、觀看數與上傳日",
+      "nearby 的日期來源與距離",
+      "2027 年 1–2 月專屬建議"
+    ]
+  },
+  {
+    "id": "747-cafe-lat-krabang",
+    "name_zh": "747 Café",
+    "name_en": "747 Cafe",
+    "name_th": null,
+    "type": "咖啡",
+    "list_rating": 4.4,
+    "list_review_count": null,
+    "area": "曼谷 Lat Krabang 區 Thap Yao（627 1 Luang Phaeng Rd, 10520）",
+    "coords": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=747+Cafe+Lat+Krabang+Bangkok",
+    "status": "營運中",
+    "popularity": {
+      "level": "中",
+      "reason": "2026 年僅見平台（Trip.com、Tripadvisor）與評論，媒體與部落格報導多為 2020 至 2022 年，近 2 年獨立來源有限。",
+      "sources": [
+        {"title": "Trip.com Moments：747 Cafe（含 2026-02 評論、2026-10 更新）", "url": "https://www.trip.com/moments/poi-747-cafe-118481620", "date": "2026-10"},
+        {"title": "Tripadvisor：747 Cafe", "url": "https://www.tripadvisor.com/Restaurant_Review-g293916-d24137324-Reviews-747_Cafe-Bangkok.html", "date": "2026-01"},
+        {"title": "TheSmartLocal：747 Cafe（舊文）", "url": "https://thesmartlocal.co.th/747-cafe", "date": "2022-01"}
+      ]
+    },
+    "features": [
+      "以退役波音 747-400（原 Orient Thai）改建的雙層飛機咖啡廳，位於約 3.95 英畝場地。",
+      "可進駕駛艙拍照、坐機長座位，機翼平台與引擎區也是打卡點。",
+      "入場採登機證式門票，每人 120 銖可折抵飲品；身高 120 公分以下兒童免費；可租機長與空服員制服。"
+    ],
+    "pros": [
+      "題材獨特，拍照效果好，適合航空迷與親子。",
+      "門票可折抵飲料，等於低門檻。"
+    ],
+    "cons": [
+      "位置偏遠，需叫車或搭機場快線至 Lat Krabang 站再轉乘，不便。",
+      "餐飲評價普通，主要賣點是場景。",
+      "週末與旅行團時段人多（有評論提到週末限時 1 小時）。"
+    ],
+    "tickets": "每人 120 銖（可折抵飲品；一則評論提到 200 銖，待確認）；身高 120 公分以下免費。",
+    "hours": "來源不一致：約 09:00 至 18:00 或 10:00 至 19:00 或 08:00 至 18:00。",
+    "transport": "機場快線至 Lat Krabang 站後叫車約 7 公里；多數評論建議 Grab 或 Bolt，單程約 100 至 200 銖。距素萬那普機場約 15 至 20 分鐘車程。",
+    "dress_code": null,
+    "best_time": "查無 2027 年 1–2 月專屬來源。時段建議：平日上午人較少（Trip.com，2026-10）。",
+    "nearby": [
+      {
+        "name": "Runway 3119 Suvarnabhumi Night Market（夜市）",
+        "why": "機場周邊的夜市，可順路安排晚餐。",
+        "distance": null,
+        "status": "待查證（僅見未標日期的活動頁面，無 2025–2026 營運確認）",
+        "sources": [
+          {"title": "Traveloka：Things to do in Lat Krabang", "url": "https://www.traveloka.com/en-ph/activities/thailand/city/lat-krabang-10002783", "date": null}
+        ]
+      },
+      {
+        "name": "Wat Lat Krabang（拉卡邦寺）",
+        "why": "在地歷史寺廟，可感受在地佛教建築。",
+        "distance": null,
+        "status": "待查證（未找到 2025–2026 日期來源）",
+        "sources": [
+          {"title": "Traveloka：Things to do in Lat Krabang", "url": "https://www.traveloka.com/en-ph/activities/thailand/city/lat-krabang-10002783", "date": null}
+        ]
+      }
+    ],
+    "videos": [
+      {"role": "main", "title": "A Detailed Exploration of the 747 Cafe in Bangkok", "channel": "KP Explores", "url": "https://www.youtube.com/watch?v=12Sf5SJqmE8", "video_id": "12Sf5SJqmE8", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"},
+      {"role": "backup", "title": "747 Cafe Bangkok, Thailand in 4K HDR", "channel": "Thai 8K HDR Variety", "url": "https://www.youtube.com/watch?v=E_etKR8yow4", "video_id": "E_etKR8yow4", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"}
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "coords（座標）",
+      "name_th（泰文名）",
+      "list_review_count",
+      "營業時間（來源間不一致）",
+      "清單暗示 747 Café 與席娜卡琳火車夜市相鄰，查證結果不相鄰：747 Cafe 位於 Lat Krabang，席娜卡琳夜市位於 Prawet 區，兩者非鄰近（未量測確切距離）。「有飛機」備註原指席娜卡琳夜市場內裝置，與 747 Café 為不同地點。",
+      "影片為英文、觀看數與上傳日",
+      "近 2 年媒體報導不足",
+      "nearby 兩項的營運狀態、距離與日期來源",
+      "2027 年 1–2 月專屬建議"
+    ]
+  },
+  {
+    "id": "khlong-khuean-ganesh-park",
+    "name_zh": "The Khlong Khuean Ganesh International Park",
+    "name_en": "The Khlong Khuean Ganesh International Park (Khlong Khuean Shri Ganesh Park)",
+    "name_th": null,
+    "type": "公園／景點",
+    "list_rating": 4.7,
+    "list_review_count": null,
+    "area": "北柳府（Chachoengsao）Khlong Khuean 縣 Bang Talat（不在曼谷市內，距曼谷約 100 公里，影片說明寫約 106 公里）",
+    "coords": {"lat": 13.735451, "lng": 101.174505},
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=13.735451,101.174505",
+    "status": "營運中",
+    "popularity": {
+      "level": "高",
+      "reason": "2026 年 Tripadvisor、Trip.com、Wanderlog 與旅遊部落格皆有條目與評論，Google 評分約 4.7（Wanderlog 顯示 9,745 則）。",
+      "sources": [
+        {"title": "Wanderlog：The Khlong Khuean Ganesh International Park", "url": "https://wanderlog.com/place/details/2155150/the-khlong-khuean-ganesh-international-park", "date": "2026-01"},
+        {"title": "Tripadvisor：Khlong Khuean Ganesh International park", "url": "https://www.tripadvisor.com/Attraction_Review-g2237252-d15032701-Reviews-Khlong_Khuean_Ganesh_International_park-Khlong_Khuean_Chachoengsao_Province.html", "date": "2026-01"},
+        {"title": "Trip.com：The Khlong Khuean Ganesh International Park", "url": "https://www.trip.com/travel-guide/attraction/khlong-khuean/the-khlong-khuean-ganesh-international-park-133523648/", "date": "2026-01"},
+        {"title": "The Abroad Guide：Khlong Khuean Shri Ganesh Park 與 Ban Mai Market", "url": "https://theabroadguide.com/khlong-khuean-shri-ganesh-park-100-year-old-ban-mai-market/", "date": "2026-01"}
+      ]
+    },
+    "features": [
+      "園區主體為約 39 公尺的青銅站立象神像，多個來源稱為世界最高之一（「世界最高」說法無權威機構認證）。",
+      "位於 Bang Pakong 河畔，有庭園步道，訪客常赤腳繞行，步道鋪藍色墊。",
+      "有英泰雙語標示與大停車場；婆羅門祈福儀式有固定時段（約 11:00、14:00、16:00，因日而異）。"
+    ],
+    "pros": [
+      "雕像規模壯觀、拍照效果好。",
+      "環境整潔，設施完善。",
+      "常與 Ban Mai Market、鄰近寺廟組成一日遊。"
+    ],
+    "cons": [
+      "不在曼谷市區，需包車或自駕，單日往返約 8 小時。",
+      "入場費各來源不一致，須現場確認。",
+      "日曬強，需防曬與襪子（赤腳走道會燙）。"
+    ],
+    "tickets": "各來源不一致：Wanderlog 與 Trip.com 寫免費；2026-01 一則 Google 評論稱外國人 100 銖並附花環。須現場確認。",
+    "hours": "各來源不一致：Wanderlog 寫週一至週五 09:00 至 17:00，週末 07:30 至 18:00；Trip.com 寫週一至週五 08:00 至 17:00，週末與假日 07:30 至 18:00；另有來源寫 09:00 至 18:00。",
+    "transport": "位於北柳府，需自駕或包車從曼谷前往（約 100 公里）。大眾運輸方式【資料不足，無法確認】。",
+    "dress_code": null,
+    "best_time": "查無 2027 年 1–2 月專屬來源。時段建議：平日或早上前往可避人潮；天熱時帶襪子（Wanderlog）。",
+    "nearby": [
+      {
+        "name": "Ban Mai Market（百年古市場）",
+        "why": "約 100 年歷史的老市集，木造老屋街景，適合邊逛邊吃。",
+        "distance": "來源寫「沿路下去」，確切距離未查證",
+        "status": "營運中（2026 年旅遊文章列為行程點，營業時間未查證）",
+        "sources": [
+          {"title": "The Abroad Guide：Khlong Khuean Shri Ganesh Park 與 Ban Mai Market", "url": "https://theabroadguide.com/khlong-khuean-shri-ganesh-park-100-year-old-ban-mai-market/", "date": "2026-01"}
+        ]
+      },
+      {
+        "name": "Wat Saman Rattanaram（臥佛寺）",
+        "why": "有約 16 公尺臥佛，位於遮蔭涼亭內。",
+        "distance": null,
+        "status": "營運中（同一日遊行程列出；與象神公園距離未查證）",
+        "sources": [
+          {"title": "The Abroad Guide：Khlong Khuean Shri Ganesh Park 與 Ban Mai Market", "url": "https://theabroadguide.com/khlong-khuean-shri-ganesh-park-100-year-old-ban-mai-market/", "date": "2026-01"}
+        ]
+      }
+    ],
+    "videos": [
+      {"role": "main", "title": "The Khlong Khuean Ganesh International Park, Chachoengsao, Thailand", "channel": "T. \"Charlie\" Lay.", "url": "https://www.youtube.com/watch?v=NTpuOMeCCmw", "video_id": "NTpuOMeCCmw", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"},
+      {"role": "backup", "title": "World's Tallest Standing Ganesha Statue: Khlong Khuean Ganesh International Park", "channel": "Endless Journey", "url": "https://www.youtube.com/watch?v=Tp5w3LfKU-0", "video_id": "Tp5w3LfKU-0", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"}
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "name_th（泰文名）",
+      "list_review_count",
+      "入場費（免費或外國人 100 銖，來源衝突）",
+      "開放時間（來源不一致）",
+      "公共交通方式",
+      "影片為英文、觀看數與上傳日",
+      "nearby 兩項與公園的實際距離（是否在 2 公里內未確認）及營業時間",
+      "2027 年 1–2 月專屬建議"
+    ]
+  }
+]

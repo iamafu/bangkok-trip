@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Hallmark · macrostructure: 11-catalogue · tone: atmospheric · 樣板 A 夜市票券 -->
+<title>曼谷手冊 · A 夜市票券</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&family=Space+Grotesk:wght@500;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: oklch(16% 0.025 300);
+  --paper-2: oklch(22% 0.03 300);
+  --ink: oklch(96% 0.01 90);
+  --muted: oklch(74% 0.03 300);
+  --accent: oklch(72% 0.22 355);
+  --accent-2: oklch(86% 0.16 95);
+  --accent-ink: oklch(16% 0.025 300);
+  --rule: oklch(40% 0.04 300);
+  --focus: oklch(88% 0.16 95);
+  --font-display: "Noto Sans TC", "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 40px;
+}
+* { box-sizing: border-box; }
+html, body { overflow-x: clip; margin: 0; }
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Noto Sans TC", sans-serif;
+  line-height: 1.6;
+  padding: var(--space-lg) var(--space-md) var(--space-xl);
+  background-image: radial-gradient(circle at 85% -10%, oklch(30% 0.1 355 / 0.35), transparent 55%);
+  background-attachment: fixed;
+}
+h1, h2, h3 { font-family: var(--font-display); font-style: normal; margin: 0; overflow-wrap: anywhere; min-width: 0; }
+h1 { font-size: clamp(2rem, 6vw, 3.4rem); font-weight: 900; line-height: 1.1; }
+h2 { font-size: 1.4rem; font-weight: 900; color: var(--accent-2); margin: var(--space-xl) 0 var(--space-md); }
+h3 { font-size: 1.2rem; font-weight: 700; }
+p { margin: 0; }
+.lede { color: var(--muted); margin-top: var(--space-md); max-width: 46ch; }
+.areas { display: flex; flex-wrap: wrap; gap: 8px; margin-top: var(--space-lg); }
+.areas a {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--ink);
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  padding: 6px 14px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.areas a:hover { border-color: var(--accent); color: var(--accent); }
+.areas a:focus-visible, button:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.ticket {
+  position: relative;
+  background: var(--paper-2);
+  border-radius: 14px;
+  padding: var(--space-lg);
+  margin-bottom: var(--space-lg);
+  display: grid;
+  gap: var(--space-md);
+  border: 1px dashed var(--rule);
+}
+.ticket::before, .ticket::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--paper);
+  transform: translateY(-50%);
+}
+.ticket::before { left: -11px; }
+.ticket::after { right: -11px; }
+.ticket-no { font-family: var(--font-mono); font-size: 0.8rem; color: var(--muted); }
+.badge {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--accent-ink);
+  background: var(--accent-2);
+  border-radius: 6px;
+  padding: 2px 8px;
+  justify-self: start;
+}
+.facts { display: grid; gap: 6px; margin: 0; }
+.facts div { display: grid; grid-template-columns: 5.5em minmax(0, 1fr); gap: 8px; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; overflow-wrap: anywhere; }
+.facade {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 10px;
+  background: linear-gradient(135deg, var(--paper), var(--rule));
+  color: var(--ink);
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  font-family: var(--font-mono);
+}
+.facade:active { transform: scale(0.99); }
+.facade:disabled { opacity: 0.55; cursor: not-allowed; }
+.play { width: 56px; height: 56px; border-radius: 50%; background: var(--accent); display: grid; place-items: center; }
+.vote { display: flex; flex-wrap: wrap; gap: 8px; }
+.vote button {
+  font: inherit;
+  font-family: var(--font-mono);
+  min-height: 44px;
+  padding: 0 16px;
+  border-radius: 999px;
+  border: 1px solid var(--rule);
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.vote button:hover { border-color: var(--accent); }
+.vote button:active { background: var(--paper); }
+.vote button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.vote button:disabled { opacity: 0.55; cursor: not-allowed; }
+.nearby { list-style: none; padding: 0; margin: 0; display: grid; gap: 4px; color: var(--muted); }
+.src { font-size: 0.8rem; color: var(--muted); }
+.ranking-row { display: flex; justify-content: space-between; border-bottom: 1px solid var(--rule); padding: 8px 0; font-family: var(--font-mono); }
+footer { margin-top: var(--space-xl); font-size: 0.8rem; color: var(--muted); }
+@media (min-width: 768px) {
+  .ticket { grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); align-items: start; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+@media print {
+  body { background: #fff; color: #000; }
+  .vote, .areas { display: none; }
+  .ticket { break-inside: avoid; border-color: #000; }
+}
+</style>
+</head>
+<body>
+<header>
+  <p class="badge">樣板 A · 夜市票券</p>
+  <h1 style="margin-top: 12px;">曼谷手冊</h1>
+  <p class="lede">版面與互動示意。內容皆為占位，不含查證後的事實。</p>
+  <nav class="areas" aria-label="區域">
+    <a href="#area-1">區域一</a>
+    <a href="#area-2">區域二</a>
+    <a href="#ranking">排行榜</a>
+  </nav>
+</header>
+
+<main>
+  <section id="area-1" aria-labelledby="h-area-1">
+    <h2 id="h-area-1">區域一（示意）</h2>
+    <article class="ticket" aria-labelledby="p-1">
+      <div>
+        <p class="ticket-no">NO. 001</p>
+        <h3 id="p-1">鄭王廟（Wat Arun）</h3>
+        <span class="badge">熱度：待查證</span>
+        <div class="facade-wrap">
+          <button class="facade" type="button" aria-label="播放影片（樣板占位，點擊後才會載入）">
+            <span class="play" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M8 5v14l11-7z" fill="currentColor"/></svg>
+            </span>
+          </button>
+          <p class="src">影片占位 · 正式版點擊才載入</p>
+        </div>
+      </div>
+      <div>
+        <dl class="facts">
+          <div><dt>特色</dt><dd>【資料不足，無法確認】</dd></div>
+          <div><dt>優點</dt><dd>【資料不足，無法確認】</dd></div>
+          <div><dt>缺點</dt><dd>【資料不足，無法確認】</dd></div>
+          <div><dt>票價</dt><dd>—</dd></div>
+          <div><dt>營業</dt><dd>—</dd></div>
+          <div><dt>交通</dt><dd>—</dd></div>
+        </dl>
+        <h4 style="margin: 16px 0 8px; font-family: var(--font-mono); font-weight: 500;">周邊候選</h4>
+        <ul class="nearby">
+          <li>候選地點 A（待查證）</li>
+          <li>候選地點 B（待查證）</li>
+        </ul>
+        <div class="vote" role="group" aria-label="鄭王廟投票" data-vote style="margin-top: 16px;">
+          <button type="button" aria-pressed="false">想去</button>
+          <button type="button" aria-pressed="false">考慮</button>
+          <button type="button" aria-pressed="false">不去</button>
+        </div>
+        <p class="src" style="margin-top: 12px;">來源：待補 ｜ 查證日 2026-10-12（樣板）</p>
+      </div>
+    </article>
+  </section>
+
+  <section id="area-2" aria-labelledby="h-area-2">
+    <h2 id="h-area-2">區域二（示意）</h2>
+    <article class="ticket" aria-labelledby="p-2">
+      <div>
+        <p class="ticket-no">NO. 002</p>
+        <h3 id="p-2">ICONSIAM</h3>
+        <span class="badge">熱度：待查證</span>
+        <div class="facade-wrap">
+          <button class="facade" type="button" aria-label="播放影片（樣板占位，點擊後才會載入）">
+            <span class="play" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M8 5v14l11-7z" fill="currentColor"/></svg>
+            </span>
+          </button>
+          <p class="src">影片占位 · 正式版點擊才載入</p>
+        </div>
+      </div>
+      <div>
+        <dl class="facts">
+          <div><dt>特色</dt><dd>【資料不足，無法確認】</dd></div>
+          <div><dt>優點</dt><dd>【資料不足，無法確認】</dd></div>
+          <div><dt>缺點</dt><dd>【資料不足，無法確認】</dd></div>
+          <div><dt>票價</dt><dd>—</dd></div>
+          <div><dt>營業</dt><dd>—</dd></div>
+          <div><dt>交通</dt><dd>—</dd></div>
+        </dl>
+        <h4 style="margin: 16px 0 8px; font-family: var(--font-mono); font-weight: 500;">周邊候選</h4>
+        <ul class="nearby">
+          <li>候選地點 C（待查證）</li>
+          <li>候選地點 D（待查證）</li>
+        </ul>
+        <div class="vote" role="group" aria-label="ICONSIAM投票" data-vote style="margin-top: 16px;">
+          <button type="button" aria-pressed="false">想去</button>
+          <button type="button" aria-pressed="false">考慮</button>
+          <button type="button" aria-pressed="false">不去</button>
+        </div>
+        <p class="src" style="margin-top: 12px;">來源：待補 ｜ 查證日 2026-10-12（樣板）</p>
+      </div>
+    </article>
+  </section>
+
+  <section id="ranking" aria-labelledby="h-rank">
+    <h2 id="h-rank">排行榜（示意）</h2>
+    <div class="ranking-row"><span>1. 鄭王廟（Wat Arun）</span><span>想去 —</span></div>
+    <div class="ranking-row"><span>2. ICONSIAM</span><span>想去 —</span></div>
+  </section>
+</main>
+
+<footer>
+  原始清單：2027曼谷（作者：yoshiko 小狐狸遊世界）
+</footer>
+
+<script>
+document.querySelectorAll('[data-vote]').forEach(function (group) {
+  group.addEventListener('click', function (event) {
+    var btn = event.target.closest('button');
+    if (!btn) return;
+    group.querySelectorAll('button').forEach(function (b) {
+      b.setAttribute('aria-pressed', String(b === btn));
+    });
+  });
+});
+</script>
+</body>
+</html>

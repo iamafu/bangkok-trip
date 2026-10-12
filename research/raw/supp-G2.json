@@ -1,0 +1,513 @@
+[
+  {
+    "id": "wat-arun",
+    "name_zh": "鄭王廟",
+    "name_en": "Wat Arun Ratchawararam Ratchawaramahawihan",
+    "name_th": "วัดอรุณราชวรารามราชวรมหาวิหาร",
+    "type": "寺廟",
+    "list_rating": 4.7,
+    "list_review_count": 45396,
+    "area": "曼谷（昭披耶河西岸，Thonburi 側）",
+    "coords": {
+      "lat": 13.74436,
+      "lng": 100.48808,
+      "source": "https://www.thaiholidayguide.com/attraction/wat-arun/"
+    },
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=13.74436,100.48808",
+    "status": "營運中",
+    "popularity": {
+      "level": "高",
+      "reason": "近 2 年有多個獨立來源（旅遊指南 2026、YouTube 2024 與 2025 影片、旅遊平台文章）提及且皆為正常開放。",
+      "sources": [
+        {
+          "title": "Thai Holiday Guide - Wat Arun",
+          "url": "https://www.thaiholidayguide.com/attraction/wat-arun/",
+          "date": "2026-06"
+        },
+        {
+          "title": "In Your Pocket - Bangkok's Temples: A Practical Guide",
+          "url": "https://www.inyourpocket.com/bangkok/bangkoks-temples-a-practical-guide_81141f",
+          "date": "2026"
+        },
+        {
+          "title": "2024 曼谷自由行 4 天 3 夜（YouTube，屠潔的迷路旅行）",
+          "url": "https://www.youtube.com/watch?v=aaTRaUvsx6Q",
+          "date": "2024"
+        },
+        {
+          "title": "曼谷自由行 鄭王廟、臥佛寺一日遊（YouTube，妮奇社長不上班）",
+          "url": "https://www.youtube.com/watch?v=elMDo4eG37o",
+          "date": "2025"
+        },
+        {
+          "title": "Thai Holiday Guide - Wat Arun（2026-10 複查，仍列營運資訊）",
+          "url": "https://www.thaiholidayguide.com/attraction/wat-arun/",
+          "date": "2026-06"
+        }
+      ]
+    },
+    "features": [
+      "以高聳的主塔（佛塔）為地標，位於昭披耶河畔",
+      "遊客常搭配租泰服拍照與隔河看夜景",
+      "從 Tha Tien 碼頭搭渡船即可過河，與臥佛寺、大皇宮可串成一日行程"
+    ],
+    "pros": [
+      "地標辨識度高，拍照題材豐富",
+      "渡船過河便宜且班次密",
+      "與臥佛寺、大皇宮同區，動線集中"
+    ],
+    "cons": [
+      "入場需付費（外國人 200 泰銖），且來源提醒旺季遮陽少、人潮多時圍巾可能租完",
+      "著裝限制嚴格，短褲、無袖上衣會被擋下",
+      "票價與營業時間來源間有出入，需到現場確認"
+    ],
+    "tickets": "外國人 200 泰銖（含小瓶水，In Your Pocket 稱截至 2026 年初；Thai Holiday Guide 2026-06 相同）；泰國籍免費。另有一個 Agoda 指南寫約 100 泰銖，與多數來源衝突，未採用。",
+    "hours": "每日 08:00–18:00，最後入場約 17:30（Thai Holiday Guide 2026-06，與既有資料一致；Agoda 指南寫 08:30–17:30 不採用）。寺方官方公告【資料不足，無法確認】",
+    "transport": "搭 MRT 藍線到 Sanam Chai 站，往北步行約 5 分鐘到 Tha Tien 碼頭，再搭過河渡船（約 2 分鐘、5 泰銖，約每 5–10 分鐘一班，營運至約 18:00）；或從 Sathorn（Central Pier，近 BTS Saphan Taksin）搭橘旗快船約 20 泰銖到 Tha Tien 再轉渡船；計程車／Grab 約 150–250 泰銖，請司機到「Wat Arun main entrance」。另有旅遊指南估計 Sanam Chai 站到碼頭約 850 公尺、步行約 10 分鐘，與 5 分鐘說法略有出入。（來源：https://www.thaiholidayguide.com/attraction/wat-arun/ 2026-06；https://www.busandvan.com/en-us/blog-travel-detail/59 日期未標示）",
+    "dress_code": "須遮住肩膀與膝蓋（男女皆然）；進入殿堂須脫鞋；入口附近可借或租圍裙與衣物；短褲與無肩帶上衣會被拒絕（Thai Holiday Guide 2026-06、In Your Pocket 2026）",
+    "best_time": "建議清晨 08:00 開門時入場（光線好、人少），或約 16:00 後拍瓷片細節；避開 12:00–15:00（佛塔無遮蔭）。經典日落照要從河東岸拍，不在寺內。2027 年 1–2 月專屬建議【資料不足，無法確認】（來源：https://www.thaiholidayguide.com/attraction/wat-arun/ 2026-06）",
+    "nearby": [
+      {
+        "name": "Wat Pho（臥佛寺）",
+        "why": "擁有巨大臥佛，與鄭王廟隔河相望，過河渡船連接兩寺。",
+        "distance": "兩地座標直線距離約 0.7 公里（依來源座標自行估算），搭渡船約數分鐘",
+        "status": "營運中（外國人 300 泰銖，每日約 08:30–19:30，Thai Holiday Guide 2026-06；其他來源營業時間不一）",
+        "sources": [
+          {
+            "title": "Thai Holiday Guide - Wat Pho",
+            "url": "https://www.thaiholidayguide.com/attraction/wat-pho/",
+            "date": "2026-06"
+          }
+        ]
+      },
+      {
+        "name": "Kudi Chin 社區與 Santa Cruz 教堂",
+        "why": "葡裔社區，有米色圓頂教堂、小型博物館與傳統葡式蛋糕店，安靜好拍。",
+        "distance": "兩地座標直線距離約 0.8 公里（依來源座標自行估算），位於鄭王廟同岸",
+        "status": "營運中（社區無門票；教堂開放入內 17:00–19:30 週一至週六；Baan Kudichin 博物館週二至週日 09:30–18:00，週一休；2026-07 來源）",
+        "sources": [
+          {
+            "title": "Thai Holiday Guide - Kudi Chin Community",
+            "url": "https://www.thaiholidayguide.com/attraction/kudi-chin-community/",
+            "date": "2026-07"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "role": "main",
+        "title": "🇹🇭曼谷自由行🌴獅王廟、臥佛寺參訪一日遊🛕泰服體驗、ICONSIAM購物百貨吃美食街🍍｜妮奇社長不上班",
+        "channel": "妮奇社長不上班",
+        "url": "https://www.youtube.com/watch?v=elMDo4eG37o",
+        "video_id": "elMDo4eG37o",
+        "views_at_check": null,
+        "published": null,
+        "embeddable": true,
+        "checked_on": "2026-10-12"
+      },
+      {
+        "role": "backup",
+        "title": "2024曼谷自由行｜泰國「免籤」4天3夜全攻略，11景點：鄭王廟拍泰服、最新網紅打卡咖啡廳、美拍象神博物館一次蒐集！｜屠潨's迷路旅行",
+        "channel": "屠潨 一起迷路旅行",
+        "url": "https://www.youtube.com/watch?v=aaTRaUvsx6Q",
+        "video_id": "aaTRaUvsx6Q",
+        "views_at_check": null,
+        "published": null,
+        "embeddable": true,
+        "checked_on": "2026-10-12"
+      }
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "寺方官方公告的票價與開放時間，現為旅遊網站轉述",
+      "渡船票價（來源 3–5 泰銖不一）",
+      "2027 年 1–2 月專屬建議",
+      "兩支影片的觀看數與上傳日（oembed 不提供）",
+      "In Your Pocket 與影片的精確年月",
+      "maps_url 為依座標組成的 Google 地圖搜尋連結，座標來自 Thai Holiday Guide"
+    ]
+  },
+  {
+    "id": "wat-phuttha-prommayan",
+    "name_zh": "Wat Phuttha Prommayan",
+    "name_en": "Wat Phutthaprommayan",
+    "name_th": "วัดพุทธพรหมยาน",
+    "type": "寺廟",
+    "list_rating": 4.7,
+    "list_review_count": 1084,
+    "area": "泰國北柳府（Chachoengsao）Khlong Khuean 縣 Bang Talat 區，Ko Lat 小島、Bang Pakong 河中（Google 地圖解析結果；Trip.com 寫 Bang Khla 縣 Pak Nam 區，見 identity_note）",
+    "coords": null,
+    "maps_url": "https://maps.app.goo.gl/vz2hYxgRQAB9Lyyu8",
+    "status": "營運中",
+    "popularity": {
+      "level": "中",
+      "reason": "近 2 年僅查到 Trip.com 2026-07 條目、旅客貼文與少量 YouTube 影片，未見獨立媒體報導，判為中。",
+      "sources": [
+        {
+          "title": "Trueid 旅遊文章（含 Google 地圖連結，寺位於 Bang Talat, Khlong Khuean）",
+          "url": "https://travel.trueid.net/detail/LrmPoL2qn7VX",
+          "date": "2026-07"
+        },
+        {
+          "title": "Trip.com 北柳府寺廟列表（含 วัดพุทธพรหมยาน）",
+          "url": "https://th.trip.com/guide/attraction/temples-in-chachoengsao.html",
+          "date": "2026-07"
+        },
+        {
+          "title": "Trip.com 旅客貼文（Khlong Khuean）",
+          "url": "https://ae.trip.com/moments/detail/khlong-khuean-1447238-128517636",
+          "date": "資料不足"
+        },
+        {
+          "title": "Thailand - Chachoengsao - Wat Phuttha Prommayan（YouTube）",
+          "url": "https://www.youtube.com/watch?v=ag9WMKp1OBY",
+          "date": "資料不足"
+        },
+        {
+          "title": "Trip.com Khlong Khuean 2026 旅遊指南（列出本寺）",
+          "url": "https://uk.trip.com/travel-guide/destination/khlong-khuean-1447238",
+          "date": "2026"
+        }
+      ]
+    },
+    "features": [
+      "位於 Bang Pakong 河中小島 Ko Lat，環境清靜",
+      "來源描述殿堂外牆與內部柱子滿布玻璃鑲嵌裝飾，日照下閃亮（旅客貼文）",
+      "有大型臥佛（旅客貼文稱高約 11 公尺，單一來源，未驗證）",
+      "可順遊 Bang Pakong 河泛舟看河岸生活"
+    ],
+    "pros": [
+      "玻璃鑲嵌殿堂與河中小島的景色在北柳府較少見",
+      "環境安靜，適合拍照與靜心參拜",
+      "清單評分 4.7（1,084 則），遊客對寺評價偏高"
+    ],
+    "cons": [
+      "位於北柳府小島，需搭船或轉乘，行程門檻高",
+      "營業時間、渡船時間來源間不一致，需出發前確認",
+      "中文資料與近期獨立報導少"
+    ],
+    "tickets": "【資料不足，無法確認】（Trip.com 與 trueid 皆未提及票價）",
+    "hours": "每日 09:00–17:00（Trip.com 泰文條目內文，2026-07-16；同頁摘要表寫 08:00–17:00，來源內部不一致）。",
+    "transport": "位於 Bang Pakong 河中的 Ko Lat 島，Trip.com 常見問答稱需搭船前往，但無班次、票價、營運方；有旅客留言渡船 20 泰銖（單一來源，未驗證）。以自駕或包車為主；同區的象神公園距曼谷約 100 公里，可作車程參考，但本寺精確座標與車程【資料不足，無法確認】。（來源：https://th.trip.com/guide/attraction/temples-in-chachoengsao.html 2026-07；https://wanderlog.com/place/details/2155150/the-khlong-khuean-ganesh-international-park）",
+    "dress_code": "【資料不足，無法確認】（本寺無專屬規定；Trip.com 泰文條目僅給北柳府寺廟通則：穿有袖上衣與長褲或長裙，來源 https://th.trip.com/guide/attraction/temples-in-chachoengsao.html 2026-07）",
+    "best_time": null,
+    "nearby": [],
+    "videos": [
+      {
+        "role": "main",
+        "title": "Thailand - Chachoengsao - Wat Phuttha Prommayan | Hidden Buddhist Temple in Chachoengsao Thailand",
+        "channel": "Thailand Travel Guide",
+        "url": "https://www.youtube.com/watch?v=ag9WMKp1OBY",
+        "video_id": "ag9WMKp1OBY",
+        "views_at_check": null,
+        "published": null,
+        "embeddable": true,
+        "checked_on": "2026-10-12"
+      },
+      {
+        "role": "backup",
+        "title": "วัดพุทธธรรมยาน จ.ฉะเชิงเทรา วัดโบสถ์แก้ว2ชั้น ติดริมแม่น้ำบางปะกง",
+        "channel": "iPenporny Channel",
+        "url": "https://www.youtube.com/watch?v=XUXFxb1buzA",
+        "video_id": "XUXFxb1buzA",
+        "views_at_check": null,
+        "published": null,
+        "embeddable": true,
+        "checked_on": "2026-10-12"
+      }
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "coords（Google 地圖頁解析不出座標，OSM 查無條目）",
+      "行政區歸屬（Bang Talat/Khlong Khuean vs Pak Nam/Bang Khla）",
+      "票價",
+      "本寺專屬著裝規定",
+      "渡船方式、費用、班次",
+      "best_time（2027 年 1–2 月）",
+      "影片觀看數與上傳日",
+      "周邊候選與距離"
+    ],
+    "identity_note": "身分與位置有來源矛盾：Google 地圖短連結（trueid 2026-07 引用）解析為「วัดพุทธพรหมยาน 99 ตำบลบางตลาด อำเภอคลองเขื่อน ฉะเชิงเทรา 24110」，即北柳府 Khlong Khuean 縣 Bang Talat 區；Trip.com 泰文條目（2026-07）則寫 Pak Nam 區、Bang Khla 縣、地址 59 หมู่ปากน้ำ，摘要表又寫 Mueang Chachoengsao 區；Trip.com 另有碼頭名稱「Wat Phutthapromyan Pier, Bang Khla」。三者不一致，本檔以 Google 地圖解析結果（Bang Talat, Khlong Khuean）為主，其餘列為待查。備用影片標題拼為「พุทธธรรมยาน」，與寺名略異。Tripniceday 將本寺列為象神公園的周邊景點（未標日期）。（來源：https://travel.trueid.net/detail/LrmPoL2qn7VX 引用的 Google 地圖連結 https://maps.app.goo.gl/vz2hYxgRQAB9Lyyu8；https://th.trip.com/guide/attraction/temples-in-chachoengsao.html 2026-07）",
+    "nearby_note": "未找到座標與本寺距離可驗證、且不與清單重複的 2 公里內候選。象神公園（同區）已在清單內故排除；Wat Pho Bang Khla 屬 Bang Khla 縣，與本寺距離未驗證，故撤回原候選。"
+  },
+  {
+    "id": "ancient-siam",
+    "name_zh": "暹羅古城",
+    "name_en": "Ancient Siam（Ancient City／Muang Boran）",
+    "name_th": "เมืองโบราณ（Muang Boran）",
+    "type": "景點",
+    "list_rating": 4.5,
+    "list_review_count": null,
+    "area": "泰國龍仔厝府（Samut Prakan）Bang Pu，位於曼谷市區外東南方；地址 296/1 Sukhumvit Road, Bangpoo",
+    "coords": {
+      "lat": 13.539215,
+      "lng": 100.623042,
+      "source": "https://www.muangboranmuseum.com/"
+    },
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=13.539215,100.623042",
+    "status": "營運中",
+    "popularity": {
+      "level": "高",
+      "reason": "官網 2026-08 仍有活動公告且營運時間與票價完整；Thai Holiday Guide（2026-07）、Tripomatic（2026）獨立介紹，皆正常營運。",
+      "sources": [
+        {
+          "title": "Muang Boran Museum 官方網站（新聞 2026-08-25、票價頁）",
+          "url": "https://www.muangboranmuseum.com/",
+          "date": "2026-08"
+        },
+        {
+          "title": "Thai Holiday Guide - Ancient City",
+          "url": "https://www.thaiholidayguide.com/attraction/ancient-city/",
+          "date": "2026-07"
+        },
+        {
+          "title": "Tripomatic - Ancient Siam",
+          "url": "https://tripomatic.com/en/poi/ancient-siam-poi:20054",
+          "date": "2026"
+        },
+        {
+          "title": "This Life of Travel - Ancient Siam Bangkok Guide",
+          "url": "https://www.thislifeoftravel.com/thailand/ancient-siam-bangkok",
+          "date": "2020-04"
+        },
+        {
+          "title": "Tiqets - Ancient Siam tickets",
+          "url": "https://www.tiqets.com/de/tickets-ancient-siam-l146903",
+          "date": "資料不足"
+        }
+      ]
+    },
+    "features": [
+      "戶外博物館，園區形狀仿泰國地圖，重現各地地標建築",
+      "園區超過 200 英畝，來源稱 1963 年起營運",
+      "園內可騎免費腳踏車、搭免費電車，或租付費高爾夫球車"
+    ],
+    "pros": [
+      "地標縮影集中，一天可看遍各地建築風格",
+      "園內自行車免費，適合想活動的人",
+      "可在票務平台買折扣票，也有與 Erawan 博物館的合購票"
+    ],
+    "cons": [
+      "園區很大，遇到正午高溫相當辛苦",
+      "免費電車只停約 4 個點，涵蓋範圍有限",
+      "官網票價為外國人 800 泰銖，部分平台折扣價約 300–380 泰銖（舊資料，現行折扣未查證）",
+      "電動車租借另計（約 250–350 泰銖，單一來源）"
+    ],
+    "tickets": "外國人成人 800 泰銖、兒童（6–14 歲）400 泰銖；泰國籍成人 400、兒童 250（官方票價頁，票價圖檔上傳資料夾為 2026/04，頁面無明確日期）。舊有 700 泰銖說法已過時，不採用。園內自行車租借約 50 泰銖、電動車約 250–350 泰銖（Thai Holiday Guide 2026-07，單一來源）。（來源：https://www.muangboranmuseum.com/ticket/；https://www.thaiholidayguide.com/attraction/ancient-city/）",
+    "hours": "每日 09:00–19:00，18:00 停止售票（官網首頁與票價頁；Thai Holiday Guide 2026-07 相同）。",
+    "transport": "離曼谷市區較遠，位於龍仔厝府（Samut Prakan）。搭 BTS 綠線（Sukhumvit 線）到終點站 Kheha，再轉計程車／Grab 或雙條車沿 Sukhumvit 路前往；園區門口無軌道站。官網標示從 BTS Siam 到 Kheha 約 45 分鐘，Kheha 到園區另計（官網未註明車程）。直接叫車最簡單。（來源：https://www.muangboranmuseum.com/ 2026；https://www.thaiholidayguide.com/attraction/ancient-city/ 2026-07）。Kheha 站至園區的車程分鐘數【資料不足，無法確認】。",
+    "dress_code": "【資料不足，無法確認】（官網與 Thai Holiday Guide 皆未載明，僅建議穿好走的鞋與防曬）",
+    "best_time": null,
+    "nearby": [
+      {
+        "name": "Bang Pu Recreation Center（邦府海濱休閒中心，海鷗）",
+        "why": "冬季有大量遷徙海鷗聚集，海邊木棧道好拍，1–2 月正值海鷗季。",
+        "distance": "與古城座標直線約 4 公里（依來源座標自行估算），開車短程，實際車程未查證",
+        "status": "營運中（每日 05:30–19:00，免費含停車；海鷗季約 11 月至 4 月、尤以 11–1 月，Thai Holiday Guide 2026-07；LoveThailand 另寫 10:00–20:00，來源不一）",
+        "sources": [
+          {
+            "title": "Thai Holiday Guide - Bang Pu Recreation Center",
+            "url": "https://www.thaiholidayguide.com/attraction/bang-pu-recreation-center/",
+            "date": "2026-07"
+          },
+          {
+            "title": "LoveThailand - Bang Pu Recreation Center",
+            "url": "https://www.lovethailand.org/travel/en/30-Samut-Prakan/1958-Bang-Pu-Recreation-Center.html",
+            "date": "日期未標示"
+          }
+        ]
+      },
+      {
+        "name": "The Erawan Museum（三頭象神博物館）",
+        "why": "三頭象造型建築與多層展廳，常與古城合購門票。",
+        "distance": "座標直線約 10.6 公里（自行估算；搜尋來源寫約 10 公里），同府但超過 2 公里，車程未查證",
+        "status": "營運中（500 泰銖，每日 09:00–18:00，售票至 17:00，Thai Holiday Guide 2026-07）",
+        "sources": [
+          {
+            "title": "Thai Holiday Guide - Erawan Museum",
+            "url": "https://www.thaiholidayguide.com/attraction/erawan-museum/",
+            "date": "2026-07"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "role": "main",
+        "title": "Bangkok's Ancient City 🇹🇭 Did you know about THIS place? Fun & Easy Day Trip in Bangkok",
+        "channel": "Roots Abroad",
+        "url": "https://www.youtube.com/watch?v=PPs9frgpncM",
+        "video_id": "PPs9frgpncM",
+        "views_at_check": null,
+        "published": null,
+        "embeddable": true,
+        "checked_on": "2026-10-12"
+      },
+      {
+        "role": "backup",
+        "title": "Inside Thailand's Ancient City 🇹🇭 | Temples, Floating Market & Ghost Museum",
+        "channel": "Ez Unplugged",
+        "url": "https://www.youtube.com/watch?v=fk-HYmPXfJ8",
+        "video_id": "fk-HYmPXfJ8",
+        "views_at_check": null,
+        "published": null,
+        "embeddable": true,
+        "checked_on": "2026-10-12"
+      }
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "官網票價頁無明確日期（僅圖檔資料夾 2026/04）",
+      "Kheha 站至園區車程分鐘數",
+      "著裝規定",
+      "best_time（2027 年 1–2 月）",
+      "影片觀看數與上傳日，且未找到中文影片",
+      "清單評論數",
+      "Bang Pu 與 Erawan 的實際車程",
+      "座標三來源有差距，採官網標記"
+    ],
+    "coords_note": "官方網站內嵌 Google 地圖標記約為 13.539215, 100.623042；Thai Holiday Guide 為 13.54068, 100.62388，相差約 150 公尺；既有值（13.54679, 100.62836）與官方標記差約 1 公里，已改採官方。",
+    "address": "296/1 Moo 7, Sukhumvit Road, Bang Pu Mai, Mueang Samut Prakan, Samut Prakan 10280；電話 02-026-8800-9（官網）",
+    "best_time_note": "2027 年 1–2 月專屬建議【資料不足，無法確認】；官網新聞頁截至 2026-08 無 2027 年 1–2 月休園或整修公告（https://www.muangboranmuseum.com/news/）。"
+  },
+  {
+    "id": "khlong-khuean-ganesh-park",
+    "name_zh": "The Khlong Khuean Ganesh International Park",
+    "name_en": "The Khlong Khuean Ganesh International Park (Khlong Khuean Shri Ganesh Park)",
+    "name_th": null,
+    "type": "公園／景點",
+    "list_rating": 4.7,
+    "list_review_count": null,
+    "area": "北柳府（Chachoengsao）Khlong Khuean 縣 Bang Talat（不在曼谷市內，距曼谷約 100 公里，影片說明寫約 106 公里）",
+    "coords": {
+      "lat": 13.735451,
+      "lng": 101.174505,
+      "source": "https://wanderlog.com/place/details/2155150/the-khlong-khuean-ganesh-international-park"
+    },
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=13.735451,101.174505",
+    "status": "營運中",
+    "popularity": {
+      "level": "高",
+      "reason": "2026 年 Tripadvisor、Trip.com、Wanderlog 與旅遊部落格皆有條目與評論，Google 評分約 4.7（Wanderlog 顯示 9,745 則）。",
+      "sources": [
+        {
+          "title": "Wanderlog：The Khlong Khuean Ganesh International Park",
+          "url": "https://wanderlog.com/place/details/2155150/the-khlong-khuean-ganesh-international-park",
+          "date": "2026-01"
+        },
+        {
+          "title": "Tripadvisor：Khlong Khuean Ganesh International park",
+          "url": "https://www.tripadvisor.com/Attraction_Review-g2237252-d15032701-Reviews-Khlong_Khuean_Ganesh_International_park-Khlong_Khuean_Chachoengsao_Province.html",
+          "date": "2026-01"
+        },
+        {
+          "title": "Trip.com：The Khlong Khuean Ganesh International Park",
+          "url": "https://www.trip.com/travel-guide/attraction/khlong-khuean/the-khlong-khuean-ganesh-international-park-133523648/",
+          "date": "2026-01"
+        },
+        {
+          "title": "The Abroad Guide：Khlong Khuean Shri Ganesh Park 與 Ban Mai Market",
+          "url": "https://theabroadguide.com/khlong-khuean-shri-ganesh-park-100-year-old-ban-mai-market/",
+          "date": "2026-01"
+        },
+        {
+          "title": "Expedia 曼谷出發全日遊（含象神公園、Ban Mai 市場）",
+          "url": "https://www.expedia.com.my/things-to-do/worlds-tallest-ganesha-and-temple-of-bat-full-day-tour-bangkok.a2152427.activity-details",
+          "date": "日期未標示"
+        }
+      ]
+    },
+    "features": [
+      "園區主體為約 39 公尺的青銅站立象神像，多個來源稱為世界最高之一（「世界最高」說法無權威機構認證）。",
+      "位於 Bang Pakong 河畔，有庭園步道，訪客常赤腳繞行，步道鋪藍色墊。",
+      "有英泰雙語標示與大停車場；婆羅門祈福儀式有固定時段（約 11:00、14:00、16:00，因日而異）。"
+    ],
+    "pros": [
+      "雕像規模壯觀、拍照效果好。",
+      "環境整潔，設施完善。",
+      "常與 Ban Mai Market、鄰近寺廟組成一日遊。"
+    ],
+    "cons": [
+      "不在曼谷市區，需包車或自駕，單日往返約 8 小時。",
+      "入場費各來源不一致，須現場確認。",
+      "日曬強，需防曬與襪子（赤腳走道會燙）。"
+    ],
+    "tickets": "Wanderlog 與 Trip.com 寫免費；2026-01 一則 Google 評論稱外國人 100 銖並附花環；本次查詢未找到官方公告，維持「來源衝突，須現場確認」。",
+    "hours": "Wanderlog：週一至五 09:00–17:00，週末 07:30–18:00；Trip.com 寫週一至五 08:00–17:00，週末與假日 07:30–18:00；Tripniceday 寫每日 08:00–18:00（日期未標示）。來源不一，出發前確認。",
+    "transport": "距曼谷約 100 公里，無可靠公共交通資料，需包車或自駕。Expedia 曼谷出發全日遊稱車程約 1.5 小時；Travelocity 私人司機行程約 10 小時、含飯店接送。（來源：https://www.expedia.com.my/things-to-do/worlds-tallest-ganesha-and-temple-of-bat-full-day-tour-bangkok.a2152427.activity-details；https://www.travelocity.com/things-to-do/chachoengsao-biggest-ganesh.a52718761.activity-details，日期未標示）。公共交通【資料不足，無法確認】；Trip.com 提到的 Ekkamai 小巴指的是 Bang Khla，不可套用。",
+    "dress_code": "園區須赤腳走步道，來源建議天熱帶襪子（Wanderlog）。園區正式著裝規定【資料不足，無法確認】；同日行程的寺廟（如 Wat Saman Rattanaram）須遮肩膝並脫鞋（Thai Holiday Guide 2026-07）。",
+    "best_time": "建議平日或清晨前往避開人潮；評論稱傍晚較涼（Tripniceday，日期未標示）；天熱帶襪子。2027 年 1–2 月專屬建議【資料不足，無法確認】（來源：https://wanderlog.com/place/details/2155150/the-khlong-khuean-ganesh-international-park）",
+    "nearby": [
+      {
+        "name": "Wat Saman Rattanaram（粉紅臥象神寺）",
+        "why": "有 16 公尺高的粉紅臥象神像，色彩鮮明好拍。",
+        "distance": "座標直線約 5.2 公里（依 Thai Holiday Guide 座標自行估算），開車短程，車程未查證",
+        "status": "營運中（每日 08:00–17:00，免費，須遮肩膝並脫鞋入殿，Thai Holiday Guide 2026-07）",
+        "sources": [
+          {
+            "title": "Thai Holiday Guide - Wat Saman Ratanaram",
+            "url": "https://www.thaiholidayguide.com/attraction/wat-saman-ratanaram/",
+            "date": "2026-07"
+          },
+          {
+            "title": "The Abroad Guide 行程",
+            "url": "https://theabroadguide.com/khlong-khuean-shri-ganesh-park-100-year-old-ban-mai-market/",
+            "date": "2026"
+          }
+        ]
+      },
+      {
+        "name": "Ban Mai Riverside Market（百年古市場）",
+        "why": "約百年歷史的河岸木造老街市集，邊逛邊吃。",
+        "distance": "座標直線約 9.8 公里（自行估算），車程未查證",
+        "status": "僅週六、日 08:00–17:00 營運，國定假日也熱鬧，平日多數店家休息（Thai Holiday Guide 2026-07）",
+        "sources": [
+          {
+            "title": "Thai Holiday Guide - Baan Mai Riverside Market",
+            "url": "https://www.thaiholidayguide.com/attraction/baan-mai-riverside-market/",
+            "date": "2026-07"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "role": "main",
+        "title": "The Khlong Khuean Ganesh International Park, Chachoengsao, Thailand",
+        "channel": "T. \"Charlie\" Lay.",
+        "url": "https://www.youtube.com/watch?v=NTpuOMeCCmw",
+        "video_id": "NTpuOMeCCmw",
+        "views_at_check": null,
+        "published": null,
+        "embeddable": true,
+        "checked_on": "2026-10-12"
+      },
+      {
+        "role": "backup",
+        "title": "World's Tallest Standing Ganesha Statue: Khlong Khuean Ganesh International Park",
+        "channel": "Endless Journey",
+        "url": "https://www.youtube.com/watch?v=Tp5w3LfKU-0",
+        "video_id": "Tp5w3LfKU-0",
+        "views_at_check": null,
+        "published": null,
+        "embeddable": true,
+        "checked_on": "2026-10-12"
+      }
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "name_th",
+      "list_review_count",
+      "入場費（免費 vs 外國人 100 銖，來源衝突）",
+      "開放時間（來源不一致）",
+      "公共交通方式",
+      "園區正式著裝規定",
+      "best_time（2027 年 1–2 月）",
+      "影片為英文、觀看數與上傳日，未找到中文影片",
+      "周邊候選實際車程"
+    ],
+    "coords_note": "OpenStreetMap 另有條目座標 13.7361621, 101.1749121（與 Wanderlog 差約 100 公尺），互相吻合。",
+    "nearby_note": "兩個候選距離皆為直線估算，且超過 2 公里，依指示屬同府內遠距離景點，需包車串聯；車程分鐘數未查到可信來源。"
+  }
+]

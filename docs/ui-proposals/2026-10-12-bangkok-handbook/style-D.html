@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Hallmark · macrostructure: 13-index-first · tone: modern-minimal · 樣板 D 瑞士極簡 -->
+<title>曼谷手冊 · D 瑞士極簡</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700&family=Noto+Sans+TC:wght@400;500&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: oklch(98% 0.005 90);
+  --ink: oklch(18% 0.005 90);
+  --muted: oklch(48% 0.005 90);
+  --rule: oklch(86% 0.005 90);
+  --signal: oklch(66% 0.22 40);
+  --signal-ink: oklch(18% 0.005 90);
+  --focus: oklch(18% 0.005 90);
+  --font-display: "Archivo", "Noto Sans TC", sans-serif;
+  --font-body: "Noto Sans TC", sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 32px;
+  --space-xl: 56px;
+}
+* { box-sizing: border-box; }
+html, body { overflow-x: clip; margin: 0; }
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  line-height: 1.55;
+  padding: var(--space-lg) var(--space-md) var(--space-xl);
+}
+.wrap { max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-lg); }
+@media (min-width: 900px) {
+  .wrap { grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--space-md); }
+  .head { grid-column: 1 / span 12; }
+}
+h1, h2, h3 { font-family: var(--font-display); font-weight: 700; margin: 0; overflow-wrap: anywhere; min-width: 0; letter-spacing: -0.01em; }
+h1 { font-size: clamp(2.4rem, 8vw, 4.2rem); line-height: 1; }
+h2 { font-size: 1.4rem; }
+h3 { font-size: 1.15rem; }
+.mono { font-family: var(--font-mono); font-size: 0.8rem; color: var(--muted); }
+.lede { color: var(--muted); max-width: 52ch; margin-top: var(--space-md); }
+.nav { display: flex; flex-wrap: wrap; gap: 0; margin-top: var(--space-md); border-top: 1px solid var(--ink); }
+.nav a {
+  flex: 1 1 auto;
+  padding: 12px 0;
+  text-align: center;
+  color: var(--ink);
+  text-decoration: none;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  border-bottom: 1px solid var(--rule);
+  white-space: nowrap;
+  min-width: 44px;
+}
+.nav a:hover { color: var(--signal); }
+.nav a:focus-visible, button:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.entry { border-top: 1px solid var(--ink); padding-top: var(--space-md); display: grid; gap: var(--space-md); grid-template-columns: minmax(0, 1fr); }
+@media (min-width: 900px) {
+  .entry { grid-template-columns: 1fr 2fr 2fr; column-gap: var(--space-md); }
+  .entry > .idx { grid-column: 1 / span 1; }
+  .entry > .main { grid-column: 2 / span 1; }
+  .entry > .data { grid-column: 3 / span 1; }
+}
+.idx { font-family: var(--font-mono); font-size: 2.2rem; line-height: 1; color: var(--signal); }
+.facade {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  display: grid;
+  place-items: center;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  cursor: pointer;
+  border-radius: 0;
+}
+.facade:active { background: var(--rule); }
+.facade:disabled { opacity: 0.55; cursor: not-allowed; }
+.spec { margin: 0; display: grid; gap: 0; }
+.spec div { display: grid; grid-template-columns: 6em minmax(0, 1fr); border-top: 1px solid var(--rule); padding: 8px 0; gap: 8px; }
+.spec dt { font-family: var(--font-mono); font-size: 0.8rem; color: var(--muted); }
+.spec dd { margin: 0; overflow-wrap: anywhere; }
+.seg {
+  display: inline-flex;
+  flex-wrap: wrap;
+  border: 1px solid var(--ink);
+  margin-top: var(--space-md);
+}
+.seg button {
+  font: inherit;
+  min-height: 44px;
+  padding: 0 14px;
+  border: 0;
+  border-right: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.seg button:last-child { border-right: 0; }
+.seg button:hover { background: var(--rule); }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+.seg button:disabled { opacity: 0.55; cursor: not-allowed; }
+.nearby { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; color: var(--muted); display: grid; gap: 4px; }
+.src { font-family: var(--font-mono); font-size: 0.75rem; color: var(--muted); margin-top: var(--space-sm); }
+.rank { border-top: 1px solid var(--ink); padding-top: var(--space-md); }
+.rank-row { display: grid; grid-template-columns: 3em minmax(0, 1fr) 6em; gap: 8px; padding: 10px 0; border-bottom: 1px solid var(--rule); font-family: var(--font-mono); font-size: 0.9rem; }
+footer { font-family: var(--font-mono); font-size: 0.75rem; color: var(--muted); }
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+@media print {
+  body { background: #fff; color: #000; }
+  .nav, .seg { display: none; }
+  .entry { break-inside: avoid; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="head">
+    <p class="mono">樣板 D · 瑞士極簡</p>
+    <h1>曼谷手冊</h1>
+    <p class="lede">版面與互動示意。內容皆為占位，不含查證後的事實。</p>
+    <nav class="nav" aria-label="區域">
+      <a href="#area-1">區域一</a>
+      <a href="#area-2">區域二</a>
+      <a href="#rank">排行</a>
+    </nav>
+  </header>
+
+  <section id="area-1" class="entry" aria-labelledby="h-d1">
+    <div class="idx" aria-hidden="true">01</div>
+    <div class="main">
+      <h2 id="h-d1">鄭王廟（Wat Arun）</h2>
+      <p class="mono" style="margin-top: 8px;">熱度：待查證</p>
+      <button class="facade" type="button" aria-label="播放影片（樣板占位，點擊後才會載入）" style="margin-top: var(--space-md);">影片占位 · 點擊後才會載入</button>
+      <div class="seg" role="group" aria-label="鄭王廟投票" data-vote>
+        <button type="button" aria-pressed="false">想去</button>
+        <button type="button" aria-pressed="false">考慮</button>
+        <button type="button" aria-pressed="false">不去</button>
+      </div>
+    </div>
+    <dl class="data spec">
+      <div><dt>特色</dt><dd>【資料不足，無法確認】</dd></div>
+      <div><dt>優點</dt><dd>【資料不足，無法確認】</dd></div>
+      <div><dt>缺點</dt><dd>【資料不足，無法確認】</dd></div>
+      <div><dt>票價</dt><dd>—</dd></div>
+      <div><dt>營業</dt><dd>—</dd></div>
+      <div><dt>交通</dt><dd>—</dd></div>
+      <div><dt>周邊</dt><dd><ul class="nearby"><li>候選地點 A（待查證）</li><li>候選地點 B（待查證）</li></ul></dd></div>
+      <div><dt>來源</dt><dd class="src">待補｜查證日 2026-10-12（樣板）</dd></div>
+    </dl>
+  </section>
+
+  <section id="area-2" class="entry" aria-labelledby="h-d2">
+    <div class="idx" aria-hidden="true">02</div>
+    <div class="main">
+      <h2 id="h-d2">ICONSIAM</h2>
+      <p class="mono" style="margin-top: 8px;">熱度：待查證</p>
+      <button class="facade" type="button" aria-label="播放影片（樣板占位，點擊後才會載入）" style="margin-top: var(--space-md);">影片占位 · 點擊後才會載入</button>
+      <div class="seg" role="group" aria-label="ICONSIAM投票" data-vote>
+        <button type="button" aria-pressed="false">想去</button>
+        <button type="button" aria-pressed="false">考慮</button>
+        <button type="button" aria-pressed="false">不去</button>
+      </div>
+    </div>
+    <dl class="data spec">
+      <div><dt>特色</dt><dd>【資料不足，無法確認】</dd></div>
+      <div><dt>優點</dt><dd>【資料不足，無法確認】</dd></div>
+      <div><dt>缺點</dt><dd>【資料不足，無法確認】</dd></div>
+      <div><dt>票價</dt><dd>—</dd></div>
+      <div><dt>交通</dt><dd>—</dd></div>
+      <div><dt>周邊</dt><dd><ul class="nearby"><li>候選地點 C（待查證）</li><li>候選地點 D（待查證）</li></ul></dd></div>
+      <div><dt>來源</dt><dd class="src">待補｜查證日 2026-10-12（樣板）</dd></div>
+    </dl>
+  </section>
+
+  <section id="rank" class="rank" aria-labelledby="h-drank">
+    <h2 id="h-drank">排行（示意）</h2>
+    <div class="rank-row"><span>01</span><span>鄭王廟（Wat Arun）</span><span>想去 —</span></div>
+    <div class="rank-row"><span>02</span><span>ICONSIAM</span><span>想去 —</span></div>
+  </section>
+
+  <footer>原始清單：2027曼谷（作者：yoshiko 小狐狸遊世界）</footer>
+</div>
+
+<script>
+document.querySelectorAll('[data-vote]').forEach(function (group) {
+  group.addEventListener('click', function (event) {
+    var btn = event.target.closest('button');
+    if (!btn) return;
+    group.querySelectorAll('button').forEach(function (b) {
+      b.setAttribute('aria-pressed', String(b === btn));
+    });
+  });
+});
+</script>
+</body>
+</html>

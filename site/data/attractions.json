@@ -1,0 +1,2198 @@
+{
+  "meta": {
+    "title": "曼谷手冊",
+    "trip": "2027 年 1–2 月",
+    "source_list": {
+      "name": "2027曼谷",
+      "author": "yoshiko 小狐狸遊世界",
+      "items_total": 21
+    },
+    "checked_on": "2026-10-12",
+    "status_note": "補查結果已合併（supp-G1 至 G4）。部分欄位仍為【資料不足，無法確認】，見各景點 unverified 與 *_note。"
+  },
+  "attractions": [
+    {
+      "id": "jeh-o-chula",
+      "name_zh": "Jeh O Chula",
+      "name_en": "Jeh O Chula",
+      "name_th": "เจ๊โอว (ร้านเจ๊โอว จุฬา)",
+      "type": "泰式餐廳（宵夜、泰式粥與 Mama 泡麵冬蔭功）",
+      "list_rating": 4.1,
+      "list_review_count": null,
+      "area": "Pathum Wan／Banthat Thong／Sam Yan（朱拉隆功大學旁）",
+      "coords": {
+        "lat": 13.7424996,
+        "lng": 100.5225179
+      },
+      "maps_url": "https://www.google.com/maps/place/Jeh+O+Chula/@13.7424996,100.519943,17z/data=!3m1!4b1!4m6!3m5!1s0x30e2992eeb145315:0xd37af0e1dfbbcd7c!8m2!3d13.7424996!4d100.5225179!16s%2Fg%2F11cmn7xncs",
+      "status": "營運中",
+      "popularity": {
+        "level": "中",
+        "reason": "近 2 年內可確認日期的獨立來源僅 2 筆（Phuket101 2026-09、Ranting Panda 2025-08），『連續入選米其林必比登推介至 2025』一說僅見於 Phuket101，未直接取得 Michelin 官方頁面，故依規則暫判為中，驗證官方後可升為高。 補查：2026 必比登名單未能在搜尋結果確認是否仍含本店。",
+        "sources": [
+          {
+            "title": "Phuket101 - The Most Famous Tom Yum Mama in Bangkok（頁面標示更新 2026-09-22）",
+            "url": "https://www.phuket101.net/bangkok/jeh-o-chula/",
+            "date": "2026-09"
+          },
+          {
+            "title": "The Ranting Panda - Panda Picks: Best Bangkok Local Food Eateries（含 Jeh O Chula，提及排隊極長）",
+            "url": "https://therantingpanda.com/2025/08/27/panda-picks-best-bangkok-local-food-eateries-to-try-from-jeh-o-chulas-tom-yum-mama-to-thong-smiths-thai-boat-noodles/",
+            "date": "2025-08"
+          },
+          {
+            "title": "TheSmartLocal - Tom Yum at Jeh O Chula（日期不明）",
+            "url": "https://thesmartlocal.com/thailand/jeh-o-chula/",
+            "date": null
+          },
+          {
+            "title": "Pearl - Jeh O Chula（稱 2024、2025 連兩年米其林必比登，搜尋摘要）",
+            "url": "https://joinpearl.co/restaurants/bangkok/jeh-o-chula",
+            "date": null
+          }
+        ]
+      },
+      "features": [
+        "招牌是 Mama 泡麵冬蔭功，湯底濃郁帶奶香，配料有蝦、花枝、脆皮豬肉、肉丸與生蛋黃 [1][2]",
+        "同時賣泰式粥（khao tom）與小菜，屬於宵夜型餐廳 [1]",
+        "據 Phuket101，連續多年入選米其林必比登推介（至 2025），此點待官方頁面確認 [1]",
+        "價位親民，多數菜色約 100–300 泰銖，Mama 冬蔭功約 250–300 泰銖可兩人分食 [1]"
+      ],
+      "pros": [
+        "價格合理且份量可分食 [1]",
+        "營業到午夜，適合晚餐或宵夜行程 [1]",
+        "位在 BTS National Stadium 步行可達的範圍 [1]"
+      ],
+      "cons": [
+        "尖峰時段排隊很長，現場候位可能達 2 小時以上 [1][2]",
+        "停車不易，建議搭乘 Grab 或計程車 [1]",
+        "各來源對 Mama 冬蔭功供應時段說法不一（僅 23 點後或全天供應） [1]"
+      ],
+      "tickets": "【資料不足，無法確認】無入場費；餐點約 100–300 泰銖（來源：Phuket101 2026-09）",
+      "hours": "每日 16:00（部分來源 15:50）至 00:00；各來源開店時間略有差異，出發前需再確認",
+      "transport": "BTS National Stadium 站 1 號出口，沿 Banthat Thong 路步行約 10 分鐘，轉入 Soi Charat Mueang，門牌 113 號在右側（Phuket101，頁面更新 2026-09，https://www.phuket101.net/bangkok/jeh-o-chula/）；MRT Sam Yan 站同屬此區，但來源未提供步行時間【資料不足，無法確認】",
+      "dress_code": null,
+      "best_time": "建議開店前（約 16:00 前）抵達，或接近午夜入場以減少排隊（Phuket101 2026-09）；2027 年 1–2 月的專屬建議【資料不足，無法確認】",
+      "nearby": [
+        {
+          "name": "朱拉隆功大學百週年公園（Chulalongkorn University Centenary Park）",
+          "why": "都會裡的大片草坡與濕地池塘，傍晚散步、拍水景都很舒服，適合飯前飯後消化。",
+          "distance": "來源只給交通時間：自 MRT Sam Yan 站步行約 8–10 分鐘、自 BTS National Stadium 站步行 15–20 分鐘；與餐廳的直線距離未取得【資料不足，無法確認】",
+          "status": "營運中（每日 05:00–22:00，免費入園；來源頁面更新 2025-09）",
+          "sources": [
+            {
+              "title": "Your Thai Guide - Chulalongkorn University Centenary Park FAQ（更新 2025-09-07）",
+              "url": "https://yourthaiguide.com/chulalongkorn-university-centenary-park-tourist-faq/",
+              "date": "2025-09"
+            },
+            {
+              "title": "Chulalongkorn University - CU Centenary Park（校方介紹，無開放時間）",
+              "url": "https://www.chula.ac.th/en/services/cu-centenary-park/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "name": "Jim Thompson House（吉姆湯普森故居）",
+          "why": "把數棟泰式柚木老屋搬到市中心的博物館，要跟導覽團參觀，能近看泰絲與東南亞古董收藏。",
+          "distance": "與餐廳同以 BTS National Stadium 1 號出口為起點：餐廳步行約 10 分鐘、故居沿 Soi Kasem San 2 步行約 5 分鐘",
+          "status": "營運中（每日 10:00–17:00，成人 250 泰銖含強制導覽；來源更新 2026-07）",
+          "sources": [
+            {
+              "title": "Thai Holiday Guide - Jim Thompson House（更新 2026-07）",
+              "url": "https://thaiholidayguide.com/attraction/jim-thomson-house",
+              "date": "2026-07"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "role": "main",
+          "title": "*曾經*曼谷必食長龍米芝蓮 超濃郁冬陰海鮮湯麵 Jeh O Chula｜泰國小阮 E34",
+          "channel": "Yuensanthailand 泰國小阮",
+          "url": "https://www.youtube.com/watch?v=UKjRIG6VIps",
+          "video_id": "UKjRIG6VIps",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "【曼谷】朱拉隆功大學區美食街很OK！抵食米芝蓮冬陰功媽媽麵／驚喜甜品｜Siam Somtam Nua｜Jim Thompson 泰菜",
+          "channel": "Mike Yuen 袁澤鴻",
+          "url": "https://www.youtube.com/watch?v=SoikLKYaFYs",
+          "video_id": "SoikLKYaFYs",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "list_review_count（未取得 Google 地圖評論數）",
+        "name_th 為搜尋結果寫法，未由官方頁面確認",
+        "Michelin 必比登連續入選（Michelin 官方頁面 404；Pearl 稱 2024–2025，Phuket101 稱 2018–2025；2026 名單未確認）",
+        "Mama 冬蔭功全天供應或僅 23:00 後（Phuket101 頁面內部亦前後不一）",
+        "營業時間各來源不一（16:00／16:30／17:30 開，至 00:00 或 01:00）",
+        "best_time（2027 年 1–2 月）無資料",
+        "Centenary Park 與餐廳的直線距離未取得，可能超出 15 分鐘門檻",
+        "nearby 僅 2 項（找不到第 3 個有 2025–2026 來源且在範圍內的候選）",
+        "影片觀看數與上傳日無法取得；無近 3 年內可確認日期的中文影片"
+      ],
+      "_group": "group-food",
+      "coords_source": "Phuket101 頁面提供的 Google 地圖短連結 https://maps.app.goo.gl/5vwqYLm8VfqEfiZ39 轉址後的 place 網址（3d/4d 參數）",
+      "videos_note": "兩支皆為中文（粵語）；oembed 驗證可嵌入；觀看數與上傳日無法從頁面取得。主影片標題有「曾經」排長龍字樣，內容可能已過時。原英文影片保留於 videos_extra。",
+      "videos_extra": [
+        {
+          "role": "main",
+          "title": "ONE OF THE BEST RESTAURANTS IN BANGKOK!!! Trying the Famous Mama Noodles in Jeh O!",
+          "channel": "No Hungry Days",
+          "url": "https://www.youtube.com/watch?v=nTZzGE1-hRA",
+          "video_id": "nTZzGE1-hRA",
+          "views_at_check": 1086,
+          "published": "2023-05",
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "THE BEST MAMA NOODLES IN BANGKOK! Jeh O Chula | Ft. Clint Lozada | EatwithHans Ep16",
+          "channel": "Hans Manikan",
+          "url": "https://www.youtube.com/watch?v=M2NTuNOquTw",
+          "video_id": "M2NTuNOquTw",
+          "views_at_check": 5256,
+          "published": "2021-04",
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "colloquial_zh": null
+    },
+    {
+      "id": "raan-jay-fai",
+      "name_zh": "Raan Jay Fai（痣姐熱炒）",
+      "name_en": "Raan Jay Fai",
+      "name_th": "ร้านเจ๊ไฝ",
+      "type": "街頭熱炒餐廳（米其林一星，招牌蟹肉蛋捲）",
+      "list_rating": 3.6,
+      "list_review_count": null,
+      "area": "Phra Nakhon／Samran Rat（舊城區 Maha Chai 路）",
+      "coords": {
+        "lat": 13.752571,
+        "lng": 100.5046981
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=13.752571,100.5046981",
+      "status": "營運中",
+      "popularity": {
+        "level": "高",
+        "reason": "近 2 年內有 Michelin 官方頁面、2024-10 退休傳聞與否認報導、2025-08 蟹肉蛋捲價格爭議等多個獨立媒體來源，且仍在營業；3.6 分與清單一致見於搜尋結果的店家列表，但低分原因未經查證，推測與 2025-08 價格爭議有關但無證據，【資料不足，無法確認】。",
+        "sources": [
+          {
+            "title": "MICHELIN Guide - Jay Fai（營業時間、價位、現金限定）",
+            "url": "https://guide.michelin.com/hk/en/bangkok-region/bangkok/restaurant/jay-fai",
+            "date": "2026-10"
+          },
+          {
+            "title": "Malay Mail - Raan Jay Fai under fire over viral omelette bill",
+            "url": "https://www.malaymail.com/amp/news/life/2025/08/19/thailands-michelin-starred-raan-jay-fai-under-fire-over-viral-rm520-omelette-bill/188145",
+            "date": "2025-08"
+          },
+          {
+            "title": "Curly Tales - Jay Fai fined over hidden pricing after YouTuber complaint",
+            "url": "https://curlytales.com/trending/bangkoks-michelin-starred-jay-fai-fined-over-hidden-pricing-of-crab-omelette-after-youtubers-complaint/amp/",
+            "date": "2025-08"
+          },
+          {
+            "title": "Pattaya Mail - Jay Fai denies retirement, plans travel to France and future projects",
+            "url": "https://www.pattayamail.com/thailandnews/renowned-street-food-chef-jay-fai-denies-retirement-plans-travel-to-france-and-future-projects-478069",
+            "date": "2024-10"
+          },
+          {
+            "title": "Malay Mail - Jay Fai eyes 2025 retirement（後續已否認）",
+            "url": "https://www.malaymail.com/news/life/2024/10/29/michelin-starred-bangkok-street-food-chef-jay-fai-who-served-ed-sheeran-and-blackpink-lisa-eyes-2025-retirement-restaurant-closure-likely/155170",
+            "date": "2024-10"
+          },
+          {
+            "title": "Wikipedia - Jay Fai（2025-08 價格爭議；頁面最近編輯 2026-10，未載歇業）",
+            "url": "https://en.wikipedia.org/wiki/Jay_Fai",
+            "date": "2026-10"
+          }
+        ]
+      },
+      "features": [
+        "招牌為蟹肉蛋捲，用近半公斤蟹肉製作，另有咖哩炒蝦與多款麵類 [1][3]",
+        "老闆娘 Jay Fai（Supinya Junsuta）戴護目鏡以炭火快炒，是 Bangkok 街頭美食代表人物 [4]",
+        "米其林一星，只收現金 [1]",
+        "2025-08 因蟹肉蛋捲價格標示爭議被主管機關約談並罰款（報導稱罰 2,000 泰銖，菜單需補列 4,000 泰銖品項） [2][3]"
+      ],
+      "pros": [
+        "料理與製作過程具話題性，歷年媒體與影片評價一致認為值得體驗 [1][2]",
+        "Michelin 頁面描述排隊流程有組織 [1]"
+      ],
+      "cons": [
+        "價格偏高，蟹肉蛋捲標價 1,500 泰銖，且 2025-08 曾有實收 4,000 泰銖的爭議 [2][3]",
+        "營業日有限（Michelin 頁面顯示週三至週六），排隊時間長 [1]",
+        "只收現金 [1]",
+        "清單評分 3.6 偏低，可能受價格爭議影響，但無證據【資料不足，無法確認】"
+      ],
+      "tickets": "蟹肉蛋捲標價 1,500 泰銖（Malay Mail 2025-08）；Michelin 價位標示 ฿฿฿",
+      "hours": "週三至週六 09:00–19:30；週一、二、日休（Michelin 頁面）",
+      "transport": "最近的 MRT 為藍線 Sam Yot 站，步行約 8 分鐘（bring-you.info 中文攻略，日期未標示，https://www.bring-you.info/?p=180913；Thai Holiday Guide 2026-09 也以 Sam Yot 為同路段 Thipsamai 的最近站）。地址 327 Maha Chai Road（Michelin）",
+      "dress_code": null,
+      "best_time": "【資料不足，無法確認】一年中 2027 年 1–2 月的排隊情況無資料；中文影片（2022）稱當時約需 3 小時，現況需另行確認",
+      "nearby": [
+        {
+          "name": "Thipsamai（鬼門炒河粉）原店",
+          "why": "以蛋皮包覆的招牌泰式炒河粉聞名，跟痣姐同在 Maha Chai 路上，常被排進同一趟舊城美食路線。",
+          "distance": "同在 Maha Chai 路（313–315 號 vs 327 號），門牌相近，估計步行數分鐘（依門牌自行推估，未取得官方距離）",
+          "status": "營運中（09:00–00:00，週二公休；來源更新 2026-09）",
+          "sources": [
+            {
+              "title": "Thai Holiday Guide - Thipsamai（更新 2026-09）",
+              "url": "https://www.thaiholidayguide.com/attraction/thipsamai-bangkok/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "name": "Wat Ratchanatdaram（Loha Prasat 金屬城堡）",
+          "why": "世界僅存的金屬尖塔寺廟，可爬內部螺旋階梯到屋頂平台看舊城街景，拍照辨識度高。",
+          "distance": "同在 Maha Chai 路（寺方地址 2 號），距離未取得，依地址與來源步行資訊推估在 1 公里內",
+          "status": "營運中（每日 08:00–17:00，外國人 20 泰銖；來源更新 2026-06）",
+          "sources": [
+            {
+              "title": "Thai Holiday Guide - Wat Ratchanatdaram（更新 2026-06）",
+              "url": "https://www.thaiholidayguide.com/attraction/wat-ratchanatdaram-worawihan-loha-prasat/",
+              "date": "2026-06"
+            }
+          ]
+        },
+        {
+          "name": "Wat Saket（金山寺 Golden Mount）",
+          "why": "爬約 344 階登上人造山丘頂的金色佛塔，日落時俯瞰老城區 360 度視野。",
+          "distance": "來源稱自 MRT Sam Yot 站步行約 1 公里（約 15 分鐘）；Thipsamai 頁面稱距該店步行數分鐘",
+          "status": "營運中（每日 07:00–19:00，外國人 100 泰銖；來源更新 2026-10）",
+          "sources": [
+            {
+              "title": "Thai Holiday Guide - Wat Saket（更新 2026-10）",
+              "url": "https://www.thaiholidayguide.com/attraction/wat-saket-and-the-golden-mount/",
+              "date": "2026-10"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "role": "main",
+          "title": "曼谷生活vlog｜終於吃到Jay Fai千銖蟹肉蛋捲crab omelette「痣姐」最新資訊只需3小時即可享用",
+          "channel": "JimmyYauJai",
+          "url": "https://www.youtube.com/watch?v=cryATORC2JA",
+          "video_id": "cryATORC2JA",
+          "views_at_check": 31026,
+          "published": "2022-05",
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "【曼谷自由行】教你怎樣才能最少排隊吃到泰國米其林痣姐Jay Fai【2022最新曼谷美食攻略】",
+          "channel": "G先生的日本旅居生活vlog",
+          "url": "https://www.youtube.com/watch?v=YxN73EzzIn4",
+          "video_id": "YxN73EzzIn4",
+          "views_at_check": 20534,
+          "published": "2022-08",
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "maps_url 為座標連結而非官方 place 連結；list_review_count 未取得",
+        "清單 3.6 分原因未知（只確認搜尋結果列表亦為 3.6）",
+        "2026 年營運狀態：Michelin 頁面仍列營業時間，但無 2026 媒體報導；Wikipedia 無歇業紀載",
+        "Sam Yot 步行 8 分鐘僅見單一中文攻略（日期未標示，頁面 403 無法直接讀取，取自搜尋摘要）",
+        "2027 年 1–2 月建議無資料",
+        "三個 nearby 的實際距離皆為依地址／來源推估，未取得座標計算",
+        "兩支主要中文影片皆為 2022 年上傳；觀看數為先前查得數字",
+        "Jay Fai 蛋捲罰款金額僅見單一媒體轉述"
+      ],
+      "_group": "group-food",
+      "merge_note": "使用者確認清單中的「痣姐」即本店（痣姐熱炒）。清單同時出現 Raan Jay Fai（評分 3.6）與「痣姐 Zeaw Noodle 49」（評分 4.4）兩筆，兩者併為同一店。研究子代理原先查的 Zeaw 49 麵店與本店無關，已移除。",
+      "list_ratings_seen": [
+        3.6,
+        4.4
+      ],
+      "coords_source": "Wikipedia 標示 13°45′09″N 100°30′17″E（約 13.7525, 100.5047），與既有座標一致 https://en.wikipedia.org/wiki/Jay_Fai；Michelin 頁面僅有搜尋中心座標，非店家 pin",
+      "maps_url_note": "由已查證座標組成的 Google 地圖連結，非店家官方 place 連結",
+      "videos_alt": [
+        {
+          "role": "candidate",
+          "title": "曼谷必吃路邊攤「蟹肉蛋捲」！痣姐 Jay Fai 戴著護目鏡大火快炒成活招牌",
+          "channel": "Jocelyn 菜姐的 TastyTrip",
+          "url": "https://www.youtube.com/watch?v=7vL0ZPmDXM0",
+          "video_id": "7vL0ZPmDXM0",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12",
+          "note": "oembed 可嵌入；上傳日與觀看數無法取得"
+        }
+      ],
+      "colloquial_zh": null
+    },
+    {
+      "id": "plaew-nakhon-pathom-huai-khwang",
+      "name_zh": "Plaew Nakhon Pathom (Tomyum Noodles)",
+      "name_en": "Plaew Nakhon Pathom (Tomyum Noodles)",
+      "name_th": "เปลว ก๋วยเตี๋ยวต้มยำโบราณนครปฐม (ห้วยขวาง)",
+      "type": "麵店（冬蔭湯麵、海鮮冬蔭）",
+      "list_rating": 4.5,
+      "list_review_count": 1331,
+      "area": "Huai Khwang（曼谷）",
+      "coords": {
+        "lat": 13.77784096,
+        "lng": 100.58387725
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=13.77784096,100.58387725",
+      "status": "營運中（Google 地圖顯示營業中）",
+      "popularity": {
+        "level": "中",
+        "reason": "曼谷 Huai Khwang 分店在 Wongnai 為 4.1 分／約 219 則評論，並有 2024 年影片介紹，但可確認日期的近 2 年來源不足 3 筆；米其林必比登是本店在 Nakhon Pathom 的原店，非 Huai Khwang 分店。",
+        "sources": [
+          {
+            "title": "Wongnai - เปลว ก๋วยเตี๋ยวต้มยำโบราณนครปฐม (ห้วยขวาง)（頁面評分 4.1／298 評分，最新可見評論日期 2025-11-14）",
+            "url": "https://www.wongnai.com/restaurants/plewnakhonpathom-prb",
+            "date": "2025-11"
+          },
+          {
+            "title": "MICHELIN Guide - Plaew（Nakhon Pathom 原店，Bib Gourmand 類別）",
+            "url": "https://guide.michelin.com/en/nakhon-pathom-region/nakhon-pathom/restaurant/plaew-nakhon-pathom",
+            "date": "2026-10"
+          },
+          {
+            "title": "YouTube - Kyle Barnard 介紹 Huai Khwang 分店（2024-03）",
+            "url": "https://www.youtube.com/watch?v=uOMeL8nvaNc",
+            "date": "2024-03"
+          },
+          {
+            "title": "Novacircle - Plaew Nakhon Pathom: Best Tom Yum Noodles in Bangkok（綜合評分 4.2，無發布日期，版權標示 2025）",
+            "url": "https://www.novacircle.com/spots/asia/thailand/huai-khwang-district/bangkok-municipality/bangkok/plaew-nakhon-pathom-tomyum-noodles-e158ee",
+            "date": "2025"
+          }
+        ]
+      },
+      "features": [
+        "主打冬蔭湯麵，Wongnai 推薦品項為豬肉冬蔭麵、海鮮冬蔭麵 [1]",
+        "Wongnai 在曼谷麵店排名第 10（31,121 家中） [1]",
+        "據 Michelin，本店 Nakhon Pathom 原店以冬蔭麵與自製豬肉丸受當地人歡迎，分店是否同樣屬於米其林推介【資料不足，無法確認】 [2]",
+        "YouTube 介紹者形容湯頭辛辣濃郁、食材新鮮，另一支日文影片稱口感偏甜 [3]"
+      ],
+      "pros": [
+        "價格親民（Wongnai 標示低於 100 泰銖價位） [1]",
+        "平日至週六營業時間長（09:30–22:00），較易安排 [1][3]",
+        "對面有停車場或可路邊停車 [1][3]"
+      ],
+      "cons": [
+        "週日公休 [1][3]",
+        "湯頭口味有人覺得偏甜（單一影片說法，非多方驗證） [3]"
+      ],
+      "tickets": "人均約 ฿1–200（Google 地圖）",
+      "hours": "營業中，22:00 打烊（Google 地圖截圖）；休息：每週日（Facebook 粉專提及，需再確認）",
+      "transport": "MRT Huai Khwang 站步行可達（Kyle Barnard 影片說明 2024-03，https://www.youtube.com/watch?v=uOMeL8nvaNc）；搜尋未找到步行時間【資料不足，無法確認】。位置為 Pracharat Bamphen 路 633 號，來源對 soi 編號說法不一（21 或 23）",
+      "dress_code": null,
+      "best_time": "【資料不足，無法確認】2027 年 1–2 月建議無資料；paipala 食記搜尋摘要提到中午用餐時段人多（日期未取得，頁面連線失敗）",
+      "nearby": [],
+      "videos": [
+        {
+          "role": "main",
+          "title": "【タイ・バンコク】甘さ広がるクイッティアオトムヤムを発見 / ホワイクアン",
+          "channel": "MAYUKEN THAILAND",
+          "url": "https://www.youtube.com/watch?v=86Aji8H_ZmQ",
+          "video_id": "86Aji8H_ZmQ",
+          "views_at_check": 5171,
+          "published": "2024-06",
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "TOP AUTHENTIC TOMYUM NOODLES IN BANGKOK, THAILAND Thai People Tongue Right Here!!",
+          "channel": "Kyle Barnard",
+          "url": "https://www.youtube.com/watch?v=uOMeL8nvaNc",
+          "video_id": "uOMeL8nvaNc",
+          "views_at_check": 945,
+          "published": "2024-03",
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "身分：清單 4.5 分指 Huai Khwang 分店或 Nakhon Pathom 原店，待使用者確認",
+        "list_review_count；maps_url 為座標連結",
+        "座標取自 Wongnai 非官方 pin；soi 編號（21／23）來源不一",
+        "MRT 步行時間；分店是否同一營運者（Wongnai 的 OFFICIAL 為平台標籤）",
+        "分店是否有米其林推介（未見官方資料）",
+        "週日是否公休（Wongnai 休、Novacircle 每日營業）",
+        "2027 年 1–2 月建議；nearby 無合格候選",
+        "影片為日文（2024-06）與英文（2024-03），無中文影片，且皆早於 2024-10"
+      ],
+      "_group": "group-food",
+      "identity_note": "2026-10 使用者提供 Google 地圖截圖，確認清單的 Plaew Nakhon Pathom (Tomyum Noodles) 為曼谷 Huai Khwang 分店（評分 4.5、1,331 則評論，與清單一致）。Michelin 收錄的是 Nakhon Pathom 原店，與本店不同。",
+      "coords_source": "Wongnai 頁面「附近店家」連結中的座標，非店家官方 pin https://www.wongnai.com/restaurants/plewnakhonpathom-prb",
+      "maps_url_note": "由 Wongnai 附近店家連結座標組成，位置僅供參考，出發前請於 Google 地圖搜尋店名確認",
+      "nearby_note": "周邊候選：依 2 公里與 2025–2026 來源條件，目前未找到合格候選。",
+      "address": "633 Pracha Rat Bamphen 21 Alley, Huai Khwang, Bangkok 10310",
+      "phone": "+66 87 006 1123",
+      "colloquial_zh": null
+    },
+    {
+      "id": "xiang-shen-temple",
+      "name_zh": "象神寺（粉紅象神）",
+      "name_en": "Wat Saman Rattanaram",
+      "name_th": "วัดสมานรัตนาราม",
+      "type": "寺廟",
+      "list_rating": 4.6,
+      "list_review_count": 21664,
+      "area": "北柳府（曼谷東側外，Chachoengsao）",
+      "coords": {
+        "lat": 13.70196,
+        "lng": 101.14079
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=13.70196,101.14079",
+      "status": "營運中（Google 地圖顯示 24 小時營業）",
+      "popularity": {
+        "level": "高",
+        "reason": "Google 地圖評分 4.6（21,664 則，清單）、Thai Holiday Guide 2026-07 詳細介紹且列營業中、2025 年影片與多支中日文影片，共 3 個以上獨立來源且營運正常。",
+        "sources": [
+          {
+            "title": "Google 搜尋結果（象神寺，使用者截圖）",
+            "url": "https://www.google.com/search?q=象神寺",
+            "date": "2026-10"
+          },
+          {
+            "title": "Thai Holiday Guide - Wat Saman Ratanaram（更新 2026-07）",
+            "url": "https://www.thaiholidayguide.com/attraction/wat-saman-ratanaram/",
+            "date": "2026-07"
+          },
+          {
+            "title": "YouTube - BMC Thailand Walk 4K Pink Ganesha（標題標示 2025）",
+            "url": "https://www.youtube.com/watch?v=KP0JwArOucU",
+            "date": "2025"
+          },
+          {
+            "title": "YouTube - 泰國C生活 粉紅象神寺參觀攻略（日期未取得）",
+            "url": "https://www.youtube.com/watch?v=aEyoaZ0rYkQ",
+            "date": null
+          }
+        ]
+      },
+      "features": [
+        "以巨大的粉紅色臥姿象神像聞名，來源稱為泰國最大的象神像",
+        "寺內另有因陀羅、梵天、觀音等多處神龕",
+        "位於 Bang Pakong 河畔的現役佛寺，入場免費，設有捐獻箱"
+      ],
+      "pros": [
+        "免費入場，現行來源列出每日開放",
+        "象神像尺寸驚人，拍照辨識度高",
+        "可與同府其他寺廟、河岸景點串成半日至一日行程"
+      ],
+      "cons": [
+        "位於北柳府，離曼谷約 75–80 公里，需包車或長途交通，不適合順路",
+        "從北柳府市區到寺約 15–20 分鐘車程，火車加轉乘較費時",
+        "未查到現行擁擠度資料，熱門日（如新年期間）人潮來源只提到眾多信眾"
+      ],
+      "tickets": "免費（Google 地圖「門票」欄位標示免費，來源為官方網站價格）",
+      "hours": "Google 地圖顯示 24 小時；Thai Holiday Guide（2026-07）列每日 08:00–17:00，兩者衝突，出發前需再確認",
+      "transport": "曼谷開車約 60–90 分鐘（約 80 公里）；或搭火車到北柳府站再轉計程車或嘟嘟車約 15–20 分鐘；建議向司機出示泰文寺名 วัดสมานรัตนาราม（Thai Holiday Guide 2026-07，https://www.thaiholidayguide.com/attraction/wat-saman-ratanaram/）。最近 BTS／MRT：不適用（位於曼谷外）",
+      "dress_code": "需端莊穿著，遮住肩膀與膝蓋；進入有屋頂的殿堂須脫鞋（Thai Holiday Guide，2026-07）",
+      "best_time": "清晨或關門前約 2 小時光線柔和；週六日早上人多，平日較安靜；正午無遮蔭且光線硬（Thai Holiday Guide 2026-07）。2027 年 1–2 月專屬建議【資料不足，無法確認】",
+      "nearby": [],
+      "videos": [
+        {
+          "role": "main",
+          "title": "【Thailand Walk 4K】Pink Ganesha at Wat Saman Rattanaram | Chachoengsao | 2025 | Cultural Exploration",
+          "channel": "BMC",
+          "url": "https://www.youtube.com/watch?v=KP0JwArOucU",
+          "video_id": "KP0JwArOucU",
+          "views_at_check": null,
+          "published": "2025",
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "maps_url 為座標連結；寺方官方公告開放時間（Google 24 小時 vs 旅遊指南 08:00–17:00）",
+        "兩支影片的觀看數與上傳日",
+        "area 行政區歸屬（來源有 Mueang Chachoengsao Bang Kaeo／Bang Khla 兩種說法）",
+        "2027 年 1–2 月專屬建議",
+        "nearby：找不到 2 公里內且有 2025–2026 來源的候選，保留的 Wat Pho Bang Khla 約 7 公里，不符規則",
+        "Google 搜尋來源為使用者截圖，無穩定公開網址"
+      ],
+      "_group": "group-temple",
+      "identity_note": "2026-10 使用者提供 Google 搜尋截圖，確認象神寺 = Wat Saman Rattanaram（粉紅象神）。評論數 21,664 與清單一致。",
+      "coords_source": "Thai Holiday Guide（更新 2026-07）標示 GPS 13.70196, 101.14079 https://www.thaiholidayguide.com/attraction/wat-saman-ratanaram/",
+      "maps_url_note": "由已查證座標組成的連結，非 place 連結",
+      "videos_note": "主影片為繁中；oembed 皆成功（可嵌入）；觀看數與上傳日無法從頁面取得（backup 上傳年份取自標題）。原日文影片 n1knBvSfWsg 未重驗，未放入。",
+      "nearby_note": "依使用者指示，不提供周邊景點建議。",
+      "video_note": "原主影片（泰國C生活）為直播，截圖顯示已停播，2026-10 已移除，改用 BMC 2025 一般影片。oEmbed 通過不代表影片仍可播放。",
+      "colloquial_zh": null
+    },
+    {
+      "id": "wat-arun",
+      "name_zh": "鄭王廟",
+      "name_en": "Wat Arun Ratchawararam Ratchawaramahawihan",
+      "name_th": "วัดอรุณราชวรารามราชวรมหาวิหาร",
+      "type": "寺廟",
+      "list_rating": 4.7,
+      "list_review_count": 45396,
+      "area": "曼谷（昭披耶河西岸，Thonburi 側）",
+      "coords": {
+        "lat": 13.74436,
+        "lng": 100.48808,
+        "source": "https://www.thaiholidayguide.com/attraction/wat-arun/"
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=13.74436,100.48808",
+      "status": "營運中",
+      "popularity": {
+        "level": "高",
+        "reason": "近 2 年有多個獨立來源（旅遊指南 2026、YouTube 2024 與 2025 影片、旅遊平台文章）提及且皆為正常開放。",
+        "sources": [
+          {
+            "title": "Thai Holiday Guide - Wat Arun",
+            "url": "https://www.thaiholidayguide.com/attraction/wat-arun/",
+            "date": "2026-06"
+          },
+          {
+            "title": "In Your Pocket - Bangkok's Temples: A Practical Guide",
+            "url": "https://www.inyourpocket.com/bangkok/bangkoks-temples-a-practical-guide_81141f",
+            "date": "2026"
+          },
+          {
+            "title": "2024 曼谷自由行 4 天 3 夜（YouTube，屠潔的迷路旅行）",
+            "url": "https://www.youtube.com/watch?v=aaTRaUvsx6Q",
+            "date": "2024"
+          },
+          {
+            "title": "曼谷自由行 鄭王廟、臥佛寺一日遊（YouTube，妮奇社長不上班）",
+            "url": "https://www.youtube.com/watch?v=elMDo4eG37o",
+            "date": "2025"
+          },
+          {
+            "title": "Thai Holiday Guide - Wat Arun（2026-10 複查，仍列營運資訊）",
+            "url": "https://www.thaiholidayguide.com/attraction/wat-arun/",
+            "date": "2026-06"
+          }
+        ]
+      },
+      "features": [
+        "以高聳的主塔（佛塔）為地標，位於昭披耶河畔",
+        "遊客常搭配租泰服拍照與隔河看夜景",
+        "從 Tha Tien 碼頭搭渡船即可過河，與臥佛寺、大皇宮可串成一日行程"
+      ],
+      "pros": [
+        "地標辨識度高，拍照題材豐富",
+        "渡船過河便宜且班次密",
+        "與臥佛寺、大皇宮同區，動線集中"
+      ],
+      "cons": [
+        "入場需付費（外國人 200 泰銖），且來源提醒旺季遮陽少、人潮多時圍巾可能租完",
+        "著裝限制嚴格，短褲、無袖上衣會被擋下",
+        "票價與營業時間來源間有出入，需到現場確認"
+      ],
+      "tickets": "外國人 200 泰銖（含小瓶水，In Your Pocket 稱截至 2026 年初；Thai Holiday Guide 2026-06 相同）；泰國籍免費。另有一個 Agoda 指南寫約 100 泰銖，與多數來源衝突，未採用。",
+      "hours": "每日 08:00–18:00，最後入場約 17:30（Thai Holiday Guide 2026-06，與既有資料一致；Agoda 指南寫 08:30–17:30 不採用）。寺方官方公告【資料不足，無法確認】",
+      "transport": "搭 MRT 藍線到 Sanam Chai 站，往北步行約 5 分鐘到 Tha Tien 碼頭，再搭過河渡船（約 2 分鐘、5 泰銖，約每 5–10 分鐘一班，營運至約 18:00）；或從 Sathorn（Central Pier，近 BTS Saphan Taksin）搭橘旗快船約 20 泰銖到 Tha Tien 再轉渡船；計程車／Grab 約 150–250 泰銖，請司機到「Wat Arun main entrance」。另有旅遊指南估計 Sanam Chai 站到碼頭約 850 公尺、步行約 10 分鐘，與 5 分鐘說法略有出入。（來源：https://www.thaiholidayguide.com/attraction/wat-arun/ 2026-06；https://www.busandvan.com/en-us/blog-travel-detail/59 日期未標示）",
+      "dress_code": "須遮住肩膀與膝蓋（男女皆然）；進入殿堂須脫鞋；入口附近可借或租圍裙與衣物；短褲與無肩帶上衣會被拒絕（Thai Holiday Guide 2026-06、In Your Pocket 2026）",
+      "best_time": "建議清晨 08:00 開門時入場（光線好、人少），或約 16:00 後拍瓷片細節；避開 12:00–15:00（佛塔無遮蔭）。經典日落照要從河東岸拍，不在寺內。2027 年 1–2 月專屬建議【資料不足，無法確認】（來源：https://www.thaiholidayguide.com/attraction/wat-arun/ 2026-06）",
+      "nearby": [
+        {
+          "name": "Wat Pho（臥佛寺）",
+          "why": "擁有巨大臥佛，與鄭王廟隔河相望，過河渡船連接兩寺。",
+          "distance": "兩地座標直線距離約 0.7 公里（依來源座標自行估算），搭渡船約數分鐘",
+          "status": "營運中（外國人 300 泰銖，每日約 08:30–19:30，Thai Holiday Guide 2026-06；其他來源營業時間不一）",
+          "sources": [
+            {
+              "title": "Thai Holiday Guide - Wat Pho",
+              "url": "https://www.thaiholidayguide.com/attraction/wat-pho/",
+              "date": "2026-06"
+            }
+          ]
+        },
+        {
+          "name": "Kudi Chin 社區與 Santa Cruz 教堂",
+          "why": "葡裔社區，有米色圓頂教堂、小型博物館與傳統葡式蛋糕店，安靜好拍。",
+          "distance": "兩地座標直線距離約 0.8 公里（依來源座標自行估算），位於鄭王廟同岸",
+          "status": "營運中（社區無門票；教堂開放入內 17:00–19:30 週一至週六；Baan Kudichin 博物館週二至週日 09:30–18:00，週一休；2026-07 來源）",
+          "sources": [
+            {
+              "title": "Thai Holiday Guide - Kudi Chin Community",
+              "url": "https://www.thaiholidayguide.com/attraction/kudi-chin-community/",
+              "date": "2026-07"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "role": "main",
+          "title": "🇹🇭曼谷自由行🌴獅王廟、臥佛寺參訪一日遊🛕泰服體驗、ICONSIAM購物百貨吃美食街🍍｜妮奇社長不上班",
+          "channel": "妮奇社長不上班",
+          "url": "https://www.youtube.com/watch?v=elMDo4eG37o",
+          "video_id": "elMDo4eG37o",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "2024曼谷自由行｜泰國「免籤」4天3夜全攻略，11景點：鄭王廟拍泰服、最新網紅打卡咖啡廳、美拍象神博物館一次蒐集！｜屠潨's迷路旅行",
+          "channel": "屠潨 一起迷路旅行",
+          "url": "https://www.youtube.com/watch?v=aaTRaUvsx6Q",
+          "video_id": "aaTRaUvsx6Q",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "寺方官方公告的票價與開放時間，現為旅遊網站轉述",
+        "渡船票價（來源 3–5 泰銖不一）",
+        "2027 年 1–2 月專屬建議",
+        "兩支影片的觀看數與上傳日（oembed 不提供）",
+        "In Your Pocket 與影片的精確年月",
+        "maps_url 為依座標組成的 Google 地圖搜尋連結，座標來自 Thai Holiday Guide"
+      ],
+      "colloquial_zh": "黎明寺"
+    },
+    {
+      "id": "wat-phuttha-prommayan",
+      "name_zh": "Wat Phuttha Prommayan",
+      "name_en": "Wat Phutthaprommayan",
+      "name_th": "วัดพุทธพรหมยาน",
+      "type": "寺廟",
+      "list_rating": 4.7,
+      "list_review_count": 1084,
+      "area": "泰國北柳府（Chachoengsao）Khlong Khuean 縣 Bang Talat 區，Ko Lat 小島、Bang Pakong 河中（Google 地圖解析結果；Trip.com 寫 Bang Khla 縣 Pak Nam 區，見 identity_note）",
+      "coords": null,
+      "maps_url": "https://maps.app.goo.gl/vz2hYxgRQAB9Lyyu8",
+      "status": "營運中",
+      "popularity": {
+        "level": "中",
+        "reason": "近 2 年僅查到 Trip.com 2026-07 條目、旅客貼文與少量 YouTube 影片，未見獨立媒體報導，判為中。",
+        "sources": [
+          {
+            "title": "Trueid 旅遊文章（含 Google 地圖連結，寺位於 Bang Talat, Khlong Khuean）",
+            "url": "https://travel.trueid.net/detail/LrmPoL2qn7VX",
+            "date": "2026-07"
+          },
+          {
+            "title": "Trip.com 北柳府寺廟列表（含 วัดพุทธพรหมยาน）",
+            "url": "https://th.trip.com/guide/attraction/temples-in-chachoengsao.html",
+            "date": "2026-07"
+          },
+          {
+            "title": "Trip.com 旅客貼文（Khlong Khuean）",
+            "url": "https://ae.trip.com/moments/detail/khlong-khuean-1447238-128517636",
+            "date": "資料不足"
+          },
+          {
+            "title": "Thailand - Chachoengsao - Wat Phuttha Prommayan（YouTube）",
+            "url": "https://www.youtube.com/watch?v=ag9WMKp1OBY",
+            "date": "資料不足"
+          },
+          {
+            "title": "Trip.com Khlong Khuean 2026 旅遊指南（列出本寺）",
+            "url": "https://uk.trip.com/travel-guide/destination/khlong-khuean-1447238",
+            "date": "2026"
+          }
+        ]
+      },
+      "features": [
+        "位於 Bang Pakong 河中小島 Ko Lat，環境清靜",
+        "來源描述殿堂外牆與內部柱子滿布玻璃鑲嵌裝飾，日照下閃亮（旅客貼文）",
+        "有大型臥佛（旅客貼文稱高約 11 公尺，單一來源，未驗證）",
+        "可順遊 Bang Pakong 河泛舟看河岸生活"
+      ],
+      "pros": [
+        "玻璃鑲嵌殿堂與河中小島的景色在北柳府較少見",
+        "環境安靜，適合拍照與靜心參拜",
+        "清單評分 4.7（1,084 則），遊客對寺評價偏高"
+      ],
+      "cons": [
+        "位於北柳府小島，需搭船或轉乘，行程門檻高",
+        "營業時間、渡船時間來源間不一致，需出發前確認",
+        "中文資料與近期獨立報導少"
+      ],
+      "tickets": "【資料不足，無法確認】（Trip.com 與 trueid 皆未提及票價）",
+      "hours": "每日 09:00–17:00（Trip.com 泰文條目內文，2026-07-16；同頁摘要表寫 08:00–17:00，來源內部不一致）。",
+      "transport": "位於 Bang Pakong 河中的 Ko Lat 島，Trip.com 常見問答稱需搭船前往，但無班次、票價、營運方；有旅客留言渡船 20 泰銖（單一來源，未驗證）。以自駕或包車為主；同區的象神公園距曼谷約 100 公里，可作車程參考，但本寺精確座標與車程【資料不足，無法確認】。（來源：https://th.trip.com/guide/attraction/temples-in-chachoengsao.html 2026-07；https://wanderlog.com/place/details/2155150/the-khlong-khuean-ganesh-international-park）",
+      "dress_code": "【資料不足，無法確認】（本寺無專屬規定；Trip.com 泰文條目僅給北柳府寺廟通則：穿有袖上衣與長褲或長裙，來源 https://th.trip.com/guide/attraction/temples-in-chachoengsao.html 2026-07）",
+      "best_time": null,
+      "nearby": [],
+      "videos": [
+        {
+          "role": "main",
+          "title": "Thailand - Chachoengsao - Wat Phuttha Prommayan | Hidden Buddhist Temple in Chachoengsao Thailand",
+          "channel": "Thailand Travel Guide",
+          "url": "https://www.youtube.com/watch?v=ag9WMKp1OBY",
+          "video_id": "ag9WMKp1OBY",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "วัดพุทธธรรมยาน จ.ฉะเชิงเทรา วัดโบสถ์แก้ว2ชั้น ติดริมแม่น้ำบางปะกง",
+          "channel": "iPenporny Channel",
+          "url": "https://www.youtube.com/watch?v=XUXFxb1buzA",
+          "video_id": "XUXFxb1buzA",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "coords（Google 地圖頁解析不出座標，OSM 查無條目）",
+        "行政區歸屬（Bang Talat/Khlong Khuean vs Pak Nam/Bang Khla）",
+        "票價",
+        "本寺專屬著裝規定",
+        "渡船方式、費用、班次",
+        "best_time（2027 年 1–2 月）",
+        "影片觀看數與上傳日",
+        "周邊候選與距離"
+      ],
+      "identity_note": "身分與位置有來源矛盾：Google 地圖短連結（trueid 2026-07 引用）解析為「วัดพุทธพรหมยาน 99 ตำบลบางตลาด อำเภอคลองเขื่อน ฉะเชิงเทรา 24110」，即北柳府 Khlong Khuean 縣 Bang Talat 區；Trip.com 泰文條目（2026-07）則寫 Pak Nam 區、Bang Khla 縣、地址 59 หมู่ปากน้ำ，摘要表又寫 Mueang Chachoengsao 區；Trip.com 另有碼頭名稱「Wat Phutthapromyan Pier, Bang Khla」。三者不一致，本檔以 Google 地圖解析結果（Bang Talat, Khlong Khuean）為主，其餘列為待查。備用影片標題拼為「พุทธธรรมยาน」，與寺名略異。Tripniceday 將本寺列為象神公園的周邊景點（未標日期）。（來源：https://travel.trueid.net/detail/LrmPoL2qn7VX 引用的 Google 地圖連結 https://maps.app.goo.gl/vz2hYxgRQAB9Lyyu8；https://th.trip.com/guide/attraction/temples-in-chachoengsao.html 2026-07）",
+      "nearby_note": "未找到座標與本寺距離可驗證、且不與清單重複的 2 公里內候選。象神公園（同區）已在清單內故排除；Wat Pho Bang Khla 屬 Bang Khla 縣，與本寺距離未驗證，故撤回原候選。",
+      "colloquial_zh": null
+    },
+    {
+      "id": "ancient-siam",
+      "name_zh": "暹羅古城",
+      "name_en": "Ancient Siam（Ancient City／Muang Boran）",
+      "name_th": "เมืองโบราณ（Muang Boran）",
+      "type": "景點",
+      "list_rating": 4.5,
+      "list_review_count": null,
+      "area": "泰國龍仔厝府（Samut Prakan）Bang Pu，位於曼谷市區外東南方；地址 296/1 Sukhumvit Road, Bangpoo",
+      "coords": {
+        "lat": 13.539215,
+        "lng": 100.623042,
+        "source": "https://www.muangboranmuseum.com/"
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=13.539215,100.623042",
+      "status": "營運中",
+      "popularity": {
+        "level": "高",
+        "reason": "官網 2026-08 仍有活動公告且營運時間與票價完整；Thai Holiday Guide（2026-07）、Tripomatic（2026）獨立介紹，皆正常營運。",
+        "sources": [
+          {
+            "title": "Muang Boran Museum 官方網站（新聞 2026-08-25、票價頁）",
+            "url": "https://www.muangboranmuseum.com/",
+            "date": "2026-08"
+          },
+          {
+            "title": "Thai Holiday Guide - Ancient City",
+            "url": "https://www.thaiholidayguide.com/attraction/ancient-city/",
+            "date": "2026-07"
+          },
+          {
+            "title": "Tripomatic - Ancient Siam",
+            "url": "https://tripomatic.com/en/poi/ancient-siam-poi:20054",
+            "date": "2026"
+          },
+          {
+            "title": "This Life of Travel - Ancient Siam Bangkok Guide",
+            "url": "https://www.thislifeoftravel.com/thailand/ancient-siam-bangkok",
+            "date": "2020-04"
+          },
+          {
+            "title": "Tiqets - Ancient Siam tickets",
+            "url": "https://www.tiqets.com/de/tickets-ancient-siam-l146903",
+            "date": "資料不足"
+          }
+        ]
+      },
+      "features": [
+        "戶外博物館，園區形狀仿泰國地圖，重現各地地標建築",
+        "園區超過 200 英畝，來源稱 1963 年起營運",
+        "園內可騎免費腳踏車、搭免費電車，或租付費高爾夫球車"
+      ],
+      "pros": [
+        "地標縮影集中，一天可看遍各地建築風格",
+        "園內自行車免費，適合想活動的人",
+        "可在票務平台買折扣票，也有與 Erawan 博物館的合購票"
+      ],
+      "cons": [
+        "園區很大，遇到正午高溫相當辛苦",
+        "免費電車只停約 4 個點，涵蓋範圍有限",
+        "官網票價為外國人 800 泰銖，部分平台折扣價約 300–380 泰銖（舊資料，現行折扣未查證）",
+        "電動車租借另計（約 250–350 泰銖，單一來源）"
+      ],
+      "tickets": "外國人成人 800 泰銖、兒童（6–14 歲）400 泰銖；泰國籍成人 400、兒童 250（官方票價頁，票價圖檔上傳資料夾為 2026/04，頁面無明確日期）。舊有 700 泰銖說法已過時，不採用。園內自行車租借約 50 泰銖、電動車約 250–350 泰銖（Thai Holiday Guide 2026-07，單一來源）。（來源：https://www.muangboranmuseum.com/ticket/；https://www.thaiholidayguide.com/attraction/ancient-city/）",
+      "hours": "每日 09:00–19:00，18:00 停止售票（官網首頁與票價頁；Thai Holiday Guide 2026-07 相同）。",
+      "transport": "離曼谷市區較遠，位於龍仔厝府（Samut Prakan）。搭 BTS 綠線（Sukhumvit 線）到終點站 Kheha，再轉計程車／Grab 或雙條車沿 Sukhumvit 路前往；園區門口無軌道站。官網標示從 BTS Siam 到 Kheha 約 45 分鐘，Kheha 到園區另計（官網未註明車程）。直接叫車最簡單。（來源：https://www.muangboranmuseum.com/ 2026；https://www.thaiholidayguide.com/attraction/ancient-city/ 2026-07）。Kheha 站至園區的車程分鐘數【資料不足，無法確認】。",
+      "dress_code": "【資料不足，無法確認】（官網與 Thai Holiday Guide 皆未載明，僅建議穿好走的鞋與防曬）",
+      "best_time": null,
+      "nearby": [
+        {
+          "name": "Bang Pu Recreation Center（邦府海濱休閒中心，海鷗）",
+          "why": "冬季有大量遷徙海鷗聚集，海邊木棧道好拍，1–2 月正值海鷗季。",
+          "distance": "與古城座標直線約 4 公里（依來源座標自行估算），開車短程，實際車程未查證",
+          "status": "營運中（每日 05:30–19:00，免費含停車；海鷗季約 11 月至 4 月、尤以 11–1 月，Thai Holiday Guide 2026-07；LoveThailand 另寫 10:00–20:00，來源不一）",
+          "sources": [
+            {
+              "title": "Thai Holiday Guide - Bang Pu Recreation Center",
+              "url": "https://www.thaiholidayguide.com/attraction/bang-pu-recreation-center/",
+              "date": "2026-07"
+            },
+            {
+              "title": "LoveThailand - Bang Pu Recreation Center",
+              "url": "https://www.lovethailand.org/travel/en/30-Samut-Prakan/1958-Bang-Pu-Recreation-Center.html",
+              "date": "日期未標示"
+            }
+          ]
+        },
+        {
+          "name": "The Erawan Museum（三頭象神博物館）",
+          "why": "三頭象造型建築與多層展廳，常與古城合購門票。",
+          "distance": "座標直線約 10.6 公里（自行估算；搜尋來源寫約 10 公里），同府但超過 2 公里，車程未查證",
+          "status": "營運中（500 泰銖，每日 09:00–18:00，售票至 17:00，Thai Holiday Guide 2026-07）",
+          "sources": [
+            {
+              "title": "Thai Holiday Guide - Erawan Museum",
+              "url": "https://www.thaiholidayguide.com/attraction/erawan-museum/",
+              "date": "2026-07"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "role": "main",
+          "title": "Bangkok's Ancient City 🇹🇭 Did you know about THIS place? Fun & Easy Day Trip in Bangkok",
+          "channel": "Roots Abroad",
+          "url": "https://www.youtube.com/watch?v=PPs9frgpncM",
+          "video_id": "PPs9frgpncM",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "Inside Thailand's Ancient City 🇹🇭 | Temples, Floating Market & Ghost Museum",
+          "channel": "Ez Unplugged",
+          "url": "https://www.youtube.com/watch?v=fk-HYmPXfJ8",
+          "video_id": "fk-HYmPXfJ8",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "官網票價頁無明確日期（僅圖檔資料夾 2026/04）",
+        "Kheha 站至園區車程分鐘數",
+        "著裝規定",
+        "best_time（2027 年 1–2 月）",
+        "影片觀看數與上傳日，且未找到中文影片",
+        "清單評論數",
+        "Bang Pu 與 Erawan 的實際車程",
+        "座標三來源有差距，採官網標記"
+      ],
+      "coords_note": "官方網站內嵌 Google 地圖標記約為 13.539215, 100.623042；Thai Holiday Guide 為 13.54068, 100.62388，相差約 150 公尺；既有值（13.54679, 100.62836）與官方標記差約 1 公里，已改採官方。",
+      "address": "296/1 Moo 7, Sukhumvit Road, Bang Pu Mai, Mueang Samut Prakan, Samut Prakan 10280；電話 02-026-8800-9（官網）",
+      "best_time_note": "2027 年 1–2 月專屬建議【資料不足，無法確認】；官網新聞頁截至 2026-08 無 2027 年 1–2 月休園或整修公告（https://www.muangboranmuseum.com/news/）。",
+      "colloquial_zh": null
+    },
+    {
+      "id": "iconsiam",
+      "name_zh": "ICONSIAM",
+      "name_en": "ICONSIAM",
+      "name_th": "ไอคอนสยาม",
+      "type": "商場",
+      "list_rating": 4.7,
+      "list_review_count": null,
+      "area": "昭披耶河西岸（Thonburi 側）Khlong Ton Sai，Charoen Nakhon 路",
+      "coords": {
+        "lat": 13.726694,
+        "lng": 100.5105,
+        "source": "https://en.wikipedia.org/wiki/Iconsiam"
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=ICONSIAM+Bangkok",
+      "status": "營運中",
+      "popularity": {
+        "level": "高",
+        "reason": "近 2 年內有 Time Out、旅遊指南（2026-04 更新）、多支中文 YouTube 導覽與 ONESIAM 年末活動報導提及，且營運正常。",
+        "sources": [
+          {
+            "title": "ICONSIAM Made Easy: The Complete Happy Riverside Shopping Guide for Bangkok (2026)",
+            "url": "https://www.idctravel.com/attraction/iconsiam-travel-guide.html",
+            "date": "2026-04"
+          },
+          {
+            "title": "Time Out Bangkok - ICONSIAM（頁面顯示含 2026-07 至 2026-11 的展覽活動；文章發表日未標示）",
+            "url": "https://www.timeout.com/bangkok/shopping/iconsiam",
+            "date": "2026-07"
+          },
+          {
+            "title": "ONESIAM「2025 奇幻慶典」報導（提及 ICONSIAM 河岸燈光匯演與年末倒數）",
+            "url": "https://n.yam.com/Article/20251208869112",
+            "date": "2025-12"
+          },
+          {
+            "title": "ICONSIAM（Visit Thailand Today，更新 2026-10，營業時間與設施資訊）",
+            "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/iconsiam",
+            "date": "2026-10"
+          }
+        ]
+      },
+      "features": [
+        "建在昭披耶河畔，外型以漂浮的 krathong 水燈為意象，被 Time Out 定位為展現泰國文化的地標，多於一般購物中心。",
+        "SOOKSIAM 室內水上市場位於地面層，集合泰國 77 府的小吃、手工藝與伴手禮，船為靜止停靠的佈景（來源：旅遊指南）。",
+        "ICONLUXE 精品區、泰國首間 Apple 直營店（河岸戶外看台）與 Siam Takashimaya 百貨同在一處。",
+        "ICONIC 多媒體水舞每日 19:00、20:00、21:00 在河岸免費觀賞（單一來源，場次可能因天氣或活動調整）。",
+        "8 樓設有 River Museum Bangkok；2026-07-23 至 2026-11-08 有柯南 30 週年展（票價約 250-900 泰銖），2026-10-31 前有免費航海王快閃咖啡（Time Out）。"
+      ],
+      "pros": [
+        "室內冷氣、一站集中購物、泰式美食與河景，適合第一次來的旅客與家庭。",
+        "傍晚有免費水舞與河岸夕陽/夜景，氣氛佳。",
+        "與其他暹羅商圈商場相比，泰國在地文化與手作主題最濃，適合買伴手禮。"
+      ],
+      "cons": [
+        "不在 BTS 主線上，需轉乘金線或船，交通步驟比 Siam 商圈多。",
+        "週末、假日與傍晚人潮多（旅遊指南）。",
+        "接駁船資訊互相矛盾：有來源稱免費，另有來源稱部分路線已改為付費或民營，出發前需確認。"
+      ],
+      "tickets": "商場入場免費。河岸 ICONIC 水舞（19:00、20:00、21:00）免費觀賞（單一來源）。付費項目另計：8 樓 River Museum Bangkok 內的柯南 30 週年展（2026-07-23 至 2026-11-08），票價約 250-900 泰銖（Time Out：https://www.timeout.com/bangkok/shopping/iconsiam ）；該展期於 2027 年 1-2 月已結束。River Museum 常設展票價：【資料不足，無法確認】。",
+      "hours": "每日 10:00-22:00（Visit Thailand Today 頁面，更新 2026-10；多來源一致；國定假日可能調整，來源 https://www.visitthailandtoday.com/markets-shopping/bangkok/iconsiam）",
+      "transport": "BTS 銀隆線（Silom）至 Krung Thon Buri 站（G1），換 BTS 金線（Gold Line）一站到 Charoen Nakhon 站（G2），車站位於商場綜合體內、與商場直接相連（來源：https://www.visitthailandtoday.com/markets-shopping/bangkok/iconsiam ，2026-10；Wikipedia 亦稱商場緊鄰該站）。Krung Thon Buri 站出口 3 為搜尋摘要所述，單一來源、未逐一核對。水路：Sathorn 碼頭（BTS Saphan Taksin 站旁）有接駁船，約每 15-20 分鐘一班；VTT 頁面稱 2023-05 前免費、現收小額費用，同頁另處仍寫免費，其他來源稱 8-12 銖，收費不一致，出發前現場確認。Chao Phraya Tourist Boat 的 ICONSIAM 碼頭步行約 2 分鐘（VTT）。站到商場內的步行分鐘數：站體在綜合體內，來源無分鐘數。",
+      "dress_code": null,
+      "best_time": "11 月至隔年 2 月為最佳季節（天氣最穩定），但 12 月與 1 月為人潮高峰，週末更擠，建議平日上午（Visit Thailand Today，2026-10：https://www.visitthailandtoday.com/markets-shopping/bangkok/iconsiam ）；傍晚 18:00-21:30 看水舞與河景（idctravel 2026-04）。這是 1-2 月的一般季節建議，2027 年 1-2 月的專屬活動：【資料不足，無法確認】。",
+      "nearby": [
+        {
+          "name": "Wat Prayoon（Wat Prayurawongsawat，龜園寺）",
+          "why": "白色大佛塔與人造山 Khao Mo、池中可餵烏龜，是河西岸少見的免費寺院景點，順遊 Memorial Bridge 一帶。",
+          "distance": "直線約 2.0 公里（以 OSM 座標 13.7368,100.4954 與 ICONSIAM 座標計算，跨河；非步行距離）",
+          "status": "營運中（免費；VTT 頁面載明每日 07:00-20:00，各來源時間不一致，從 06:00 到 21:00 都有）",
+          "sources": [
+            {
+              "title": "Wat Prayurawongsawas Worawihan（Visit Thailand Today，更新 2026-09）",
+              "url": "https://www.visitthailandtoday.com/temples-culture/bangkok/wat-prayurawongsawas-worawihan",
+              "date": "2026-09"
+            },
+            {
+              "title": "Wat Prayurawongsawat（Wikipedia，補充歷史資料）",
+              "url": "https://en.wikipedia.org/wiki/Wat_Prayurawongsawat",
+              "date": null
+            }
+          ]
+        },
+        {
+          "name": "耀華力路 Yaowarat（曼谷中國城）",
+          "why": "夜晚街頭小吃與霓虹招牌最熱鬧，傍晚 17:00 後開始，適合在看完 ICONSIAM 水舞後轉去拍夜景與吃宵夜。",
+          "distance": "VTT 的 ICONSIAM 頁面列為 1.5 公里；以 OSM 道路中點座標直線估算約 2.0 公里（跨河）",
+          "status": "營運中（街區；攤位休息日不一，部分週一休；高峰約 18:00-23:00）",
+          "sources": [
+            {
+              "title": "ICONSIAM（Visit Thailand Today，更新 2026-10，列 Chinatown Bangkok 1.5 km）",
+              "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/iconsiam",
+              "date": "2026-10"
+            },
+            {
+              "title": "Bangkok street food and nightlife 2026",
+              "url": "https://www.travelarbitrage.net/en/blog/bangkok-street-food-nightlife-2026-en",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "role": "main",
+          "title": "曼谷暹羅天地商場 第一次來怎麼逛？湄南河畔餐廳 美麗夜景 室內水上市場｜拍照打卡 泰國伴手禮｜泰國購物｜曼谷自由行｜百麥 泰生活 Baimai in Thailand",
+          "channel": "百麥 泰生活 Baimai in Thailand",
+          "url": "https://www.youtube.com/watch?v=7eW8OJCA-4Y",
+          "video_id": "7eW8OJCA-4Y",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "走在曼谷 ICONSIAM 到底是什麼感受？絕對別錯過 True Sphere & Coffee！室內水上市場美食街、絕美河景 Apple Store、Gentle Monster 巨型藝術展！",
+          "channel": "捷運泰國",
+          "url": "https://www.youtube.com/watch?v=XTd0FI6gc78",
+          "video_id": "XTd0FI6gc78",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "list_review_count",
+        "Krung Thon Buri 站出口 3（單一來源）",
+        "接駁船目前票價（來源互相矛盾）",
+        "金線票價（單一來源）",
+        "水舞場次（單一來源）",
+        "站到商場步行分鐘數",
+        "影片觀看數與上傳日（YouTube 頁面無法讀出）",
+        "2027 年 1-2 月專屬活動",
+        "周邊候選僅 2 個，且兩者距離為直線估算（約 2.0 公里）；Kudi Chin／Baan Kudichin 以 OSM 座標計算約 2.35 公里，超過 2 公里而移除",
+        "River Museum 常設展票價"
+      ],
+      "_group": "group-mall",
+      "colloquial_zh": "河岸 ICONSIAM"
+    },
+    {
+      "id": "siam-square",
+      "name_zh": "暹羅廣場",
+      "name_en": "Siam Square",
+      "name_th": "สยามสแควร์",
+      "type": "商場／街區",
+      "list_rating": 4.7,
+      "list_review_count": null,
+      "area": "Pathumwan，BTS Siam 站對面（Rama I 路南側）",
+      "coords": {
+        "lat": 13.7444306,
+        "lng": 100.533139,
+        "source": "https://en.wikipedia.org/wiki/Siam_Square"
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Siam+Square+Bangkok",
+      "status": "營運中",
+      "popularity": {
+        "level": "高",
+        "reason": "近 2 年有 Bring You（2025-09 更新）、roo.cash、旅遊指南與 2026 年中文 YouTube 步行影片提及，街區運作正常。",
+        "sources": [
+          {
+            "title": "【Siam 暹羅商圈百貨】曼谷BTS Siam站逛街攻略（Bring You，最後更新 2025-09-11）",
+            "url": "https://www.bring-you.info/?p=56098",
+            "date": "2025-09"
+          },
+          {
+            "title": "Siam Square 介紹（roo.cash 部落格，發表日未標示）",
+            "url": "https://roo.cash/blog/?p=110412",
+            "date": null
+          },
+          {
+            "title": "曼谷 Siam Square 走30分鐘（捷運泰國 YouTube，搜尋結果顯示約 224 天前上傳）",
+            "url": "https://www.youtube.com/watch?v=ZqA0njPwJmo",
+            "date": "2026-03"
+          },
+          {
+            "title": "Siam Square（Visit Thailand Today，更新 2026-10，確認營運與週邊設施）",
+            "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/siam-square",
+            "date": "2026-10"
+          }
+        ]
+      },
+      "features": [
+        "由多個小廣場、巷弄組成的街區，聚集精品選物店、咖啡廳、餐廳與市集攤位，與單棟大型商場的動線不同。",
+        "2022 年起翻新（地面、電線地下化等，來源描述略有出入）；有來源指出週末 Soi 7 會封街做街頭表演與快閃活動。",
+        "Siam Square One 為 6 層半開放式商場，走平價快時尚與餐飲，後方有大白貓雕像可拍照。",
+        "The Scala 為 1960 年代末的老戲院，票價約 100-160 銖（單一來源，日期不明）。",
+        "Somtam Nua 等人氣餐廳、動物咖啡廳（House of Paws、Little Zoo）。"
+      ],
+      "pros": [
+        "年輕潮流、獨特選物店多，可逛到商場外找不到的品牌。",
+        "BTS Siam 站出站即達，並有多條公車。",
+        "餐飲選擇多，從伊森料理到主題咖啡廳。"
+      ],
+      "cons": [
+        "不是低價服飾區，價格從平價到偏貴都有。",
+        "熱門餐廳（如 Somtam Nua）常需排隊。",
+        "露天街區，白天熱、雨天不便；店家營業時間各自不同。"
+      ],
+      "tickets": "免費（街區與商場入場免費；Scala 戲院票價另計，約 100-160 銖，單一來源日期不明）",
+      "hours": "每日 10:00-22:00（Visit Thailand Today，更新 2026-10）；個別店家時間不同，不一定整段營業。",
+      "transport": "BTS Siam 站（Sukhumvit 線與 Silom 線轉乘站），步行約 2 分鐘、約 170 公尺（Visit Thailand Today，更新 2026-10：https://www.visitthailandtoday.com/markets-shopping/bangkok/siam-square ）；出口：Bring You（2025-09）指 2 號與 6 號出口通往廣場、4 號出口有空橋通 Siam Square One（單一來源，VTT 頁面未列出口）。",
+      "dress_code": null,
+      "best_time": "11 月至隔年 2 月天氣最穩定，但 12 月與 1 月人潮最高；想較清靜建議平日下午（Visit Thailand Today，2026-10：https://www.visitthailandtoday.com/markets-shopping/bangkok/siam-square ）。2027 年 1-2 月專屬活動：【資料不足，無法確認】。",
+      "nearby": [
+        {
+          "name": "曼谷藝術文化中心 BACC",
+          "why": "免費的 9 層樓展覽空間，有設計小店與咖啡廳，逛街之餘可入內避暑看展，並可直通 Skywalk 拍照。",
+          "distance": "直線約 0.4 公里（以 Wikipedia 座標計算）；BTS National Stadium 站空橋步行",
+          "status": "營運中（週二至週日，週一休；免費，特展另計；Wikipedia 載明 10:00-21:00，2025-07 部落格載 20:00，兩者不同）",
+          "sources": [
+            {
+              "title": "Bangkok Art and Culture Centre（Wikipedia）",
+              "url": "https://en.wikipedia.org/wiki/Bangkok_Art_and_Culture_Centre",
+              "date": null
+            },
+            {
+              "title": "BACC: Your Free Cultural Escape in Siam Area",
+              "url": "https://www.thailandwithmonchai.com/blogs/bangkok-art-and-culture-centre-bacc-your-free-cultural-escape-in-siam-area-complete-visitor-guide",
+              "date": "2025-07"
+            },
+            {
+              "title": "OneSiam Skywalk（Visit Thailand Today，BACC 距天橋 70 公尺，更新 2026-09）",
+              "url": "https://www.visitthailandtoday.com/activities-tours/bangkok/onesiam-skywalk",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "name": "Siam Paragon（含 SEA LIFE Bangkok Ocean World）",
+          "why": "大型豪華商場與水族館，下雨時可在冷氣下串逛，也能順帶看美食街與夜景天橋。",
+          "distance": "步行約 260 公尺、約 3 分鐘（VTT 頁面）",
+          "status": "營運中（每日 10:00-22:00，BTS Siam 站直接連通）",
+          "sources": [
+            {
+              "title": "Siam Paragon（Visit Thailand Today，更新 2026-09）",
+              "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/siam-paragon",
+              "date": "2026-09"
+            },
+            {
+              "title": "Siam Square（Visit Thailand Today，更新 2026-10，列 Siam Paragon 260 m、SEA LIFE 290 m）",
+              "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/siam-square",
+              "date": "2026-10"
+            }
+          ]
+        },
+        {
+          "name": "Jim Thompson House 博物館",
+          "why": "泰絲大王的傳統柚木屋與庭園，需跟導覽入內，是商圈旁安靜的老房子。",
+          "distance": "BTS National Stadium 站步行（入口在 Soi Kasemsan 2 底）；與 Siam Square 的距離【資料不足，無法確認】",
+          "status": "營運中（官方站 2026：每日 10:00-17:00，最後一團 17:00；成人 250 銖、10-21 歲 150 銖、10 歲以下免費；主屋須跟導覽，不可拍內部）",
+          "sources": [
+            {
+              "title": "Jim Thompson House 官方網站（版權 2026，標示 2026-09-08 開放線上購票）",
+              "url": "https://jimthompsonhouse.org/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "role": "main",
+          "title": "曼谷 Siam Square 走30分鐘，竟然全是驚喜｜感受泰國最潮的創意活力｜Siam Square 30 -Minute Walk in Thailand's Trendiest Area",
+          "channel": "捷運泰國",
+          "url": "https://www.youtube.com/watch?v=ZqA0njPwJmo",
+          "video_id": "ZqA0njPwJmo",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "曼谷自由行-暹羅廣場逛街購物+美食 VLOG Siam Square shopping+foodie VLOG x @baimaitw",
+          "channel": "HELLO ELIE",
+          "url": "https://www.youtube.com/watch?v=ZZGxbjDNV6o",
+          "video_id": "ZZGxbjDNV6o",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "list_review_count",
+        "出口編號（單一來源 Bring You）",
+        "Scala 票價（日期不明）",
+        "Jim Thompson House 與 Siam Square 的距離",
+        "2027 年 1-2 月專屬活動",
+        "影片觀看數與上傳日",
+        "BACC 閉館時間來源不一（20:00 或 21:00）"
+      ],
+      "_group": "group-mall",
+      "colloquial_zh": null
+    },
+    {
+      "id": "centralworld",
+      "name_zh": "中央世界",
+      "name_en": "CentralWorld",
+      "name_th": "เซ็นทรัลเวิลด์",
+      "type": "商場",
+      "list_rating": 4.5,
+      "list_review_count": null,
+      "area": "Ratchaprasong（四面佛商圈），Pathumwan",
+      "coords": {
+        "lat": 13.74694,
+        "lng": 100.53972,
+        "source": "https://en.wikipedia.org/wiki/CentralWorld"
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=CentralWorld+Bangkok",
+      "status": "營運中",
+      "popularity": {
+        "level": "高",
+        "reason": "近 2 年有官方/新聞稿報導的 2025 跨年煙火、旅遊網站 2026-10 更新頁面與多支 2025 以後中文逛街影片，營運正常。",
+        "sources": [
+          {
+            "title": "Thailand Rings in 2025 at CentralwOrld - with a Dazzling Fireworks Spectacle",
+            "url": "https://www.aap.com.au/aapreleases/cision20250102ae87841",
+            "date": "2025-01"
+          },
+          {
+            "title": "CentralWorld (Visit Thailand Today，頁面註明 2026-10 更新)",
+            "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/centralworld",
+            "date": "2026-10"
+          },
+          {
+            "title": "【曼谷 Siam 逛街懶人包】CentralWorld、百麗宮等百貨全攻略（溫室日記 YouTube，標題標示 2025）",
+            "url": "https://www.youtube.com/watch?v=O-jhUVkl_J4",
+            "date": "2025-01"
+          },
+          {
+            "title": "CentralWorld（Visit Thailand Today，更新 2026-10）",
+            "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/centralworld",
+            "date": "2026-10"
+          }
+        ]
+      },
+      "features": [
+        "Central Department Store 最大分店，約 5 萬平方公尺，有國際精品、快時尚、美妝、Apple 旗艦店。",
+        "7 樓 Central Food Hall、SF World Cinema（15 廳）、頂樓餐廳；Groove 餐酒區營業至午夜。",
+        "樓上 Centara Grand 酒店 55 樓有 Red Sky 天台酒吧。",
+        "戶外廣場常辦活動：2024-12-31 跨年 180 度煙火、2025 農曆新年與聖誕節慶（新聞稿）。",
+        "分區以字母 A-F 標示，並與周邊商場有內部通道相連。"
+      ],
+      "pros": [
+        "樓層大、品牌齊全，高端到平價都有，可一天逛不完。",
+        "天橋直達 BTS，雨天冷氣步行不用下地面。",
+        "節慶與跨年活動規模大。"
+      ],
+      "cons": [
+        "面積大容易迷路，需要靠分區字母定位。",
+        "有一位評論者提到洗手間相較鄰近新商場偏舊（單一評論）。",
+        "節慶及假日人潮大（推論自跨年活動規模，未見來源明確寫為缺點）。"
+      ],
+      "tickets": "免費（商場入場；VTT 頁面無票價資訊）",
+      "hours": "每日 10:00-22:00；Groove 餐酒區營業至 00:00（Visit Thailand Today，更新 2026-10）",
+      "transport": "BTS Chit Lom 站（Sukhumvit 線）步行約 6 分鐘，由空橋 Skywalk 直達商場 1 樓入口；VTT 頁面未列出口（Visit Thailand Today，更新 2026-10：https://www.visitthailandtoday.com/markets-shopping/bangkok/centralworld ）。出口編號各來源互相矛盾（9 號、1 號等），不採用。Siam 站走同一條天橋約 10 分鐘（既有來源）。",
+      "dress_code": null,
+      "best_time": "11 月至隔年 2 月天氣最穩定，但 12 月與 1 月人潮最高，建議早點到（Visit Thailand Today，2026-10：https://www.visitthailandtoday.com/markets-shopping/bangkok/centralworld ）。2027 年 1-2 月專屬活動（跨年煙火、農曆新年）：【資料不足，無法確認】。",
+      "nearby": [
+        {
+          "name": "艾瑞灣四面佛 Erawan Shrine",
+          "why": "在 Ratchaprasong 路口的知名祈福地標，香火與舞者表演很有曼谷街頭氣氛，免費參拜。",
+          "distance": "商場正對面，從 BTS Chit Lom 站步行約 4 分鐘；與 Central @centralwOrld 約 180 公尺",
+          "status": "營運中（每日 06:00-22:00；供品組合約 200 銖起，無入場費）",
+          "sources": [
+            {
+              "title": "Erawan Shrine（Visit Thailand Today，更新 2026-10）",
+              "url": "https://www.visitthailandtoday.com/temples-culture/bangkok/erawan-shrine",
+              "date": "2026-10"
+            },
+            {
+              "title": "CentralWorld（Visit Thailand Today，更新 2026-10，註明 Erawan 在商場外）",
+              "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/centralworld",
+              "date": "2026-10"
+            }
+          ]
+        },
+        {
+          "name": "Platinum Fashion Mall",
+          "why": "批發型服飾商場，女裝選擇多且價格較親民，適合逛完百貨再換個風格掃貨。",
+          "distance": "約 430 公尺（VTT 的 CentralWorld 頁面）；Platinum 頁面稱往 CentralWorld 沿 Ratchadamri 路步行約 10 分鐘",
+          "status": "營運中（營業時間頁面內互相矛盾：標題為每日 09:00-20:00，另稱週三、六、日 08:00 開門）",
+          "sources": [
+            {
+              "title": "Platinum Fashion Mall（Visit Thailand Today，更新 2026-09）",
+              "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/platinum-fashion-mall",
+              "date": "2026-09"
+            },
+            {
+              "title": "CentralWorld（Visit Thailand Today，更新 2026-10，列 430 m）",
+              "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/centralworld",
+              "date": "2026-10"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "role": "main",
+          "title": "曼谷Central World最新逛街攻略！推薦10個當地品牌 男女裝、伴手禮、選物店都太好逛了！",
+          "channel": "Amber Lee",
+          "url": "https://www.youtube.com/watch?v=zYNONpec9DY",
+          "video_id": "zYNONpec9DY",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "【曼谷 Siam 逛街懶人包】BTS 一出站就開逛 CentralWorld、百麗宮等百貨全攻略！｜2025 曼谷自由行",
+          "channel": "溫室日記 Wen's Diary",
+          "url": "https://www.youtube.com/watch?v=O-jhUVkl_J4",
+          "video_id": "O-jhUVkl_J4",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "list_review_count",
+        "BTS 出口編號（來源矛盾）",
+        "洗手間評價（單一評論）",
+        "2027 年 1-2 月專屬活動",
+        "Platinum 營業時間（頁面內不一致）",
+        "影片觀看數與上傳日",
+        "周邊候選僅 2 個"
+      ],
+      "_group": "group-mall",
+      "colloquial_zh": null
+    },
+    {
+      "id": "siam-center",
+      "name_zh": "暹羅購物中心",
+      "name_en": "Siam Center",
+      "name_th": "สยามเซ็นเตอร์",
+      "type": "商場",
+      "list_rating": 4.6,
+      "list_review_count": null,
+      "area": "Pathumwan，Rama I 路，BTS Siam 站旁（ONESIAM 商圈）",
+      "coords": {
+        "lat": 13.74639,
+        "lng": 100.5325,
+        "source": "https://en.wikipedia.org/wiki/Siam_Center"
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=Siam+Center+Bangkok",
+      "status": "營運中",
+      "popularity": {
+        "level": "高",
+        "reason": "近 2 年有 Khaosod English（2025-01）、ONESIAM 2025 年末慶典報導（2025-12）、ONESIAM 官方觀光頁（約 2025-08/09）與多支中文影片提及，營運正常。",
+        "sources": [
+          {
+            "title": "Siam's Shopping Trinity Celebrates Chinese New Year 2025 (Khaosod English)",
+            "url": "https://www.khaosodenglish.com/sponsored/2025/01/15/siams-shopping-trinity-celebrates-chinese-new-year-2025/",
+            "date": "2025-01"
+          },
+          {
+            "title": "ONESIAM 歡迎全球旅客參與「2025 奇幻慶典」（Yam 新聞，提及 Siam Center 泰式聖誕樹）",
+            "url": "https://n.yam.com/Article/20251208869112",
+            "date": "2025-12"
+          },
+          {
+            "title": "Snap, Post, Repeat: Top Instagrammable Spots around Bangkok (ONESIAM Tourist)",
+            "url": "https://tourist.onesiam.com/en/happening/8667/onesiams-instagrammable-spots-en/",
+            "date": "2025-08"
+          },
+          {
+            "title": "Siam Center（Visit Thailand Today，更新 2026-09）",
+            "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/siam-center",
+            "date": "2026-09"
+          }
+        ]
+      },
+      "features": [
+        "定位為年輕、時尚導向商場，3 樓有許多泰國新銳與知名設計師品牌（Fly Now III、Kloset、Greyhound Original 等，單一指南）。",
+        "4 樓有空橋與 Siam Discovery 相連，兩館之間的中庭常辦活動。",
+        "2 樓室內天橋（Siam Center 與 Siam Discovery 之間）會隨節慶換主題裝飾，適合拍照（ONESIAM 官方頁）。",
+        "清單備註「附近天橋夜景很酷」查證結果：來源沒有指出清單所說的是哪一座，附近有三處天橋，位置不同。(1) OneSiam Skywalk：橫跨 Pathumwan 路口的公共天橋，連接 Siam Paragon、Siam Center、Siam Discovery 與 BTS，標示 24 小時開放、部分為露天，日落或夜間拍市區天際線評價高；它在本館外，只是與本館相連（VTT，2026-09：https://www.visitthailandtoday.com/activities-tours/bangkok/onesiam-skywalk ）。(2) ONESIAM Elevated Skywalk：蓮花造型，位於 Siam Discovery 夾層（MF），官方頁建議黃昏或傍晚拍，也不在 Siam Center 本館內。(3) Siam Center 2F 與 Siam Discovery 2F 之間的室內天橋：在館內，隨節慶換裝飾，官方頁未指定時段。",
+        "夜間實際點燈狀況與近期節慶燈飾：官方來源沒有 2026 年資料，查到的燈飾報導為 2019、2021 年。"
+      ],
+      "pros": [
+        "能一次買到泰國在地設計師與潮流品牌，與 Central World 等綜合商場相比更偏年輕潮流。",
+        "與 Siam Discovery、Siam Paragon 以天橋相連，雨天或炎熱時可冷氣動線串逛。",
+        "節慶期間有主題佈置，適合拍照。"
+      ],
+      "cons": [
+        "規模與品牌多元度不如大型綜合商場，偏時尚類。",
+        "天橋夜景的實際燈光與可進入時間未獲官方確認，且各來源對最佳拍攝時段看法不一。",
+        "館內店家與樓層資訊來自單一指南，可能已更動。"
+      ],
+      "tickets": "免費",
+      "hours": "每日 10:00-22:00（Visit Thailand Today，更新 2026-09）；OneSiam Skywalk 公共天橋標示 24 小時開放（VTT，更新 2026-09）",
+      "transport": "BTS Siam 站步行約 2 分鐘、約 170 公尺，沿 Skywalk 進入（Visit Thailand Today，更新 2026-09：https://www.visitthailandtoday.com/markets-shopping/bangkok/siam-center ）；頁面未列出口編號。天橋另連接 Siam Discovery、Siam Paragon、MBK 與 National Stadium 站。",
+      "dress_code": null,
+      "best_time": "天橋夜景：ONESIAM 官方頁建議黃昏至傍晚拍 Elevated Skywalk；VTT 頁面指日落與夜間拍照人多，週末與晚間尖峰會擁擠。一般季節：11 月至隔年 2 月最穩定，但 12-1 月人潮最高（VTT，2026-09）。2027 年 1-2 月專屬活動：【資料不足，無法確認】。",
+      "nearby": [
+        {
+          "name": "Siam Discovery",
+          "why": "設計生活風格商場，內有 Elevated Skywalk（蓮花造型天橋）可拍 BTS 與市區天際線，傍晚光線漂亮。",
+          "distance": "約 160 公尺、步行約 2 分鐘（VTT）；2F 有室內天橋直連",
+          "status": "營運中（10:00-22:00）",
+          "sources": [
+            {
+              "title": "Siam Center（Visit Thailand Today，更新 2026-09，列 Siam Discovery 160 m）",
+              "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/siam-center",
+              "date": "2026-09"
+            },
+            {
+              "title": "Snap, Post, Repeat（ONESIAM Tourist，圖檔日期推測約 2025-08，文章日期未標示）",
+              "url": "https://tourist.onesiam.com/en/happening/8667/onesiams-instagrammable-spots-en/",
+              "date": "2025-08"
+            }
+          ]
+        },
+        {
+          "name": "OneSiam Skywalk 公共天橋",
+          "why": "連通 Siam 一帶商場與 BTS 的 24 小時開放天橋，有半露天路段，日落或夜晚可拍市區夜景。",
+          "distance": "約 220 公尺、步行約 3 分鐘（VTT）",
+          "status": "營運中（標示 24 小時開放；週末與晚間尖峰擁擠）",
+          "sources": [
+            {
+              "title": "OneSiam Skywalk（Visit Thailand Today，更新 2026-09）",
+              "url": "https://www.visitthailandtoday.com/activities-tours/bangkok/onesiam-skywalk",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "name": "曼谷藝術文化中心 BACC",
+          "why": "免費展覽空間，逛完商場可看展、逛設計小店。",
+          "distance": "直線約 0.3 公里（以 Wikipedia 座標計算）；VTT 列 BACC 距 OneSiam Skywalk 70 公尺",
+          "status": "營運中（週二至週日 10:00-21:00，週一休，免費；Wikipedia）",
+          "sources": [
+            {
+              "title": "Bangkok Art and Culture Centre（Wikipedia）",
+              "url": "https://en.wikipedia.org/wiki/Bangkok_Art_and_Culture_Centre",
+              "date": null
+            },
+            {
+              "title": "OneSiam Skywalk（Visit Thailand Today，更新 2026-09）",
+              "url": "https://www.visitthailandtoday.com/activities-tours/bangkok/onesiam-skywalk",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "role": "main",
+          "title": "曼谷小資女一級戰區|Siam Center泰國國民品牌大集合！逛街日常 x @baimaitw",
+          "channel": "HELLO ELIE",
+          "url": "https://www.youtube.com/watch?v=HF37cWcIT-o",
+          "video_id": "HF37cWcIT-o",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "SIAM CENTER & SIAM DISCOVERY , BANGKOK SHOPPING MALL / March 2025",
+          "channel": "Bangkok69",
+          "url": "https://www.youtube.com/watch?v=hMwLA0fm1KU",
+          "video_id": "hMwLA0fm1KU",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "list_review_count",
+        "出口編號",
+        "清單所指天橋為哪一座（無來源）",
+        "天橋夜間燈光實況（無 2026 資料）",
+        "3 樓設計師品牌清單（單一指南）",
+        "2027 年 1-2 月專屬活動",
+        "影片觀看數與上傳日",
+        "備用影片已換為 Bangkok69 英文影片（標題標示 2025-03），YouTube oEmbed 已確認可取得"
+      ],
+      "_group": "group-mall",
+      "colloquial_zh": "暹羅中心"
+    },
+    {
+      "id": "jodd-fairs-ratchada",
+      "name_zh": "喬德夜市新址 Jodd Fairs",
+      "name_en": "Jodd Fairs Ratchada",
+      "name_th": "จ๊อดแฟร์ รัชดา",
+      "type": "夜市",
+      "list_rating": 4.1,
+      "list_review_count": null,
+      "area": "曼谷 Din Daeng 區，Ratchadaphisek 路（泰國文化中心 MRT 站旁、Big C Place Ratchadaphisek 旁）",
+      "coords": {
+        "lat": 13.7681679,
+        "lng": 100.5709179,
+        "source": "OpenStreetMap Nominatim（จ๊อดแฟร์ รัชดา）",
+        "source_url": "https://nominatim.openstreetmap.org/search?q=Jodd+Fairs+Ratchadaphisek&format=json"
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=13.7681679,100.5709179",
+      "status": "營運中",
+      "popularity": {
+        "level": "高",
+        "reason": "2025 至 2026 年有多篇媒體、旅遊平台與 YouTube 影片報導搬遷與新址，且 2026 年指南皆列為營運中。",
+        "sources": [
+          {
+            "title": "SAYS：Jodd Fairs Rama 9 closes down（報導拉瑪 9 舊址關閉與 Ratchada 新址）",
+            "url": "https://says.com/my/makan/popular-bangkok-night-market-jodd-fairs-moved",
+            "date": "2025-01"
+          },
+          {
+            "title": "Seth Lui：Jodd Fairs Rama 9 shut down",
+            "url": "https://sethlui.com/jodd-fairs-shuts-down-phra-rama-9-thailand-jan-2025/",
+            "date": "2025-01"
+          },
+          {
+            "title": "Go2-Thailand：Jodd Fairs Ratchada 位置、時段與行程規劃",
+            "url": "https://go2-thailand.com/blog/jodd-fairs-bangkok-night-market-guide/",
+            "date": "2026-07"
+          },
+          {
+            "title": "Trip.com Moments：Jodd Fairs Ratchada",
+            "url": "https://www.trip.com/moments/poi-jodd-fairs-rama-9-night-markets-134009241/",
+            "date": "2026-03"
+          }
+        ]
+      },
+      "features": [
+        "拉瑪 9 世舊址已於 2025 年 1 月前後因租約到期關閉，現行據點為拉差達（Ratchadaphisek）新址。",
+        "新址緊鄰 Big C Place Ratchadaphisek，從泰國文化中心 MRT 站 4 號出口步行約 2 至 3 分鐘。",
+        "攤位數各來源差異大（約 800 至 1,500 以上），以美食為主，另有服飾、配件與小店。",
+        "部分攤位只收現金或泰國 QR Code，外國信用卡常不通用。",
+        "同區另有「Train Night Market Ratchada」，為不同市集，名稱易混淆。"
+      ],
+      "pros": [
+        "捷運直達，交通簡單。",
+        "吃喝、購物集中在同一區，傍晚氣氛熱鬧、好拍照。",
+        "適合順路安排 Ratchada 一帶行程。"
+      ],
+      "cons": [
+        "用餐時段人潮擁擠、視覺吵雜。",
+        "偏觀光客取向，較不像在地夜市，也不一定最便宜。",
+        "網路上仍有大量舊資料指向拉瑪 9 世舊址，易走錯。"
+      ],
+      "tickets": "【資料不足，無法確認】各來源皆未明確寫入場費，推測性說法不採用。",
+      "hours": "多數 2026 指南為每日 17:00 至 01:00（個別攤位可能較早收）；另有一來源寫 16:00 至 24:00，來源間不一致。",
+      "transport": "搭 MRT 藍線至泰國文化中心站（Thailand Cultural Centre）4 號出口，步行約 2 至 3 分鐘，朝 Big C 方向走。（來源：Go2-Thailand 2026-07；Phuket101 2026-08 亦寫兩分鐘步行至 MRT 站）",
+      "dress_code": null,
+      "best_time": "查無 2027 年 1–2 月的專屬來源。時段建議：17:00–18:30 較不擁擠，18:30–21:30 最熱鬧、需排隊（Go2-Thailand，2026-07）。",
+      "nearby": [
+        {
+          "name": "Train Night Market Ratchada（火車夜市拉差達）",
+          "why": "另一個火車夜市風格的市集，復古服飾、小吃與後排酒吧，可與 Jodd Fairs 併成同一晚行程。",
+          "distance": "自 MRT 泰國文化中心站 3 號出口步行約 5 分鐘；與 Jodd Fairs 的確切步行距離來源未寫（僅稱可步行互通）",
+          "status": "營運中：2026-03-27 重新開幕，先前自 2025-05-05 起關閉；營業時間 17:00–01:00（有來源寫週二至週日，出發前請看粉專確認）",
+          "sources": [
+            {
+              "title": "Phuket101：Train Night Market Ratchada",
+              "url": "https://www.phuket101.net/bangkok/train-night-market-ratchada/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Airportels：Night Market Bangkok 12 Still Open in 2026",
+              "url": "https://www.airportels.asia/travel-guides/bangkok-night-market/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "name": "泰國文化中心 Thailand Cultural Centre",
+          "why": "國家級表演藝術與展覽場館，有泰國文明展示館 Hor Thai Nithat，可作為夜市前的文化行程。",
+          "distance": "自 MRT 站步行約 600 公尺（來源估計；與夜市的直線距離未另行量測）",
+          "status": "每日一般開放，展覽館週一至週五 09:30–16:00；頁面無具體更新日期，近期活動需看官網",
+          "sources": [
+            {
+              "title": "LoveThailand：Thailand Cultural Centre（無明確日期，GPS 13.766391, 100.573777）",
+              "url": "https://www.lovethailand.org/travel/en/17-Bangkok/965-Thailand-Cultural-Centre.html",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "role": "main",
+          "title": "【搶先實拍】曼谷人氣夜市開分支～Jodd Fairs Ratchada，昨晚開幕啦！",
+          "channel": "胡慧冲遊泰國",
+          "url": "https://www.youtube.com/watch?v=gLRk7VUhuDE",
+          "video_id": "gLRk7VUhuDE",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "Jodd Fairs Ratchada - Bangkok's Go-To Night Market - Bangkok Thailand 2026",
+          "channel": "Endless Journey",
+          "url": "https://www.youtube.com/watch?v=WY_l3MQSwEs",
+          "video_id": "WY_l3MQSwEs",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "name_th 取自 OSM 名稱",
+        "list_review_count",
+        "tickets（各來源皆未寫入場費）",
+        "影片觀看數與上傳日（oembed 不提供）",
+        "舊址關閉確切日期",
+        "The One Ratchada 營運狀態（已自 nearby 移除，無 2025–2026 來源）",
+        "2027 年 1–2 月專屬建議",
+        "兩個夜市之間的確切步行距離"
+      ],
+      "_group": "group-market",
+      "colloquial_zh": "喬德夜市"
+    },
+    {
+      "id": "talad-rot-fai-srinakarin",
+      "name_zh": "席娜卡琳火車夜市",
+      "name_en": "Talad Rot Fai Srinakarin (Train Night Market Srinakarin)",
+      "name_th": null,
+      "type": "夜市",
+      "list_rating": 4.3,
+      "list_review_count": null,
+      "area": "曼谷 Prawet 區 Nong Bon，Srinakarin Soi 51（Seacon Square 後方）",
+      "coords": {
+        "lat": 13.695259531726,
+        "lng": 100.65065398413
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=13.695259531726,100.650653984130",
+      "status": "營運中",
+      "popularity": {
+        "level": "高",
+        "reason": "2026 年多個旅遊指南與大量近 2 年 YouTube 影片皆介紹，且 2026 年指南列為營運中。",
+        "sources": [
+          {
+            "title": "Thai Holiday Guide：Train Night Market Srinakarin",
+            "url": "https://www.thaiholidayguide.com/attraction/train-night-market-srinakarin/",
+            "date": "2026-06"
+          },
+          {
+            "title": "Airportels：Night Market Bangkok 12 Still Open in 2026",
+            "url": "https://www.airportels.asia/travel-guides/bangkok-night-market/",
+            "date": "2026-07"
+          },
+          {
+            "title": "Thai2Siam：Talad Rot Fai Srinakarin Market",
+            "url": "https://www.thai2siam.com/business/bangkok/attractions-shopping/market/talad-rot-fai-srinakarin-market",
+            "date": null
+          },
+          {
+            "title": "YouTube：MASSIVE Bangkok Night Market Tour 2025（Srinakarin Train Market）",
+            "url": "https://www.youtube.com/watch?v=wiNVbycrEgg",
+            "date": "2025-01"
+          },
+          {
+            "title": "Thaiest：Talad Rot Fai Srinakarin Train Night Market（含營業日與交通，2026-03-06 更新）",
+            "url": "https://thaiest.com/blog/talad-rot-fai-srinakarin-train-night-market",
+            "date": "2026-03"
+          }
+        ]
+      },
+      "features": [
+        "以復古、二手與古董為主的露天夜市，另有倉庫區、Rod's Antiques（改建工廠的古董與老爺車展售）。",
+        "有街邊小吃、入口處臨時酒吧與現場樂團，並有古董車、Vespa。",
+        "旅行社與媒體資料提到場內擺放古董車與飛機等大型裝置，可拍照（清單備註「有飛機」可由此佐證，飛機詳情未查證）。",
+        "攤位數約 2,000 以上（Thai2Siam）。"
+      ],
+      "pros": [
+        "復古與古董攤位多，拍照題材豐富。",
+        "價格被部分指南形容比市區觀光夜市親民。",
+        "免費入場，晚上有酒吧與現場音樂。"
+      ],
+      "cons": [
+        "位在市郊，單程約 30 至 45 分鐘車程，來回需規劃叫車。",
+        "週末晚上人潮擁擠。",
+        "開放日與位置描述在各來源不一致。"
+      ],
+      "tickets": "免費（Thai Holiday Guide，2026-06）",
+      "hours": "週四至週日 17:00–01:00，週一至週三休（Thaiest，2026-03-06 更新；Thai Holiday Guide 2026-06 寫 17:00–24:00，結束時間兩來源不同）。19:00 後攤位較齊全。",
+      "transport": "MRT 黃線 Suan Luang Rama IX（YL15）1 號出口，Thaiest（2026-03）稱可直達夜市入口；但 Thai Holiday Guide（2026-06）寫附近無便利 BTS／MRT，建議叫計程車或 Grab，市區車程 30–45 分鐘（Sukhumvit／Asok 出發約 200–250 銖）。兩來源不一致，請出發前用地圖確認。另可搭公車 133、145、206、207、11 至 Seacon Square，再步行約 200 公尺。",
+      "dress_code": null,
+      "best_time": "查無 2027 年 1–2 月的專屬來源。時段建議：開市後 19:00 起最熱鬧；週五至週日人潮最多（Thai Holiday Guide，2026-06）。須挑週四至週日前往。",
+      "nearby": [
+        {
+          "name": "Seacon Square（Seacon Square 購物中心）",
+          "why": "夜市就在商場後方，可先用餐或避暑，公車站也在此。",
+          "distance": "夜市在其後方，公車站至夜市約 200 公尺（Thaiest）",
+          "status": "營運中（飯店導覽寫週一至週日 10:00–21:30，日期未確認）",
+          "sources": [
+            {
+              "title": "Thaiest：Talad Rot Fai Srinakarin",
+              "url": "https://thaiest.com/blog/talad-rot-fai-srinakarin-train-night-market",
+              "date": "2026-03"
+            }
+          ]
+        },
+        {
+          "name": "Haha 55 Mall",
+          "why": "位於夜市主入口旁，入場前後可順路逛。",
+          "distance": "緊鄰主入口（Thaiest）",
+          "status": "商場營運狀態與營業時間未查證，僅作為入口地標",
+          "sources": [
+            {
+              "title": "Thaiest：Talad Rot Fai Srinakarin",
+              "url": "https://thaiest.com/blog/talad-rot-fai-srinakarin-train-night-market",
+              "date": "2026-03"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "role": "main",
+          "title": "Bangkok's Original Train Night Market: Rod Fai Srinakarin [4K HDR]",
+          "channel": "Walkzilla Journey",
+          "url": "https://www.youtube.com/watch?v=8p9LoCtG6xM",
+          "video_id": "8p9LoCtG6xM",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "MASSIVE Bangkok Night Market Tour | Srinakarin Train Market Street Food + Vintage Shopping",
+          "channel": "The Dufresnes",
+          "url": "https://www.youtube.com/watch?v=wiNVbycrEgg",
+          "video_id": "wiNVbycrEgg",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "name_th",
+        "list_review_count",
+        "營業結束時間（24:00 vs 01:00）與交通（MRT 黃線直達 vs 無便利軌道）來源衝突",
+        "Paradise Park 已自 nearby 移除（無 2025–2026 日期來源與確切距離）",
+        "Haha 55 Mall 營運狀態",
+        "「有飛機」的具體位置",
+        "影片觀看數與上傳日",
+        "2027 年 1–2 月專屬建議"
+      ],
+      "_group": "group-market",
+      "transport_sources": [
+        "https://thaiest.com/blog/talad-rot-fai-srinakarin-train-night-market",
+        "https://www.thaiholidayguide.com/attraction/train-night-market-srinakarin/"
+      ],
+      "colloquial_zh": "火車夜市"
+    },
+    {
+      "id": "chula-banthat-thong-night-market",
+      "name_zh": "朱拉隆功夜市",
+      "name_en": "Chulalongkorn Night Market / Banthat Thong Road (Chula Food Street)",
+      "name_th": "บรรทัดทอง",
+      "type": "夜市／街市",
+      "list_rating": 4.4,
+      "list_review_count": null,
+      "area": "曼谷 Pathum Wan 區，Banthat Thong 路（Phayathai 路與朱拉隆功大學之間、Soi Chulalongkorn 5 一帶）",
+      "coords": {
+        "lat": 13.7447026,
+        "lng": 100.5232528,
+        "source": "OpenStreetMap 道路節點（ถนนบรรทัดทอง，Pathum Wan 段、近 Soi Chulalongkorn 5）；為道路位置，非單一市集地標",
+        "source_url": "https://nominatim.openstreetmap.org/search?q=Banthat+Thong+Road+Bangkok&format=json"
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=13.7447026,100.5232528",
+      "status": "營運中",
+      "popularity": {
+        "level": "高",
+        "reason": "2026 年 Tripadvisor、旅遊部落格與多支 2025 年 YouTube 影片皆介紹；但無官方資料。另有維基百科記載 2025 年遊客量曾大幅下滑；仍有 2026 年指南列為營運中。",
+        "sources": [
+          {
+            "title": "Your Thai Guide：Chulalongkorn Food Street 指南",
+            "url": "https://yourthaiguide.com/chulalongkorn-food-street-your-complete-guide-to-bangkoks-bhantat-thong-night-market/",
+            "date": "2026-01"
+          },
+          {
+            "title": "Tripadvisor：Chulalongkorn night market",
+            "url": "https://www.tripadvisor.ie/Attraction_Review-g293916-d34381958-Reviews-Chulalongkorn_night_market-Bangkok.html",
+            "date": "2026-05"
+          },
+          {
+            "title": "YouTube：Bangkok's Best Kept Night Market Secrets 含 Banthatthong（2025）",
+            "url": "https://www.youtube.com/watch?v=cIeiBAeZo98",
+            "date": "2025-01"
+          },
+          {
+            "title": "維基百科：Banthat Thong Road（記載 2025 年遊客量下滑與評價爭議）",
+            "url": "https://en.wikipedia.org/wiki/Banthat_Thong_Road",
+            "date": "2025"
+          }
+        ]
+      },
+      "features": [
+        "沿 Banthat Thong 路延伸的美食街，一路是店屋餐廳與街邊小吃，並非單一封閉式夜市。",
+        "指南列出的熱門項目包括 Elvis Suki（火鍋）、Jeh O Chula、青木瓜沙拉、烤豬肉串、粥與甜點。",
+        "單價約 40 至 150 銖（Your Thai Guide，2026-01）。",
+        "路段上有 TAY 復古與二手服飾市集（YouTube 說明欄）。"
+      ],
+      "pros": [
+        "大學城氛圍，在地感強、價格親民。",
+        "捷運與 BTS 都能步行抵達。",
+        "格局緊湊，第一次去也好逛。"
+      ],
+      "cons": [
+        "傍晚尖峰人潮擁擠，名店需排隊。",
+        "多數攤位只收現金，附近 ATM 常大排長龍。",
+        "各來源營業時間不一致，且無官方資料。"
+      ],
+      "tickets": "免費（街市，無入場收費的說明；各來源未提及收費）",
+      "hours": "Your Thai Guide（2026-01-11 更新）：多數攤位每日營業，約 16:00 至午夜，週末部分攤位至 01:00 後，尖峰 18:00–21:00；Tripadvisor 2026-05 顯示 16:00–23:45。個別店家不同。",
+      "transport": "BTS 國立體育館站（National Stadium）步行約 5 至 7 分鐘；MRT Sam Yan 站步行約 10 分鐘。",
+      "dress_code": null,
+      "best_time": "查無 2027 年 1–2 月專屬來源。時段建議：17:30 前或 22:00 後較不擁擠，尖峰約 18:00 至 21:00（Your Thai Guide，2026-01）。",
+      "nearby": [
+        {
+          "name": "CU Centenary Park（朱拉隆功大學百年紀念公園）",
+          "why": "市中心的雨水回收設計公園，夜市前後散步拍照。",
+          "distance": "自 Sam Yan MRT 站步行約 8–10 分鐘；與 Banthat Thong 路的確切距離來源未寫",
+          "status": "營運中：每日 05:00–22:00，免費（Your Thai Guide，2025-09-07 更新）",
+          "sources": [
+            {
+              "title": "Your Thai Guide：CU Centenary Park FAQ",
+              "url": "https://yourthaiguide.com/chulalongkorn-university-centenary-park-tourist-faq/",
+              "date": "2025-09"
+            },
+            {
+              "title": "朱拉隆功大學：CU Centenary Park",
+              "url": "https://www.chula.ac.th/en/services/cu-centenary-park/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "name": "Jim Thompson House（金湯普森之家）",
+          "why": "泰式柚木老屋與絲綢博物館，是文化型景點，可與夜市搭配成半日行程。",
+          "distance": "同在 BTS 國立體育館站周邊（確切距離未查證）",
+          "status": "營運中（2026 年多個指南列出；票價與時段各來源不一：09:00 或 10:00 開，票價 200 或 250 銖）",
+          "sources": [
+            {
+              "title": "TravelTriangle：Jim Thompson House 2026",
+              "url": "https://traveltriangle.com/blog/jim-thompson-house/",
+              "date": "2026-01"
+            },
+            {
+              "title": "Tripadvisor：Jim Thompson House",
+              "url": "https://www.tripadvisor.com/447276",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "role": "main",
+          "title": "Bangkok's Best Kept Night Market Secrets: Dragon Town, Joy Fest & Banthatthong - Thailand 2025",
+          "channel": "Endless Journey",
+          "url": "https://www.youtube.com/watch?v=cIeiBAeZo98",
+          "video_id": "cIeiBAeZo98",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "[BANGKOK] Banthat Thong Road \"Discover Street Foods Paradise In Bangkok\" | Thailand [4K HDR]",
+          "channel": "Walkzilla Journey",
+          "url": "https://www.youtube.com/watch?v=NnUNLhFZnXo",
+          "video_id": "NnUNLhFZnXo",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "list_review_count",
+        "清單名稱對應 Banthat Thong 路為推斷（見 identity_note）",
+        "座標為道路位置，非單一地標",
+        "影片為英文",
+        "nearby 兩項與夜市的確切距離",
+        "2027 年 1–2 月專屬建議"
+      ],
+      "_group": "group-market",
+      "identity_note": "清單所稱「朱拉隆功夜市」並無官方名稱，各指南（Your Thai Guide，2026-01）把 Bhantat／Banthat Thong 路（บรรทัดทอง）稱為 Chulalongkorn food street／Chulalongkorn night market，指的是沿街的美食街，不是封閉式夜市。另有維基百科記載，2025 年泰媒報導該街遊客量自高峰大幅下滑，有批評稱在地風味流失、主要接待陸客，行前宜留意。",
+      "colloquial_zh": null
+    },
+    {
+      "id": "747-cafe-lat-krabang",
+      "name_zh": "747 Café",
+      "name_en": "747 Cafe",
+      "name_th": null,
+      "type": "咖啡",
+      "list_rating": 4.4,
+      "list_review_count": null,
+      "area": "曼谷 Lat Krabang 區 Thap Yao（627 1 Luang Phaeng Rd, 10520）",
+      "coords": {
+        "lat": 13.7185773,
+        "lng": 100.8022843,
+        "source": "Google 地圖地點頁（747 cafe aeroplane cafe，由 TheSmartLocal 的短網址展開）",
+        "source_url": "https://www.google.com/maps/place/747+cafe+aeroplane+cafe/@13.7185773,100.8000902,17z/data=!3m1!4b1!4m5!3m4!1s0x311d691516e58f8f:0x571b5bfac6b4d84b!8m2!3d13.7185773!4d100.8022843"
+      },
+      "maps_url": "https://www.google.com/maps/place/747+cafe+aeroplane+cafe/@13.7185773,100.8000902,17z/data=!3m1!4b1!4m5!3m4!1s0x311d691516e58f8f:0x571b5bfac6b4d84b!8m2!3d13.7185773!4d100.8022843",
+      "status": "營運中",
+      "popularity": {
+        "level": "中",
+        "reason": "2026 年僅見平台（Trip.com、Tripadvisor）與評論，媒體與部落格報導多為 2020 至 2022 年，近 2 年獨立來源有限。",
+        "sources": [
+          {
+            "title": "Trip.com Moments：747 Cafe（含 2026-02 評論、2026-10 更新）",
+            "url": "https://www.trip.com/moments/poi-747-cafe-118481620",
+            "date": "2026-10"
+          },
+          {
+            "title": "Tripadvisor：747 Cafe",
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g293916-d24137324-Reviews-747_Cafe-Bangkok.html",
+            "date": "2026-01"
+          },
+          {
+            "title": "TheSmartLocal：747 Cafe（舊文）",
+            "url": "https://thesmartlocal.co.th/747-cafe",
+            "date": "2022-01"
+          }
+        ]
+      },
+      "features": [
+        "以退役波音 747-400（原 Orient Thai）改建的雙層飛機咖啡廳，位於約 3.95 英畝場地。",
+        "可進駕駛艙拍照、坐機長座位，機翼平台與引擎區也是打卡點。",
+        "入場採登機證式門票，每人 120 銖可折抵飲品；身高 120 公分以下兒童免費；可租機長與空服員制服。"
+      ],
+      "pros": [
+        "題材獨特，拍照效果好，適合航空迷與親子。",
+        "門票可折抵飲料，等於低門檻。"
+      ],
+      "cons": [
+        "位置偏遠，需叫車或搭機場快線至 Lat Krabang 站再轉乘，不便。",
+        "餐飲評價普通，主要賣點是場景。",
+        "週末與旅行團時段人多（有評論提到週末限時 1 小時）。"
+      ],
+      "tickets": "入場 120 銖／人，可折抵一杯飲品（TheSmartLocal 2022、Differentville）；兒童身高門檻各來源寫 120 或 122 公分以下免費。另有評論寫 200 銖，未能確認。",
+      "hours": "各來源不一致：Trip.com 09:00–18:00；TheSmartLocal（2022）08:00–18:00；Differentville 與 Trazy 10:00–19:00。均寫每日營業，皆無官方來源，出發前請查 Google 地圖或粉專。",
+      "transport": "機場快線至 Lat Krabang 站後叫車約 7 公里；多數評論建議 Grab 或 Bolt，單程約 100 至 200 銖。距素萬那普機場約 15 至 20 分鐘車程。",
+      "dress_code": null,
+      "best_time": "查無 2027 年 1–2 月專屬來源。時段建議：平日上午人較少（Trip.com，2026-10）。",
+      "nearby": [],
+      "videos": [
+        {
+          "role": "main",
+          "title": "A Detailed Exploration of the 747 Cafe in Bangkok",
+          "channel": "KP Explores",
+          "url": "https://www.youtube.com/watch?v=12Sf5SJqmE8",
+          "video_id": "12Sf5SJqmE8",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "747 Cafe Bangkok, Thailand in 4K HDR",
+          "channel": "Thai 8K HDR Variety",
+          "url": "https://www.youtube.com/watch?v=E_etKR8yow4",
+          "video_id": "E_etKR8yow4",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "name_th",
+        "list_review_count",
+        "營業時間（來源衝突，無官方）",
+        "票價 200 銖說法",
+        "影片為英文、觀看數與上傳日",
+        "近 2 年媒體報導不足",
+        "nearby 無合格候選",
+        "2027 年 1–2 月專屬建議"
+      ],
+      "_group": "group-market",
+      "hours_sources": [
+        "https://uk.trip.com/restaurant/thailand/bangkok/detail/747-cafe-118481620",
+        "https://thesmartlocal.co.th/747-cafe",
+        "https://differentville.com/?p=7588",
+        "https://blog.trazy.com/instagram-worthy-cafes-bangkok/"
+      ],
+      "transport_note": "自席娜卡琳夜市（座標約 13.695, 100.651）至此直線約 16 公里，兩者不相鄰，不可併成同一步行行程。",
+      "nearby_note": "2 公里內未找到有 2025–2026 日期來源且確認營運的景點。曾見的 Hua Takhe 藝術市集、Paseo Mall、Runway 3119 夜市等僅有飯店距離列表或無日期來源，且未確認距離 2 公里內，故未列入。",
+      "colloquial_zh": "飛機咖啡"
+    },
+    {
+      "id": "khlong-khuean-ganesh-park",
+      "name_zh": "The Khlong Khuean Ganesh International Park",
+      "name_en": "The Khlong Khuean Ganesh International Park (Khlong Khuean Shri Ganesh Park)",
+      "name_th": null,
+      "type": "公園／景點",
+      "list_rating": 4.7,
+      "list_review_count": null,
+      "area": "北柳府（Chachoengsao）Khlong Khuean 縣 Bang Talat（不在曼谷市內，距曼谷約 100 公里，影片說明寫約 106 公里）",
+      "coords": {
+        "lat": 13.735451,
+        "lng": 101.174505,
+        "source": "https://wanderlog.com/place/details/2155150/the-khlong-khuean-ganesh-international-park"
+      },
+      "maps_url": "https://www.google.com/maps/search/?api=1&query=13.735451,101.174505",
+      "status": "營運中",
+      "popularity": {
+        "level": "高",
+        "reason": "2026 年 Tripadvisor、Trip.com、Wanderlog 與旅遊部落格皆有條目與評論，Google 評分約 4.7（Wanderlog 顯示 9,745 則）。",
+        "sources": [
+          {
+            "title": "Wanderlog：The Khlong Khuean Ganesh International Park",
+            "url": "https://wanderlog.com/place/details/2155150/the-khlong-khuean-ganesh-international-park",
+            "date": "2026-01"
+          },
+          {
+            "title": "Tripadvisor：Khlong Khuean Ganesh International park",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g2237252-d15032701-Reviews-Khlong_Khuean_Ganesh_International_park-Khlong_Khuean_Chachoengsao_Province.html",
+            "date": "2026-01"
+          },
+          {
+            "title": "Trip.com：The Khlong Khuean Ganesh International Park",
+            "url": "https://www.trip.com/travel-guide/attraction/khlong-khuean/the-khlong-khuean-ganesh-international-park-133523648/",
+            "date": "2026-01"
+          },
+          {
+            "title": "The Abroad Guide：Khlong Khuean Shri Ganesh Park 與 Ban Mai Market",
+            "url": "https://theabroadguide.com/khlong-khuean-shri-ganesh-park-100-year-old-ban-mai-market/",
+            "date": "2026-01"
+          },
+          {
+            "title": "Expedia 曼谷出發全日遊（含象神公園、Ban Mai 市場）",
+            "url": "https://www.expedia.com.my/things-to-do/worlds-tallest-ganesha-and-temple-of-bat-full-day-tour-bangkok.a2152427.activity-details",
+            "date": "日期未標示"
+          }
+        ]
+      },
+      "features": [
+        "園區主體為約 39 公尺的青銅站立象神像，多個來源稱為世界最高之一（「世界最高」說法無權威機構認證）。",
+        "位於 Bang Pakong 河畔，有庭園步道，訪客常赤腳繞行，步道鋪藍色墊。",
+        "有英泰雙語標示與大停車場；婆羅門祈福儀式有固定時段（約 11:00、14:00、16:00，因日而異）。"
+      ],
+      "pros": [
+        "雕像規模壯觀、拍照效果好。",
+        "環境整潔，設施完善。",
+        "常與 Ban Mai Market、鄰近寺廟組成一日遊。"
+      ],
+      "cons": [
+        "不在曼谷市區，需包車或自駕，單日往返約 8 小時。",
+        "入場費各來源不一致，須現場確認。",
+        "日曬強，需防曬與襪子（赤腳走道會燙）。"
+      ],
+      "tickets": "Wanderlog 與 Trip.com 寫免費；2026-01 一則 Google 評論稱外國人 100 銖並附花環；本次查詢未找到官方公告，維持「來源衝突，須現場確認」。",
+      "hours": "Wanderlog：週一至五 09:00–17:00，週末 07:30–18:00；Trip.com 寫週一至五 08:00–17:00，週末與假日 07:30–18:00；Tripniceday 寫每日 08:00–18:00（日期未標示）。來源不一，出發前確認。",
+      "transport": "距曼谷約 100 公里，無可靠公共交通資料，需包車或自駕。Expedia 曼谷出發全日遊稱車程約 1.5 小時；Travelocity 私人司機行程約 10 小時、含飯店接送。（來源：https://www.expedia.com.my/things-to-do/worlds-tallest-ganesha-and-temple-of-bat-full-day-tour-bangkok.a2152427.activity-details；https://www.travelocity.com/things-to-do/chachoengsao-biggest-ganesh.a52718761.activity-details，日期未標示）。公共交通【資料不足，無法確認】；Trip.com 提到的 Ekkamai 小巴指的是 Bang Khla，不可套用。",
+      "dress_code": "園區須赤腳走步道，來源建議天熱帶襪子（Wanderlog）。園區正式著裝規定【資料不足，無法確認】；同日行程的寺廟（如 Wat Saman Rattanaram）須遮肩膝並脫鞋（Thai Holiday Guide 2026-07）。",
+      "best_time": "建議平日或清晨前往避開人潮；評論稱傍晚較涼（Tripniceday，日期未標示）；天熱帶襪子。2027 年 1–2 月專屬建議【資料不足，無法確認】（來源：https://wanderlog.com/place/details/2155150/the-khlong-khuean-ganesh-international-park）",
+      "nearby": [
+        {
+          "name": "Wat Saman Rattanaram（粉紅臥象神寺）",
+          "why": "有 16 公尺高的粉紅臥象神像，色彩鮮明好拍。",
+          "distance": "座標直線約 5.2 公里（依 Thai Holiday Guide 座標自行估算），開車短程，車程未查證",
+          "status": "營運中（每日 08:00–17:00，免費，須遮肩膝並脫鞋入殿，Thai Holiday Guide 2026-07）",
+          "sources": [
+            {
+              "title": "Thai Holiday Guide - Wat Saman Ratanaram",
+              "url": "https://www.thaiholidayguide.com/attraction/wat-saman-ratanaram/",
+              "date": "2026-07"
+            },
+            {
+              "title": "The Abroad Guide 行程",
+              "url": "https://theabroadguide.com/khlong-khuean-shri-ganesh-park-100-year-old-ban-mai-market/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "name": "Ban Mai Riverside Market（百年古市場）",
+          "why": "約百年歷史的河岸木造老街市集，邊逛邊吃。",
+          "distance": "座標直線約 9.8 公里（自行估算），車程未查證",
+          "status": "僅週六、日 08:00–17:00 營運，國定假日也熱鬧，平日多數店家休息（Thai Holiday Guide 2026-07）",
+          "sources": [
+            {
+              "title": "Thai Holiday Guide - Baan Mai Riverside Market",
+              "url": "https://www.thaiholidayguide.com/attraction/baan-mai-riverside-market/",
+              "date": "2026-07"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "role": "main",
+          "title": "The Khlong Khuean Ganesh International Park, Chachoengsao, Thailand",
+          "channel": "T. \"Charlie\" Lay.",
+          "url": "https://www.youtube.com/watch?v=NTpuOMeCCmw",
+          "video_id": "NTpuOMeCCmw",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        },
+        {
+          "role": "backup",
+          "title": "World's Tallest Standing Ganesha Statue: Khlong Khuean Ganesh International Park",
+          "channel": "Endless Journey",
+          "url": "https://www.youtube.com/watch?v=Tp5w3LfKU-0",
+          "video_id": "Tp5w3LfKU-0",
+          "views_at_check": null,
+          "published": null,
+          "embeddable": true,
+          "checked_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "unverified": [
+        "name_th",
+        "list_review_count",
+        "入場費（免費 vs 外國人 100 銖，來源衝突）",
+        "開放時間（來源不一致）",
+        "公共交通方式",
+        "園區正式著裝規定",
+        "best_time（2027 年 1–2 月）",
+        "影片為英文、觀看數與上傳日，未找到中文影片",
+        "周邊候選實際車程"
+      ],
+      "coords_note": "OpenStreetMap 另有條目座標 13.7361621, 101.1749121（與 Wanderlog 差約 100 公尺），互相吻合。",
+      "nearby_note": "兩個候選距離皆為直線估算，且超過 2 公里，依指示屬同府內遠距離景點，需包車串聯；車程分鐘數未查到可信來源。",
+      "colloquial_zh": "象神公園"
+    }
+  ],
+  "appendix": [
+    {
+      "id": "si-yaek-huatakhe",
+      "name_zh": "Si Yaek Huatakhe Cafe & Guesthouse",
+      "type": "賓館",
+      "list_rating": 4.4,
+      "note": "住宿，不分析"
+    },
+    {
+      "id": "si-phraya",
+      "name_zh": "Si Phraya（Bang Rak）",
+      "type": "住宿點",
+      "list_rating": null,
+      "note": "清單標為住宿點，是否為你的住宿需確認"
+    },
+    {
+      "id": "jcb",
+      "name_zh": "Jewellery Center Building (JCB)",
+      "type": "辦公室租借代理",
+      "list_rating": 3.9,
+      "note": "用途需確認（是否為集合點）"
+    },
+    {
+      "id": "charter-pickup",
+      "name_zh": "包車定位點",
+      "type": "備註型",
+      "list_rating": null,
+      "note": "集合點，不分析"
+    }
+  ]
+}

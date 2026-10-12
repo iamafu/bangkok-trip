@@ -1,0 +1,302 @@
+[
+  {
+    "id": "jeh-o-chula",
+    "name_zh": "Jeh O Chula",
+    "name_en": "Jeh O Chula",
+    "name_th": "เจ๊โอว (ร้านเจ๊โอว จุฬา)",
+    "type": "泰式餐廳（宵夜、泰式粥與 Mama 泡麵冬蔭功）",
+    "list_rating": 4.1,
+    "list_review_count": null,
+    "area": "Pathum Wan／Banthat Thong／Sam Yan（朱拉隆功大學旁）",
+    "coords": null,
+    "maps_url": null,
+    "status": "營運中",
+    "popularity": {
+      "level": "中",
+      "reason": "近 2 年內可確認日期的獨立來源僅 2 筆（Phuket101 2026-09、Ranting Panda 2025-08），『連續入選米其林必比登推介至 2025』一說僅見於 Phuket101，未直接取得 Michelin 官方頁面，故依規則暫判為中，驗證官方後可升為高。",
+      "sources": [
+        {"title": "Phuket101 - The Most Famous Tom Yum Mama in Bangkok（頁面標示更新 2026-09-22）", "url": "https://www.phuket101.net/bangkok/jeh-o-chula/", "date": "2026-09"},
+        {"title": "The Ranting Panda - Panda Picks: Best Bangkok Local Food Eateries（含 Jeh O Chula，提及排隊極長）", "url": "https://therantingpanda.com/2025/08/27/panda-picks-best-bangkok-local-food-eateries-to-try-from-jeh-o-chulas-tom-yum-mama-to-thong-smiths-thai-boat-noodles/", "date": "2025-08"},
+        {"title": "TheSmartLocal - Tom Yum at Jeh O Chula（日期不明）", "url": "https://thesmartlocal.com/thailand/jeh-o-chula/", "date": null}
+      ]
+    },
+    "features": [
+      "招牌是 Mama 泡麵冬蔭功，湯底濃郁帶奶香，配料有蝦、花枝、脆皮豬肉、肉丸與生蛋黃 [1][2]",
+      "同時賣泰式粥（khao tom）與小菜，屬於宵夜型餐廳 [1]",
+      "據 Phuket101，連續多年入選米其林必比登推介（至 2025），此點待官方頁面確認 [1]",
+      "價位親民，多數菜色約 100–300 泰銖，Mama 冬蔭功約 250–300 泰銖可兩人分食 [1]"
+    ],
+    "pros": [
+      "價格合理且份量可分食 [1]",
+      "營業到午夜，適合晚餐或宵夜行程 [1]",
+      "位在 BTS National Stadium 步行可達的範圍 [1]"
+    ],
+    "cons": [
+      "尖峰時段排隊很長，現場候位可能達 2 小時以上 [1][2]",
+      "停車不易，建議搭乘 Grab 或計程車 [1]",
+      "各來源對 Mama 冬蔭功供應時段說法不一（僅 23 點後或全天供應） [1]"
+    ],
+    "tickets": "【資料不足，無法確認】無入場費；餐點約 100–300 泰銖（來源：Phuket101 2026-09）",
+    "hours": "每日 16:00（部分來源 15:50）至 00:00；各來源開店時間略有差異，出發前需再確認",
+    "transport": "BTS National Stadium 站 1 號出口，沿 Banthat Thong 路步行約 10 分鐘，轉入 Soi Charat Mueang，門牌 113 號在右側（Phuket101）",
+    "dress_code": null,
+    "best_time": "建議開店前（約 16:00 前）抵達，或接近午夜入場以減少排隊（Phuket101）；2027 年 1–2 月屬泰國涼季旺季，未見針對性的預估資料，【資料不足，無法確認】",
+    "nearby": [
+      {
+        "name": "朱拉隆功大學百週年公園（Chulalongkorn University Centenary Park）",
+        "why": "約 29 萊的都會綠地，設計成『城市森林』，適合飯前飯後散步與拍照",
+        "distance": "約略可由 Samyan／National Stadium 步行 8–10 分鐘（依官方交通說明）；與餐廳實際距離待查證",
+        "status": "待查證（校方官網介紹，未取得 2025–2026 開放時間）",
+        "sources": [
+          {"title": "Chulalongkorn University - CU Centenary Park", "url": "https://www.chula.ac.th/en/services/cu-centenary-park/", "date": null}
+        ]
+      },
+      {
+        "name": "Jim Thompson House（吉姆湯普森故居）",
+        "why": "泰絲推廣者的泰式老宅博物館，對面有 Baan Krua 絲織老社區",
+        "distance": "約略位於 National Stadium 站周邊，實際距離待查證",
+        "status": "待查證（僅取得旅行團介紹，缺 2025–2026 官方營運資訊）",
+        "sources": [
+          {"title": "TakeMeTour - Sightsee Bangkok: Jim Thompson House", "url": "https://www.takemetour.com/trip/sightsee-bangkok-jim-thompson-house-historical-museum-temple-local-lunch", "date": null}
+        ]
+      }
+    ],
+    "videos": [
+      {"role": "main", "title": "ONE OF THE BEST RESTAURANTS IN BANGKOK!!! Trying the Famous Mama Noodles in Jeh O!", "channel": "No Hungry Days", "url": "https://www.youtube.com/watch?v=nTZzGE1-hRA", "video_id": "nTZzGE1-hRA", "views_at_check": 1086, "published": "2023-05", "embeddable": true, "checked_on": "2026-10-12"},
+      {"role": "backup", "title": "THE BEST MAMA NOODLES IN BANGKOK! Jeh O Chula | Ft. Clint Lozada | EatwithHans Ep16", "channel": "Hans Manikan", "url": "https://www.youtube.com/watch?v=M2NTuNOquTw", "video_id": "M2NTuNOquTw", "views_at_check": 5256, "published": "2021-04", "embeddable": true, "checked_on": "2026-10-12"}
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "coords 與 maps_url（未取得 Michelin／Google 地圖座標）",
+      "list_review_count（未取得 Google 地圖評論數）",
+      "name_th 為搜尋結果中的店名寫法，未由官方頁面確認",
+      "Michelin 必比登 2018–2025 連續入選（僅 Phuket101 單一來源）",
+      "Mama 冬蔭功全天供應或僅宵夜時段",
+      "nearby 兩項缺 2025–2026 營運來源，且尚未與清單 21 項比對是否重複",
+      "影片皆非中文且上傳超過 3 年，未找到近 3 年中文影片",
+      "best_time（2027 年 1–2 月）無資料"
+    ]
+  },
+  {
+    "id": "raan-jay-fai",
+    "name_zh": "Raan Jay Fai",
+    "name_en": "Raan Jay Fai",
+    "name_th": "ร้านเจ๊ไฝ",
+    "type": "街頭熱炒餐廳（米其林一星，招牌蟹肉蛋捲）",
+    "list_rating": 3.6,
+    "list_review_count": null,
+    "area": "Phra Nakhon／Samran Rat（舊城區 Maha Chai 路）",
+    "coords": {"lat": 13.752571, "lng": 100.5046981},
+    "maps_url": null,
+    "status": "營運中",
+    "popularity": {
+      "level": "高",
+      "reason": "近 2 年內有 Michelin 官方頁面、2024-10 退休傳聞與否認報導、2025-08 蟹肉蛋捲價格爭議等多個獨立媒體來源，且仍在營業；3.6 分與清單一致見於搜尋結果的店家列表，但低分原因未經查證，推測與 2025-08 價格爭議有關但無證據，【資料不足，無法確認】。",
+      "sources": [
+        {"title": "MICHELIN Guide - Jay Fai（營業時間、價位、現金限定）", "url": "https://guide.michelin.com/hk/en/bangkok-region/bangkok/restaurant/jay-fai", "date": "2026-10"},
+        {"title": "Malay Mail - Raan Jay Fai under fire over viral omelette bill", "url": "https://www.malaymail.com/amp/news/life/2025/08/19/thailands-michelin-starred-raan-jay-fai-under-fire-over-viral-rm520-omelette-bill/188145", "date": "2025-08"},
+        {"title": "Curly Tales - Jay Fai fined over hidden pricing after YouTuber complaint", "url": "https://curlytales.com/trending/bangkoks-michelin-starred-jay-fai-fined-over-hidden-pricing-of-crab-omelette-after-youtubers-complaint/amp/", "date": "2025-08"},
+        {"title": "Pattaya Mail - Jay Fai denies retirement, plans travel to France and future projects", "url": "https://www.pattayamail.com/thailandnews/renowned-street-food-chef-jay-fai-denies-retirement-plans-travel-to-france-and-future-projects-478069", "date": "2024-10"},
+        {"title": "Malay Mail - Jay Fai eyes 2025 retirement（後續已否認）", "url": "https://www.malaymail.com/news/life/2024/10/29/michelin-starred-bangkok-street-food-chef-jay-fai-who-served-ed-sheeran-and-blackpink-lisa-eyes-2025-retirement-restaurant-closure-likely/155170", "date": "2024-10"}
+      ]
+    },
+    "features": [
+      "招牌為蟹肉蛋捲，用近半公斤蟹肉製作，另有咖哩炒蝦與多款麵類 [1][3]",
+      "老闆娘 Jay Fai（Supinya Junsuta）戴護目鏡以炭火快炒，是 Bangkok 街頭美食代表人物 [4]",
+      "米其林一星，只收現金 [1]",
+      "2025-08 因蟹肉蛋捲價格標示爭議被主管機關約談並罰款（報導稱罰 2,000 泰銖，菜單需補列 4,000 泰銖品項） [2][3]"
+    ],
+    "pros": [
+      "料理與製作過程具話題性，歷年媒體與影片評價一致認為值得體驗 [1][2]",
+      "Michelin 頁面描述排隊流程有組織 [1]"
+    ],
+    "cons": [
+      "價格偏高，蟹肉蛋捲標價 1,500 泰銖，且 2025-08 曾有實收 4,000 泰銖的爭議 [2][3]",
+      "營業日有限（Michelin 頁面顯示週三至週六），排隊時間長 [1]",
+      "只收現金 [1]",
+      "清單評分 3.6 偏低，可能受價格爭議影響，但無證據【資料不足，無法確認】"
+    ],
+    "tickets": "蟹肉蛋捲標價 1,500 泰銖（Malay Mail 2025-08）；Michelin 價位標示 ฿฿฿",
+    "hours": "週三至週六 09:00–19:30；週一、二、日休（Michelin 頁面）",
+    "transport": "【資料不足，無法確認】最近捷運站未由來源確認；地址 327 Maha Chai Road, Samran Rat, Phra Nakhon, Bangkok 10200",
+    "dress_code": null,
+    "best_time": "【資料不足，無法確認】一年中 2027 年 1–2 月的排隊情況無資料；中文影片（2022）稱當時約需 3 小時，現況需另行確認",
+    "nearby": [
+      {
+        "name": "Thip Samai（鬼門炒河粉）",
+        "why": "名店級泰式炒河粉，兩店相隔數百公尺，常與 Jay Fai 串聯成舊城美食路線",
+        "distance": "約數百公尺（同在 Maha Chai 路，門牌 313–315 號）",
+        "status": "待查證（來源間營業時間不一致，疑似有週休日）",
+        "sources": [
+          {"title": "Time Out Bangkok - Thipsamai", "url": "https://www.timeout.com/bangkok/restaurants/thipsamai-iconsiam", "date": null},
+          {"title": "Thai Holiday Guide - Thipsamai Bangkok", "url": "https://www.thaiholidayguide.com/attraction/thipsamai-bangkok/", "date": null}
+        ]
+      }
+    ],
+    "videos": [
+      {"role": "main", "title": "曼谷生活vlog｜終於吃到Jay Fai千銖蟹肉蛋捲crab omelette「痣姐」最新資訊只需3小時即可享用", "channel": "（頻道名稱未取得）", "url": "https://www.youtube.com/watch?v=cryATORC2JA", "video_id": "cryATORC2JA", "views_at_check": 31026, "published": "2022-05", "embeddable": true, "checked_on": "2026-10-12"},
+      {"role": "backup", "title": "【曼谷自由行】教你怎樣才能最少排隊吃到泰國米其林痣姐Jay Fai【2022最新曼谷美食攻略】", "channel": "（頻道名稱未取得）", "url": "https://www.youtube.com/watch?v=YxN73EzzIn4", "video_id": "YxN73EzzIn4", "views_at_check": 20534, "published": "2022-08", "embeddable": true, "checked_on": "2026-10-12"}
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "maps_url 與 list_review_count",
+      "清單 3.6 分是否為近期評價或擷取錯誤（只確認搜尋結果的店家列表亦為 3.6，原因未知）",
+      "2026 年營運狀態（最新 Michelin 頁面仍顯示營業時間，但未取得 2026 年媒體報導）",
+      "交通方式（最近捷運站）",
+      "2027 年 1–2 月建議",
+      "nearby 只有 1 項（未達 2–3 項），且缺 2025–2026 日期來源，也未與清單 21 項比對重複",
+      "兩支中文影片皆為 2022 年上傳，已超過 3 年，頻道名稱未取得",
+      "Jay Fai 蛋捲罰款金額僅見單一媒體轉述"
+    ]
+  },
+  {
+    "id": "zeaw-noodle-sukhumvit-49",
+    "name_zh": "痣姐 Zeaw Noodle 49",
+    "name_en": "Zeaw Noodle Sukhumvit 49 (Zeaw 49)",
+    "name_th": "ก๋วยเตี๋ยวแซว สุขุมวิท 49 (แซว 49 ก๋วยเตี๋ยวหมู)",
+    "type": "麵店（豬肉麵、魚丸麵、冬蔭／Yentafo）",
+    "list_rating": 4.4,
+    "list_review_count": null,
+    "area": "Sukhumvit Soi 49（Thonglor／Phrom Phong 之間，Watthana 區）",
+    "coords": null,
+    "maps_url": null,
+    "status": "營運中",
+    "popularity": {
+      "level": "中",
+      "reason": "近 2 年內僅查到 1 篇 2025-10 的 Lemon8 個人貼文與 Wongnai 平台評分 4.1（126 則）；未找到媒體或旅遊平台的近 2 年報導。",
+      "sources": [
+        {"title": "Lemon8 - Zeaw Noodle Sukhumvit 49（貼文標示 2025/10/24 編輯）", "url": "https://www.lemon8-app.com/@ninkkkninkkk/7564799046833963540?region=sg", "date": "2025-10"},
+        {"title": "Wongnai - Don't miss noodles restaurants in Bangkok（列出 Zeaw 49，4.1 分／126 則）", "url": "https://www.wongnai.com/listings/dont-miss-noodles-restaurants-in-bangkok", "date": null},
+        {"title": "Matichon - 專題報導（地址 1/5 Sukhumvit 49，日期不明）", "url": "https://www.matichon.co.th/prachachuen/news_5185637", "date": null}
+      ]
+    },
+    "features": [
+      "招牌有內臟麵、冬蔭 Yentafo、彈牙魚丸與鮮血塊，單碗約 60 泰銖 [1]",
+      "據 Lemon8 貼文，店齡逾 40 年、現由第三代經營 [1]",
+      "點餐方式為自行在紙條上寫下餐點與姓名交給店員後等待叫號 [1]"
+    ],
+    "pros": [
+      "價格便宜（單碗約 60 泰銖，Blockdit 稱人均 70–120 泰銖） [1]",
+      "據貼文，湯頭為真材實料而非調味粉 [1]"
+    ],
+    "cons": [
+      "貼文稱全天排隊長 [1]",
+      "店前停車位有限（Wongnai 評論者） [2]",
+      "週日公休 [1][3]"
+    ],
+    "tickets": "單碗約 60 泰銖（Lemon8 2025-10）；人均 70–120 泰銖（Blockdit，日期不明）",
+    "hours": "08:00–15:30，週日休（Lemon8 2025-10）；其他來源為 08:30–15:00 或 08:30–15:30，說法不一，出發前需確認",
+    "transport": "位於 Sukhumvit 49 巷口，從 Sukhumvit 路進巷不遠；最近捷運站【資料不足，無法確認】",
+    "dress_code": null,
+    "best_time": "【資料不足，無法確認】早餐至午餐時段營業；2027 年 1–2 月建議無資料",
+    "nearby": [
+      {
+        "name": "Benchasiri Park",
+        "why": "Sukhumvit 區的城市綠地，可在麵店用餐後散步",
+        "distance": "【資料不足，無法確認】",
+        "status": "待查證（僅取得 Expedia 地點列表，未取得官方營運資訊）",
+        "sources": [
+          {"title": "Expedia - Benchasiri Park Sukhumvit", "url": "https://www.expedia.com/Benchasiri-Park-Sukhumvit.d508039.Vacation-Attraction", "date": null}
+        ]
+      },
+      {
+        "name": "EmQuartier／Emporium（Phrom Phong）",
+        "why": "大型購物中心集中區，下雨天或午後可補充行程",
+        "distance": "【資料不足，無法確認】",
+        "status": "待查證（僅取得 Expedia 區域列表）",
+        "sources": [
+          {"title": "Expedia - Bangkok Thonglor 區域介紹", "url": "https://expedia.com.sg/Bangkok-Thonglor.dx6214101", "date": null}
+        ]
+      }
+    ],
+    "videos": [],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "重大提醒：清單名稱『痣姐 Zeaw Noodle 49』將 Jay Fai（痣姐）與 Zeaw Noodle 混寫；痣姐是 Raan Jay Fai，Zeaw 是 Sukhumvit 49 的麵店，兩者是不同店，需向清單來源確認指的是哪一家",
+      "此店與 Wanderlog 上位於 Thonglor 附近的 Zaew Noodle 是否同一家、Happyland 分店是否為分店，皆未確認",
+      "coords、maps_url、list_review_count",
+      "近 2 年媒體或旅遊平台來源（僅 1 篇 Lemon8 貼文）",
+      "營業時間來源不一致、停車與交通細節",
+      "best_time（2027 年 1–2 月）",
+      "nearby 兩項皆缺 2025–2026 營運來源，也未與清單 21 項比對重複",
+      "影片：僅找到 2016 年 390 觀看的 Thai 影片，已排除不使用，videos 留空"
+    ]
+  },
+  {
+    "id": "plaew-nakhon-pathom-huai-khwang",
+    "name_zh": "Plaew Nakhon Pathom (Tomyum Noodles)",
+    "name_en": "Plaew Nakhon Pathom (Tomyum Noodles)",
+    "name_th": "เปลว ก๋วยเตี๋ยวต้มยำโบราณนครปฐม (ห้วยขวาง)",
+    "type": "麵店（冬蔭湯麵、海鮮冬蔭）",
+    "list_rating": 4.5,
+    "list_review_count": null,
+    "area": "Huai Khwang（Pracharat Bamphen 路 633 號）",
+    "coords": {"lat": 13.77784096, "lng": 100.58387725},
+    "maps_url": null,
+    "status": "營運中",
+    "popularity": {
+      "level": "中",
+      "reason": "曼谷 Huai Khwang 分店在 Wongnai 為 4.1 分／約 219 則評論，並有 2024 年影片介紹，但可確認日期的近 2 年來源不足 3 筆；米其林必比登是本店在 Nakhon Pathom 的原店，非 Huai Khwang 分店。",
+      "sources": [
+        {"title": "Wongnai - เปลว ก๋วยเตี๋ยวต้มยำโบราณนครปฐม (ห้วยขวาง)", "url": "https://www.wongnai.com/restaurants/plewnakhonpathom-prb", "date": null},
+        {"title": "MICHELIN Guide - Plaew（Nakhon Pathom 原店，Bib Gourmand 類別）", "url": "https://guide.michelin.com/en/nakhon-pathom-region/nakhon-pathom/restaurant/plaew-nakhon-pathom", "date": "2026-10"},
+        {"title": "YouTube - Kyle Barnard 介紹 Huai Khwang 分店（2024-03）", "url": "https://www.youtube.com/watch?v=uOMeL8nvaNc", "date": "2024-03"}
+      ]
+    },
+    "features": [
+      "主打冬蔭湯麵，Wongnai 推薦品項為豬肉冬蔭麵、海鮮冬蔭麵 [1]",
+      "Wongnai 在曼谷麵店排名第 10（31,121 家中） [1]",
+      "據 Michelin，本店 Nakhon Pathom 原店以冬蔭麵與自製豬肉丸受當地人歡迎，分店是否同樣屬於米其林推介【資料不足，無法確認】 [2]",
+      "YouTube 介紹者形容湯頭辛辣濃郁、食材新鮮，另一支日文影片稱口感偏甜 [3]"
+    ],
+    "pros": [
+      "價格親民（Wongnai 標示低於 100 泰銖價位） [1]",
+      "平日至週六營業時間長（09:30–22:00），較易安排 [1][3]",
+      "對面有停車場或可路邊停車 [1][3]"
+    ],
+    "cons": [
+      "週日公休 [1][3]",
+      "湯頭口味有人覺得偏甜（單一影片說法，非多方驗證） [3]"
+    ],
+    "tickets": "價位標示低於 100 泰銖（Wongnai）；部分品項如海鮮麵標價約 115 泰銖（Wongnai 推薦品項）",
+    "hours": "週一至週六 09:30–22:00，週日休（Wongnai；Kyle Barnard 影片說明一致）",
+    "transport": "MRT Huai Khwang 站步行可達（Kyle Barnard 影片說明 2024-03）",
+    "dress_code": null,
+    "best_time": "【資料不足，無法確認】2027 年 1–2 月建議無資料",
+    "nearby": [
+      {
+        "name": "Huai Khwang 夜市／Pracharat Bamphen 路美食街",
+        "why": "有華人餐廳與街頭小吃的夜間美食區，晚上逛吃",
+        "distance": "【資料不足，無法確認】",
+        "status": "待查證（來源間對街道名稱說法不一）",
+        "sources": [
+          {"title": "Expedia - Huai Kwang Night Market Tours", "url": "https://www.expedia.com/es/Mercado-Nocturno-Huai-Kwang-Bangkok.d553248635975978042.Guia-Turistica", "date": null}
+        ]
+      },
+      {
+        "name": "Thailand Cultural Centre",
+        "why": "地區性的演出與活動場地，MRT 藍線一站可達",
+        "distance": "MRT 藍線 Huai Khwang 下一站（依 propertyscout 地區介紹）",
+        "status": "待查證（未取得 2025–2026 活動與營運資訊）",
+        "sources": [
+          {"title": "PropertyScout - Huai Khwang Area Profile", "url": "https://propertyscout.co.th/en/location-guides/huai-khwang-area-guide/", "date": null}
+        ]
+      }
+    ],
+    "videos": [
+      {"role": "main", "title": "【タイ・バンコク】甘さ広がるクイッティアオトムヤムを発見 / ホワイクアン", "channel": "MAYUKEN THAILAND", "url": "https://www.youtube.com/watch?v=86Aji8H_ZmQ", "video_id": "86Aji8H_ZmQ", "views_at_check": 5171, "published": "2024-06", "embeddable": true, "checked_on": "2026-10-12"},
+      {"role": "backup", "title": "TOP AUTHENTIC TOMYUM NOODLES IN BANGKOK, THAILAND Thai People Tongue Right Here!!", "channel": "Kyle Barnard", "url": "https://www.youtube.com/watch?v=uOMeL8nvaNc", "video_id": "uOMeL8nvaNc", "views_at_check": 945, "published": "2024-03", "embeddable": true, "checked_on": "2026-10-12"}
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": [
+      "重大提醒：Michelin 官方收錄的 Plaew 位於 Nakhon Pathom（離曼谷約 1 小時車程），清單所指應為 Huai Khwang 分店，需確認清單 4.5 分對應的是哪一家",
+      "分店與原店的關係（是否同一營運者）",
+      "分店是否有米其林推介（僅 Wongnai 評論者提及，未驗證）",
+      "maps_url 與 list_review_count；座標取自 Wongnai 頁面鄰近連結，非店家官方標示",
+      "近 2 年（2024-10 以後）獨立來源不足，僅 2024 年的影片與平台評分",
+      "best_time（2027 年 1–2 月）",
+      "nearby 兩項皆缺 2025–2026 營運來源，也未與清單 21 項比對重複",
+      "兩支影片分別為日文、英文，皆上傳於 2024-03／06，超過 2 年；無中文影片"
+    ]
+  }
+]

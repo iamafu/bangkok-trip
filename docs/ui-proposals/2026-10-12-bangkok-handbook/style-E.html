@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Hallmark · macrostructure: 14-narrative-workflow · tone: playful · 樣板 E 手帳拼貼 -->
+<title>曼谷手冊 · E 手帳拼貼</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;700;900&family=Noto+Sans+TC:wght@400;500&family=Caveat:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --kraft: oklch(88% 0.04 80);
+  --kraft-2: oklch(84% 0.05 78);
+  --cream: oklch(98% 0.012 85);
+  --green: oklch(40% 0.07 165);
+  --tomato: oklch(60% 0.18 30);
+  --ink: oklch(26% 0.03 165);
+  --muted: oklch(44% 0.03 165);
+  --tape: oklch(90% 0.08 95 / 0.85);
+  --focus: oklch(30% 0.1 165);
+  --font-display: "Noto Serif TC", serif;
+  --font-hand: "Caveat", cursive;
+  --font-body: "Noto Sans TC", sans-serif;
+  --space-md: 16px;
+  --space-lg: 26px;
+  --space-xl: 44px;
+}
+* { box-sizing: border-box; }
+html, body { overflow-x: clip; margin: 0; }
+body {
+  background: var(--kraft);
+  color: var(--ink);
+  font-family: var(--font-body);
+  line-height: 1.7;
+  padding: var(--space-lg) var(--space-md) var(--space-xl);
+}
+h1, h2, h3 { font-family: var(--font-display); font-weight: 900; margin: 0; overflow-wrap: anywhere; min-width: 0; font-style: normal; }
+h1 { font-size: clamp(2.2rem, 7vw, 3.4rem); color: var(--green); line-height: 1.15; }
+h2 { font-size: 1.35rem; color: var(--green); }
+h3 { font-size: 1.15rem; }
+.hand { font-family: var(--font-hand); font-size: 1.6rem; color: var(--tomato); line-height: 1.2; }
+.lede { color: var(--muted); max-width: 42ch; margin-top: var(--space-md); }
+.nav { display: flex; flex-wrap: wrap; gap: 10px; margin-top: var(--space-md); }
+.nav a {
+  background: var(--cream);
+  color: var(--green);
+  padding: 6px 14px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  white-space: nowrap;
+  box-shadow: 2px 2px 0 var(--kraft-2);
+}
+.nav a:focus-visible, button:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
+.page {
+  position: relative;
+  background: var(--cream);
+  border-radius: 6px;
+  padding: var(--space-lg);
+  margin-top: var(--space-xl);
+  box-shadow: 4px 6px 0 var(--kraft-2);
+  min-width: 0;
+}
+.page::before {
+  content: "";
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  width: 96px;
+  height: 26px;
+  background: var(--tape);
+  transform: translateX(-50%) rotate(-2deg);
+}
+.status {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: var(--tape);
+  padding: 2px 10px;
+  font-family: var(--font-hand);
+  font-size: 1.2rem;
+  color: var(--ink);
+  transform: rotate(3deg);
+}
+.photo-frame {
+  background: var(--cream);
+  padding: 10px 10px 34px;
+  box-shadow: 0 3px 8px oklch(30% 0.02 80 / 0.25);
+  transform: rotate(-1.5deg);
+  margin-top: var(--space-md);
+  max-width: 420px;
+}
+.facade {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  background: linear-gradient(135deg, var(--green), var(--kraft-2));
+  color: var(--cream);
+  display: grid;
+  place-items: center;
+  font-family: var(--font-body);
+  cursor: pointer;
+  border-radius: 2px;
+}
+.facade:active { transform: scale(0.98); }
+.facade:disabled { opacity: 0.55; cursor: not-allowed; }
+.photo-caption { font-family: var(--font-hand); font-size: 1.2rem; text-align: center; margin-top: 6px; color: var(--muted); }
+.notes { margin: var(--space-md) 0 0; padding: 0; list-style: none; display: grid; gap: 6px; }
+.notes li { border-bottom: 1px dashed var(--kraft-2); padding-bottom: 4px; overflow-wrap: anywhere; }
+.notes b { color: var(--green); font-weight: 700; }
+.stickers { display: flex; flex-wrap: wrap; gap: 10px; margin-top: var(--space-md); }
+.stickers button {
+  font: inherit;
+  min-height: 44px;
+  min-width: 44px;
+  padding: 0 14px;
+  border-radius: 999px;
+  border: 2px dashed var(--green);
+  background: var(--cream);
+  color: var(--green);
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.stickers button:hover { background: var(--kraft); }
+.stickers button[aria-pressed="true"] { background: var(--green); color: var(--cream); border-style: solid; }
+.stickers button:disabled { opacity: 0.55; cursor: not-allowed; }
+.nearby-title { font-family: var(--font-hand); font-size: 1.4rem; color: var(--tomato); margin-top: var(--space-md); }
+.src { font-size: 0.78rem; color: var(--muted); margin-top: var(--space-md); }
+.rank { margin-top: var(--space-xl); background: var(--cream); padding: var(--space-md); border-radius: 6px; box-shadow: 4px 6px 0 var(--kraft-2); }
+.rank-row { display: flex; justify-content: space-between; gap: 10px; padding: 8px 0; border-bottom: 1px dashed var(--kraft-2); }
+footer { margin-top: var(--space-xl); font-size: 0.8rem; color: var(--muted); }
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+@media print {
+  body { background: #fff; }
+  .nav, .stickers { display: none; }
+  .page, .rank { box-shadow: none; border: 1px solid #000; break-inside: avoid; }
+}
+</style>
+</head>
+<body>
+<header>
+  <p class="hand">我們的曼谷筆記（樣板）</p>
+  <h1>曼谷手冊</h1>
+  <p class="lede">版面與互動示意。內容皆為占位，不含查證後的事實。</p>
+  <nav class="nav" aria-label="區域">
+    <a href="#page-1">區域一</a>
+    <a href="#page-2">區域二</a>
+    <a href="#rank">排行</a>
+  </nav>
+</header>
+
+<main>
+  <article class="page" id="page-1" aria-labelledby="e-1">
+    <span class="status">待查證</span>
+    <h2 id="e-1">鄭王廟（Wat Arun）</h2>
+    <p class="hand">熱度：待查證</p>
+    <div class="photo-frame">
+      <button class="facade" type="button" aria-label="播放影片（樣板占位，點擊後才會載入）">影片占位　點擊後才會載入</button>
+      <p class="photo-caption">影片占位</p>
+    </div>
+    <ul class="notes">
+      <li><b>特色</b>　【資料不足，無法確認】</li>
+      <li><b>優點</b>　【資料不足，無法確認】</li>
+      <li><b>缺點</b>　【資料不足，無法確認】</li>
+      <li><b>票價</b>　—</li>
+      <li><b>交通</b>　—</li>
+    </ul>
+    <p class="nearby-title">周邊候選</p>
+    <ul class="notes">
+      <li>候選地點 A（待查證）</li>
+      <li>候選地點 B（待查證）</li>
+    </ul>
+    <div class="stickers" role="group" aria-label="鄭王廟投票" data-vote>
+      <button type="button" aria-pressed="false">想去</button>
+      <button type="button" aria-pressed="false">考慮</button>
+      <button type="button" aria-pressed="false">不去</button>
+    </div>
+    <p class="src">來源：待補｜查證日 2026-10-12（樣板）</p>
+  </article>
+
+  <article class="page" id="page-2" aria-labelledby="e-2">
+    <span class="status">待查證</span>
+    <h2 id="e-2">ICONSIAM</h2>
+    <p class="hand">熱度：待查證</p>
+    <div class="photo-frame">
+      <button class="facade" type="button" aria-label="播放影片（樣板占位，點擊後才會載入）">影片占位　點擊後才會載入</button>
+      <p class="photo-caption">影片占位</p>
+    </div>
+    <ul class="notes">
+      <li><b>特色</b>　【資料不足，無法確認】</li>
+      <li><b>票價</b>　—</li>
+      <li><b>交通</b>　—</li>
+    </ul>
+    <p class="nearby-title">周邊候選</p>
+    <ul class="notes">
+      <li>候選地點 C（待查證）</li>
+      <li>候選地點 D（待查證）</li>
+    </ul>
+    <div class="stickers" role="group" aria-label="ICONSIAM投票" data-vote>
+      <button type="button" aria-pressed="false">想去</button>
+      <button type="button" aria-pressed="false">考慮</button>
+      <button type="button" aria-pressed="false">不去</button>
+    </div>
+    <p class="src">來源：待補｜查證日 2026-10-12（樣板）</p>
+  </article>
+
+  <section id="rank" class="rank" aria-labelledby="h-erank">
+    <h2 id="h-erank">排行（示意）</h2>
+    <div class="rank-row"><span>1. 鄭王廟（Wat Arun）</span><span>想去 —</span></div>
+    <div class="rank-row"><span>2. ICONSIAM</span><span>想去 —</span></div>
+  </section>
+</main>
+
+<footer>原始清單：2027曼谷（作者：yoshiko 小狐狸遊世界）</footer>
+
+<script>
+document.querySelectorAll('[data-vote]').forEach(function (group) {
+  group.addEventListener('click', function (event) {
+    var btn = event.target.closest('button');
+    if (!btn) return;
+    group.querySelectorAll('button').forEach(function (b) {
+      b.setAttribute('aria-pressed', String(b === btn));
+    });
+  });
+});
+</script>
+</body>
+</html>

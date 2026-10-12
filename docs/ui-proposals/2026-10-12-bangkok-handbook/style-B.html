@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Hallmark · macrostructure: 02-long-document · tone: editorial · 樣板 B 寺廟金箔誌 -->
+<title>曼谷手冊 · B 寺廟金箔誌</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;700;900&family=Noto+Sans+TC:wght@400;500&family=Cormorant+Garamond:wght@500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: oklch(95% 0.015 85);
+  --paper-2: oklch(91% 0.02 85);
+  --ink: oklch(26% 0.05 265);
+  --muted: oklch(47% 0.03 265);
+  --gold: oklch(70% 0.12 85);
+  --vermilion: oklch(52% 0.17 30);
+  --rule: oklch(78% 0.04 85);
+  --focus: oklch(52% 0.17 30);
+  --font-display: "Noto Serif TC", serif;
+  --font-latin: "Cormorant Garamond", serif;
+  --font-body: "Noto Sans TC", sans-serif;
+  --space-md: 16px;
+  --space-lg: 28px;
+  --space-xl: 56px;
+}
+* { box-sizing: border-box; }
+html, body { overflow-x: clip; margin: 0; }
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  line-height: 1.8;
+  padding: var(--space-xl) var(--space-md);
+}
+main, header, footer { max-width: 68ch; margin: 0 auto; }
+h1, h2, h3 { font-family: var(--font-display); font-style: normal; margin: 0; overflow-wrap: anywhere; min-width: 0; }
+h1 { font-size: clamp(2.2rem, 7vw, 3.6rem); font-weight: 900; line-height: 1.15; }
+.latin { font-family: var(--font-latin); font-weight: 600; font-size: 1.2rem; color: var(--gold); letter-spacing: 0.04em; }
+.rule { display: block; width: 64px; height: 1px; background: var(--gold); margin: var(--space-lg) 0; }
+h2 { font-size: 1.6rem; font-weight: 700; margin-top: var(--space-xl); padding-top: var(--space-lg); border-top: 1px solid var(--rule); }
+h3 { font-size: 1.3rem; font-weight: 700; margin-top: var(--space-lg); }
+.lede { color: var(--muted); margin-top: var(--space-md); }
+.chapter-nav { display: flex; flex-wrap: wrap; gap: 14px; margin-top: var(--space-lg); font-size: 0.95rem; }
+.chapter-nav a { color: var(--vermilion); text-decoration: none; border-bottom: 1px solid currentColor; }
+.chapter-nav a:focus-visible, button:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }
+.entry { margin-top: var(--space-lg); }
+.entry-meta { font-size: 0.85rem; color: var(--muted); }
+.cover {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 1px solid var(--gold);
+  background: var(--paper-2);
+  border-radius: 2px;
+  display: grid;
+  place-items: center;
+  color: var(--muted);
+  font-size: 0.9rem;
+  cursor: pointer;
+  font-family: var(--font-body);
+}
+.cover:active { background: var(--rule); }
+.cover:disabled { opacity: 0.55; cursor: not-allowed; }
+.status {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-weight: 700;
+  color: var(--vermilion);
+  border: 2px solid var(--vermilion);
+  padding: 2px 10px;
+  transform: rotate(-3deg);
+  margin-top: 8px;
+}
+.facts { display: grid; gap: 6px; margin: var(--space-md) 0 0; }
+.facts div { display: grid; grid-template-columns: 5em minmax(0, 1fr); gap: 8px; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; overflow-wrap: anywhere; }
+.seal { display: flex; flex-wrap: wrap; gap: 10px; margin-top: var(--space-md); }
+.seal button {
+  font: inherit;
+  min-height: 44px;
+  min-width: 44px;
+  padding: 0 14px;
+  border: 2px solid var(--vermilion);
+  background: transparent;
+  color: var(--vermilion);
+  font-family: var(--font-display);
+  font-weight: 700;
+  border-radius: 2px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.seal button:active { transform: scale(0.97); }
+.seal button[aria-pressed="true"] { background: var(--vermilion); color: var(--paper); }
+.seal button:disabled { opacity: 0.55; cursor: not-allowed; }
+.nearby { margin: var(--space-md) 0 0; padding-left: 1.2em; color: var(--muted); }
+.src { font-size: 0.8rem; color: var(--muted); margin-top: var(--space-md); }
+.ranking { margin-top: var(--space-lg); }
+.ranking-row { display: flex; justify-content: space-between; gap: 12px; border-bottom: 1px dotted var(--rule); padding: 10px 0; }
+footer { margin-top: var(--space-xl); font-size: 0.8rem; color: var(--muted); border-top: 1px solid var(--rule); padding-top: var(--space-md); }
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+@media print {
+  body { background: #fff; color: #000; }
+  .chapter-nav, .seal { display: none; }
+  .entry { break-inside: avoid; }
+}
+</style>
+</head>
+<body>
+<header>
+  <p class="latin">Bangkok Chapter · 2027 年 1–2 月</p>
+  <h1>曼谷手冊</h1>
+  <span class="rule" aria-hidden="true"></span>
+  <p class="lede">版面與互動示意。內容皆為占位，不含查證後的事實。</p>
+  <nav class="chapter-nav" aria-label="章節">
+    <a href="#chapter-1">第一章 區域一</a>
+    <a href="#chapter-2">第二章 區域二</a>
+    <a href="#ranking">排行</a>
+  </nav>
+</header>
+
+<main>
+  <section id="chapter-1" aria-labelledby="h-c1">
+    <h2 id="h-c1">第一章　區域一（示意）</h2>
+    <article class="entry" aria-labelledby="e-1">
+      <h3 id="e-1">鄭王廟（Wat Arun）</h3>
+      <p class="entry-meta">熱度：待查證｜來源與日期於正式版附註</p>
+      <span class="status">待查證</span>
+      <div style="margin-top: 16px;">
+        <button class="cover" type="button" aria-label="播放影片（樣板占位，點擊後才會載入）">影片占位　點擊後才會載入</button>
+      </div>
+      <dl class="facts">
+        <div><dt>特色</dt><dd>【資料不足，無法確認】</dd></div>
+        <div><dt>優點</dt><dd>【資料不足，無法確認】</dd></div>
+        <div><dt>缺點</dt><dd>【資料不足，無法確認】</dd></div>
+        <div><dt>票價</dt><dd>—</dd></div>
+        <div><dt>交通</dt><dd>—</dd></div>
+      </dl>
+      <h4 style="margin: var(--space-md) 0 0; font-family: var(--font-display); font-size: 1rem;">周邊候選</h4>
+      <ul class="nearby">
+        <li>候選地點 A（待查證）</li>
+        <li>候選地點 B（待查證）</li>
+      </ul>
+      <div class="seal" role="group" aria-label="鄭王廟投票" data-vote>
+        <button type="button" aria-pressed="false">列入</button>
+        <button type="button" aria-pressed="false">候補</button>
+        <button type="button" aria-pressed="false">略過</button>
+      </div>
+      <p class="src">來源：待補｜查證日 2026-10-12（樣板）</p>
+    </article>
+  </section>
+
+  <section id="chapter-2" aria-labelledby="h-c2">
+    <h2 id="h-c2">第二章　區域二（示意）</h2>
+    <article class="entry" aria-labelledby="e-2">
+      <h3 id="e-2">ICONSIAM</h3>
+      <p class="entry-meta">熱度：待查證｜來源與日期於正式版附註</p>
+      <span class="status">待查證</span>
+      <div style="margin-top: 16px;">
+        <button class="cover" type="button" aria-label="播放影片（樣板占位，點擊後才會載入）">影片占位　點擊後才會載入</button>
+      </div>
+      <dl class="facts">
+        <div><dt>特色</dt><dd>【資料不足，無法確認】</dd></div>
+        <div><dt>優點</dt><dd>【資料不足，無法確認】</dd></div>
+        <div><dt>缺點</dt><dd>【資料不足，無法確認】</dd></div>
+        <div><dt>票價</dt><dd>—</dd></div>
+        <div><dt>交通</dt><dd>—</dd></div>
+      </dl>
+      <h4 style="margin: var(--space-md) 0 0; font-family: var(--font-display); font-size: 1rem;">周邊候選</h4>
+      <ul class="nearby">
+        <li>候選地點 C（待查證）</li>
+        <li>候選地點 D（待查證）</li>
+      </ul>
+      <div class="seal" role="group" aria-label="ICONSIAM投票" data-vote>
+        <button type="button" aria-pressed="false">列入</button>
+        <button type="button" aria-pressed="false">候補</button>
+        <button type="button" aria-pressed="false">略過</button>
+      </div>
+      <p class="src">來源：待補｜查證日 2026-10-12（樣板）</p>
+    </article>
+  </section>
+
+  <section id="ranking" class="ranking" aria-labelledby="h-rank">
+    <h2 id="h-rank">排行（示意）</h2>
+    <div class="ranking-row"><span>一、鄭王廟（Wat Arun）</span><span>列入 —</span></div>
+    <div class="ranking-row"><span>二、ICONSIAM</span><span>列入 —</span></div>
+  </section>
+</main>
+
+<footer>
+  原始清單：2027曼谷（作者：yoshiko 小狐狸遊世界）
+</footer>
+
+<script>
+document.querySelectorAll('[data-vote]').forEach(function (group) {
+  group.addEventListener('click', function (event) {
+    var btn = event.target.closest('button');
+    if (!btn) return;
+    group.querySelectorAll('button').forEach(function (b) {
+      b.setAttribute('aria-pressed', String(b === btn));
+    });
+  });
+});
+</script>
+</body>
+</html>

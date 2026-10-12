@@ -1,0 +1,275 @@
+[
+  {
+    "id": "iconsiam",
+    "name_zh": "ICONSIAM",
+    "name_en": "ICONSIAM",
+    "name_th": "ไอคอนสยาม",
+    "type": "商場",
+    "list_rating": 4.7,
+    "list_review_count": null,
+    "area": "昭披耶河西岸（Thonburi 側）Khlong Ton Sai，Charoen Nakhon 路",
+    "coords": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=ICONSIAM+Bangkok",
+    "status": "營運中",
+    "popularity": {
+      "level": "高",
+      "reason": "近 2 年內有 Time Out、旅遊指南（2026-04 更新）、多支中文 YouTube 導覽與 ONESIAM 年末活動報導提及，且營運正常。",
+      "sources": [
+        {"title": "ICONSIAM Made Easy: The Complete Happy Riverside Shopping Guide for Bangkok (2026)", "url": "https://www.idctravel.com/attraction/iconsiam-travel-guide.html", "date": "2026-04"},
+        {"title": "Time Out Bangkok - ICONSIAM（頁面顯示含 2026-07 至 2026-11 的展覽活動；文章發表日未標示）", "url": "https://www.timeout.com/bangkok/shopping/iconsiam", "date": "2026-07"},
+        {"title": "ONESIAM「2025 奇幻慶典」報導（提及 ICONSIAM 河岸燈光匯演與年末倒數）", "url": "https://n.yam.com/Article/20251208869112", "date": "2025-12"}
+      ]
+    },
+    "features": [
+      "建在昭披耶河畔，外型以漂浮的 krathong 水燈為意象，被 Time Out 定位為展現泰國文化的地標，多於一般購物中心。",
+      "SOOKSIAM 室內水上市場位於地面層，集合泰國 77 府的小吃、手工藝與伴手禮，船為靜止停靠的佈景（來源：旅遊指南）。",
+      "ICONLUXE 精品區、泰國首間 Apple 直營店（河岸戶外看台）與 Siam Takashimaya 百貨同在一處。",
+      "ICONIC 多媒體水舞每日 19:00、20:00、21:00 在河岸免費觀賞（單一來源，場次可能因天氣或活動調整）。",
+      "8 樓設有 River Museum Bangkok；2026-07-23 至 2026-11-08 有柯南 30 週年展（票價約 250-900 泰銖），2026-10-31 前有免費航海王快閃咖啡（Time Out）。"
+    ],
+    "pros": [
+      "室內冷氣、一站集中購物、泰式美食與河景，適合第一次來的旅客與家庭。",
+      "傍晚有免費水舞與河岸夕陽/夜景，氣氛佳。",
+      "與其他暹羅商圈商場相比，泰國在地文化與手作主題最濃，適合買伴手禮。"
+    ],
+    "cons": [
+      "不在 BTS 主線上，需轉乘金線或船，交通步驟比 Siam 商圈多。",
+      "週末、假日與傍晚人潮多（旅遊指南）。",
+      "接駁船資訊互相矛盾：有來源稱免費，另有來源稱部分路線已改為付費或民營，出發前需確認。"
+    ],
+    "tickets": "免費",
+    "hours": "每日 10:00-22:00（多個來源一致；泰國國定假日可能調整）",
+    "transport": "BTS 銀隆線（Silom）至 Krung Thon Buri 站，換 BTS 金線（Gold Line）一站到 Charoen Nakhon 站，與商場直接相連（金線 06:00-24:00；有來源稱 2026-01-01 起單程 17 銖，與 BTS 一日券分開計費，單一來源）。另可從 Saphan Taksin 站旁 Sathorn 碼頭搭接駁船，但是否免費有來源矛盾。步行時間：【資料不足，無法確認】。",
+    "dress_code": null,
+    "best_time": "旅遊指南建議平日 13:00-17:00 人較少，傍晚 18:00-21:30 氣氛最好並可看水舞；11 月至 2 月為舒適季節但同時是旺季，12 月底至 1 月初晚間人多。針對 2027 年 1-2 月的專屬資料：【資料不足，無法確認】。",
+    "nearby": [
+      {
+        "name": "Kudi Chin 社區與 Santa Cruz 教堂（Wat Kudichin）",
+        "why": "葡萄牙後裔天主教社區，有教堂、Baan Kudichin 博物館與傳統葡式甜點店，與 ICONSIAM 的現代風形成對比，適合拍歷史街區。",
+        "distance": "【資料不足，無法確認】（來源指出位於 Thonburi 河岸，在 ICONSIAM 以北，未給距離）",
+        "status": "待查證（取得的來源皆為舊文或百科，無 2025-2026 來源；教堂內部不常對外開放）",
+        "sources": [
+          {"title": "Kudi Chin (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Kudi_Chin", "date": null},
+          {"title": "Church of Santa Cruz (Lonely Planet)", "url": "https://www.lonelyplanet.com/points-of-interest/church-of-santa-cruz/408058", "date": null}
+        ]
+      }
+    ],
+    "videos": [
+      {"role": "main", "title": "曼谷暹羅天地商場 第一次來怎麼逛？湄南河畔餐廳 美麗夜景 室內水上市場｜拍照打卡 泰國伴手禮｜泰國購物｜曼谷自由行｜百麥 泰生活 Baimai in Thailand", "channel": "百麥 泰生活 Baimai in Thailand", "url": "https://www.youtube.com/watch?v=7eW8OJCA-4Y", "video_id": "7eW8OJCA-4Y", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"},
+      {"role": "backup", "title": "走在曼谷 ICONSIAM 到底是什麼感受？絕對別錯過 True Sphere & Coffee！室內水上市場美食街、絕美河景 Apple Store、Gentle Monster 巨型藝術展！", "channel": "捷運泰國", "url": "https://www.youtube.com/watch?v=XTd0FI6gc78", "video_id": "XTd0FI6gc78", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"}
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": ["coords", "list_review_count", "步行時間（站到商場、碼頭到商場）", "接駁船目前是否免費", "金線票價（單一來源）", "水舞場次（單一來源）", "影片觀看數與上傳日", "2027 年 1-2 月專屬建議", "周邊候選缺 2025-2026 來源（僅 1 個且狀態待查證，未達 2-3 個）"]
+  },
+  {
+    "id": "siam-square",
+    "name_zh": "暹羅廣場",
+    "name_en": "Siam Square",
+    "name_th": "สยามสแควร์",
+    "type": "商場／街區",
+    "list_rating": 4.7,
+    "list_review_count": null,
+    "area": "Pathumwan，BTS Siam 站對面（Rama I 路南側）",
+    "coords": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Siam+Square+Bangkok",
+    "status": "營運中",
+    "popularity": {
+      "level": "高",
+      "reason": "近 2 年有 Bring You（2025-09 更新）、roo.cash、旅遊指南與 2026 年中文 YouTube 步行影片提及，街區運作正常。",
+      "sources": [
+        {"title": "【Siam 暹羅商圈百貨】曼谷BTS Siam站逛街攻略（Bring You，最後更新 2025-09-11）", "url": "https://www.bring-you.info/?p=56098", "date": "2025-09"},
+        {"title": "Siam Square 介紹（roo.cash 部落格，發表日未標示）", "url": "https://roo.cash/blog/?p=110412", "date": null},
+        {"title": "曼谷 Siam Square 走30分鐘（捷運泰國 YouTube，搜尋結果顯示約 224 天前上傳）", "url": "https://www.youtube.com/watch?v=ZqA0njPwJmo", "date": "2026-03"}
+      ]
+    },
+    "features": [
+      "由多個小廣場、巷弄組成的街區，聚集精品選物店、咖啡廳、餐廳與市集攤位，與單棟大型商場的動線不同。",
+      "2022 年起翻新（地面、電線地下化等，來源描述略有出入）；有來源指出週末 Soi 7 會封街做街頭表演與快閃活動。",
+      "Siam Square One 為 6 層半開放式商場，走平價快時尚與餐飲，後方有大白貓雕像可拍照。",
+      "The Scala 為 1960 年代末的老戲院，票價約 100-160 銖（單一來源，日期不明）。",
+      "Somtam Nua 等人氣餐廳、動物咖啡廳（House of Paws、Little Zoo）。"
+    ],
+    "pros": [
+      "年輕潮流、獨特選物店多，可逛到商場外找不到的品牌。",
+      "BTS Siam 站出站即達，並有多條公車。",
+      "餐飲選擇多，從伊森料理到主題咖啡廳。"
+    ],
+    "cons": [
+      "不是低價服飾區，價格從平價到偏貴都有。",
+      "熱門餐廳（如 Somtam Nua）常需排隊。",
+      "露天街區，白天熱、雨天不便；店家營業時間各自不同。"
+    ],
+    "tickets": "免費",
+    "hours": "約 10:00-22:00（來源標示，個別店家不同；來源日期不明）",
+    "transport": "BTS Siam 站（Sukhumvit 線與 Silom 線轉乘站）；有來源稱 2 號與 6 號出口通往廣場，4 號出口有空橋通 Siam Square One。步行約數分鐘：【資料不足，無法確認具體分鐘數】。",
+    "dress_code": null,
+    "best_time": "【資料不足，無法確認】2027 年 1-2 月專屬建議。（僅有一般資訊：週末 Soi 7 有街頭活動，單一來源。）",
+    "nearby": [
+      {
+        "name": "曼谷藝術文化中心 BACC",
+        "why": "9 層樓的免費展覽空間，含獨立電影院、設計小店與咖啡廳，適合逛街之餘避暑看展。",
+        "distance": "約 BTS National Stadium 站 3 號出口，空橋步行（來源：約 300 公尺）",
+        "status": "營運中（週二至週日 10:00-20:00，週一休；特展可能收 20-100 銖）",
+        "sources": [
+          {"title": "Bangkok Art and Culture Centre (BACC): Your Free Cultural Escape in Siam Area（網站頁尾 2026，圖檔時間推測原文為 2025-07）", "url": "https://www.thailandwithmonchai.com/blogs/bangkok-art-and-culture-centre-bacc-your-free-cultural-escape-in-siam-area-complete-visitor-guide", "date": "2025-07"}
+        ]
+      },
+      {
+        "name": "Jim Thompson House 博物館",
+        "why": "泰絲大王故居，需參加導覽，是商圈旁的傳統柚木建築。",
+        "distance": "從 BTS National Stadium 1 號出口步行至 Soi Kasemsan 2 底（距離未標示）",
+        "status": "待查證（各來源營業時間與票價互相矛盾，亦無 2025-2026 官方來源；官方網站憑證錯誤無法讀取）",
+        "sources": [
+          {"title": "Jim Thompson's House（City Nomads，日期不明）", "url": "https://citynomads.com/jim-thompsons-house/", "date": null}
+        ]
+      }
+    ],
+    "videos": [
+      {"role": "main", "title": "曼谷 Siam Square 走30分鐘，竟然全是驚喜｜感受泰國最潮的創意活力｜Siam Square 30 -Minute Walk in Thailand's Trendiest Area", "channel": "捷運泰國", "url": "https://www.youtube.com/watch?v=ZqA0njPwJmo", "video_id": "ZqA0njPwJmo", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"},
+      {"role": "backup", "title": "曼谷自由行-暹羅廣場逛街購物+美食 VLOG Siam Square shopping+foodie VLOG x @baimaitw", "channel": "HELLO ELIE", "url": "https://www.youtube.com/watch?v=ZZGxbjDNV6o", "video_id": "ZZGxbjDNV6o", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"}
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": ["coords", "list_review_count", "hours（來源日期不明）", "步行分鐘數", "2027 年 1-2 月專屬建議", "Scala 票價（日期不明）", "Jim Thompson House 營業時間與票價", "影片觀看數與上傳日（主影片上傳約 2026-03 僅為搜尋結果相對時間，未寫入）"]
+  },
+  {
+    "id": "centralworld",
+    "name_zh": "中央世界",
+    "name_en": "CentralWorld",
+    "name_th": "เซ็นทรัลเวิลด์",
+    "type": "商場",
+    "list_rating": 4.5,
+    "list_review_count": null,
+    "area": "Ratchaprasong（四面佛商圈），Pathumwan",
+    "coords": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=CentralWorld+Bangkok",
+    "status": "營運中",
+    "popularity": {
+      "level": "高",
+      "reason": "近 2 年有官方/新聞稿報導的 2025 跨年煙火、旅遊網站 2026-10 更新頁面與多支 2025 以後中文逛街影片，營運正常。",
+      "sources": [
+        {"title": "Thailand Rings in 2025 at CentralwOrld - with a Dazzling Fireworks Spectacle", "url": "https://www.aap.com.au/aapreleases/cision20250102ae87841", "date": "2025-01"},
+        {"title": "CentralWorld (Visit Thailand Today，頁面註明 2026-10 更新)", "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/centralworld", "date": "2026-10"},
+        {"title": "【曼谷 Siam 逛街懶人包】CentralWorld、百麗宮等百貨全攻略（溫室日記 YouTube，標題標示 2025）", "url": "https://www.youtube.com/watch?v=O-jhUVkl_J4", "date": "2025-01"}
+      ]
+    },
+    "features": [
+      "Central Department Store 最大分店，約 5 萬平方公尺，有國際精品、快時尚、美妝、Apple 旗艦店。",
+      "7 樓 Central Food Hall、SF World Cinema（15 廳）、頂樓餐廳；Groove 餐酒區營業至午夜。",
+      "樓上 Centara Grand 酒店 55 樓有 Red Sky 天台酒吧。",
+      "戶外廣場常辦活動：2024-12-31 跨年 180 度煙火、2025 農曆新年與聖誕節慶（新聞稿）。",
+      "分區以字母 A-F 標示，並與周邊商場有內部通道相連。"
+    ],
+    "pros": [
+      "樓層大、品牌齊全，高端到平價都有，可一天逛不完。",
+      "天橋直達 BTS，雨天冷氣步行不用下地面。",
+      "節慶與跨年活動規模大。"
+    ],
+    "cons": [
+      "面積大容易迷路，需要靠分區字母定位。",
+      "有一位評論者提到洗手間相較鄰近新商場偏舊（單一評論）。",
+      "節慶及假日人潮大（推論自跨年活動規模，未見來源明確寫為缺點）。"
+    ],
+    "tickets": "免費",
+    "hours": "每日 10:00-22:00（Central 官方頁面與旅遊指南一致）；Groove 至 00:00",
+    "transport": "BTS Chit Lom 站步行約 6 分鐘，天橋直達商場 1 樓入口（Visit Thailand Today）；Siam 站約 10 分鐘（同一條天橋，經 Gaysorn Village）。另有來源稱 Chit Lom 站 9 號出口，與另一越南語來源（1 號出口、約 450 公尺）不一致。",
+    "dress_code": null,
+    "best_time": "【資料不足，無法確認】2027 年 1-2 月專屬建議。（2025 年曾於 1 月底至 2 月初辦農曆新年活動，2027 年農曆新年日期與活動未確認。）",
+    "nearby": [
+      {
+        "name": "艾瑞灣四面佛 Erawan Shrine",
+        "why": "商場正門外的知名祈福地標，可順路參拜並感受 Ratchaprasong 街景。",
+        "distance": "約 100 公尺（從 BTS Chit Lom 8 號出口；亦位於 CentralWorld 正對面）",
+        "status": "營運中（免費；營業時間來源不一，多數為 06:00-22:00，另有 23:00 說法）",
+        "sources": [
+          {"title": "Erawan Shrine (Visit Thailand Today，頁面約 2026 年更新，原文日期未確認)", "url": "https://www.visitthailandtoday.com/temples-culture/bangkok/erawan-shrine", "date": null},
+          {"title": "CentralWorld (Visit Thailand Today，提及 Erawan Shrine 就在商場外)", "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/centralworld", "date": "2026-10"}
+        ]
+      },
+      {
+        "name": "Gaysorn Village",
+        "why": "位於 Chit Lom 與 Siam 之間的天橋路線上，可順路經過。",
+        "distance": "約介於 Chit Lom 與 Siam 之間（距離未標示）",
+        "status": "待查證（僅有路線提及，無獨立營運資訊）",
+        "sources": [
+          {"title": "CentralWorld (Visit Thailand Today)", "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/centralworld", "date": "2026-10"}
+        ]
+      }
+    ],
+    "videos": [
+      {"role": "main", "title": "曼谷Central World最新逛街攻略！推薦10個當地品牌 男女裝、伴手禮、選物店都太好逛了！", "channel": "Amber Lee", "url": "https://www.youtube.com/watch?v=zYNONpec9DY", "video_id": "zYNONpec9DY", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"},
+      {"role": "backup", "title": "【曼谷 Siam 逛街懶人包】BTS 一出站就開逛 CentralWorld、百麗宮等百貨全攻略！｜2025 曼谷自由行", "channel": "溫室日記 Wen's Diary", "url": "https://www.youtube.com/watch?v=O-jhUVkl_J4", "video_id": "O-jhUVkl_J4", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"}
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": ["coords", "list_review_count", "BTS 出口編號（來源互相矛盾）", "2027 年 1-2 月專屬建議", "洗手間評價（單一評論）", "Erawan 營業時間（來源不一）與來源原始日期", "Gaysorn Village 營運狀態與獨立來源（周邊候選品質不足）", "影片觀看數與上傳日"]
+  },
+  {
+    "id": "siam-center",
+    "name_zh": "暹羅購物中心",
+    "name_en": "Siam Center",
+    "name_th": "สยามเซ็นเตอร์",
+    "type": "商場",
+    "list_rating": 4.6,
+    "list_review_count": null,
+    "area": "Pathumwan，Rama I 路，BTS Siam 站旁（ONESIAM 商圈）",
+    "coords": null,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Siam+Center+Bangkok",
+    "status": "營運中",
+    "popularity": {
+      "level": "高",
+      "reason": "近 2 年有 Khaosod English（2025-01）、ONESIAM 2025 年末慶典報導（2025-12）、ONESIAM 官方觀光頁（約 2025-08/09）與多支中文影片提及，營運正常。",
+      "sources": [
+        {"title": "Siam's Shopping Trinity Celebrates Chinese New Year 2025 (Khaosod English)", "url": "https://www.khaosodenglish.com/sponsored/2025/01/15/siams-shopping-trinity-celebrates-chinese-new-year-2025/", "date": "2025-01"},
+        {"title": "ONESIAM 歡迎全球旅客參與「2025 奇幻慶典」（Yam 新聞，提及 Siam Center 泰式聖誕樹）", "url": "https://n.yam.com/Article/20251208869112", "date": "2025-12"},
+        {"title": "Snap, Post, Repeat: Top Instagrammable Spots around Bangkok (ONESIAM Tourist)", "url": "https://tourist.onesiam.com/en/happening/8667/onesiams-instagrammable-spots-en/", "date": "2025-08"}
+      ]
+    },
+    "features": [
+      "定位為年輕、時尚導向商場，3 樓有許多泰國新銳與知名設計師品牌（Fly Now III、Kloset、Greyhound Original 等，單一指南）。",
+      "4 樓有空橋與 Siam Discovery 相連，兩館之間的中庭常辦活動。",
+      "2 樓室內天橋（Siam Center 與 Siam Discovery 之間）會隨節慶換主題裝飾，適合拍照（ONESIAM 官方頁）。",
+      "清單備註的「天橋夜景」：ONESIAM Elevated Skywalk（蓮花造型、位於 Siam Discovery 旁，框景可見 BTS 與市區天際線）官方頁建議在黃昏或傍晚拍攝；Wanderlog 評論稱夜間燈光很美。此天橋屬 Siam Discovery/OneSiam 動線，不是 Siam Center 本館的一部分。",
+      "同一動線另有 Bangkok 字樣招牌天橋（Siam Discovery 往 MBK 方向），Trip.com 指南稱下午氛圍特別好，較偏白天拍攝，與夜景說法不同。"
+    ],
+    "pros": [
+      "能一次買到泰國在地設計師與潮流品牌，與 Central World 等綜合商場相比更偏年輕潮流。",
+      "與 Siam Discovery、Siam Paragon 以天橋相連，雨天或炎熱時可冷氣動線串逛。",
+      "節慶期間有主題佈置，適合拍照。"
+    ],
+    "cons": [
+      "規模與品牌多元度不如大型綜合商場，偏時尚類。",
+      "天橋夜景的實際燈光與可進入時間未獲官方確認，且各來源對最佳拍攝時段看法不一。",
+      "館內店家與樓層資訊來自單一指南，可能已更動。"
+    ],
+    "tickets": "免費",
+    "hours": "每日 10:00-22:00（旅遊指南與 YouTube 說明一致；ONESIAM 官方觀光頁未載明）",
+    "transport": "BTS Siam 站，商場在站旁，並有天橋連接 Siam Discovery、Siam Paragon、MBK 與 National Stadium 站。步行分鐘數與出口編號：【資料不足，無法確認】。",
+    "dress_code": null,
+    "best_time": "天橋夜景建議黃昏至傍晚（ONESIAM 官方頁）。2027 年 1-2 月專屬建議：【資料不足，無法確認】。（2025 年曾於 1 月中至 2 月初辦農曆新年活動，2027 年未確認。）",
+    "nearby": [
+      {
+        "name": "曼谷藝術文化中心 BACC",
+        "why": "免費展覽空間，逛完商場可去看展、逛設計小店。",
+        "distance": "約 BTS National Stadium 3 號出口，空橋步行（來源：約 300 公尺）",
+        "status": "營運中（週二至週日 10:00-20:00，週一休）",
+        "sources": [
+          {"title": "Bangkok Art and Culture Centre (BACC): Your Free Cultural Escape in Siam Area", "url": "https://www.thailandwithmonchai.com/blogs/bangkok-art-and-culture-centre-bacc-your-free-cultural-escape-in-siam-area-complete-visitor-guide", "date": "2025-07"}
+        ]
+      },
+      {
+        "name": "Siam Discovery",
+        "why": "與 Siam Center 4 樓空橋相連，設計生活風格商場，走 OneSiam Skywalk 可拍市區景觀。",
+        "distance": "兩館以空橋相連（步行約 1-2 分鐘為推測，未見來源，不採用）",
+        "status": "營運中（10:00-22:00，來源：旅遊指南與 YouTube 說明）",
+        "sources": [
+          {"title": "Snap, Post, Repeat: Top Instagrammable Spots around Bangkok (ONESIAM Tourist)", "url": "https://tourist.onesiam.com/en/happening/8667/onesiams-instagrammable-spots-en/", "date": "2025-08"}
+        ]
+      }
+    ],
+    "videos": [
+      {"role": "main", "title": "曼谷小資女一級戰區|Siam Center泰國國民品牌大集合！逛街日常 x @baimaitw", "channel": "HELLO ELIE", "url": "https://www.youtube.com/watch?v=HF37cWcIT-o", "video_id": "HF37cWcIT-o", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"},
+      {"role": "backup", "title": "Siam Paragon to MBK Center - 4K Walking Tour（途中經過 Siam Center、Siam Discovery 並走 OneSiam Skywalk）", "channel": "iVuDang", "url": "https://www.youtube.com/watch?v=AS-PoREHvxs", "video_id": "AS-PoREHvxs", "views_at_check": null, "published": null, "embeddable": true, "checked_on": "2026-10-12"}
+    ],
+    "checked_on": "2026-10-12",
+    "unverified": ["coords", "list_review_count", "步行分鐘數與出口", "天橋夜景實況（燈光、開放時間、是否為清單所指天橋）", "2027 年 1-2 月專屬建議", "3 樓設計師品牌清單（單一指南，日期不明）", "ONESIAM 官方頁發表日（僅由圖檔日期推測）", "影片觀看數與上傳日", "備用影片為 Siam Paragon 至 MBK 步行導覽，非 Siam Center 專題"]
+  }
+]

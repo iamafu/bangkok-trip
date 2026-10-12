@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>曼谷手冊 · 5 款風格樣板</title>
+<style>
+:root {
+  --paper: oklch(97% 0.008 90);
+  --ink: oklch(24% 0.02 260);
+  --muted: oklch(50% 0.02 260);
+  --rule: oklch(88% 0.01 260);
+  --focus: oklch(40% 0.15 260);
+  --font-body: "Noto Sans TC", system-ui, sans-serif;
+}
+* { box-sizing: border-box; }
+html, body { overflow-x: clip; margin: 0; }
+body { background: var(--paper); color: var(--ink); font-family: var(--font-body); line-height: 1.6; padding: 24px 16px 40px; }
+main { max-width: 760px; margin: 0 auto; }
+h1 { font-size: clamp(1.8rem, 6vw, 2.4rem); margin: 0 0 8px; overflow-wrap: anywhere; }
+.lede { color: var(--muted); margin: 0 0 24px; }
+ol { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+li { border: 1px solid var(--rule); border-radius: 10px; background: #fff; padding: 16px; min-width: 0; }
+li a { color: var(--ink); text-decoration: none; font-weight: 700; font-size: 1.1rem; }
+li a:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; border-radius: 4px; }
+li p { margin: 6px 0 0; color: var(--muted); font-size: 0.95rem; overflow-wrap: anywhere; }
+.tag { font-size: 0.8rem; color: var(--muted); }
+.note { margin-top: 24px; font-size: 0.9rem; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>曼谷手冊 · 5 款風格樣板</h1>
+  <p class="lede">請點選一款查看，挑選後告訴我代號（可混搭）。內容皆為占位，數字與評價未查證前不會顯示。</p>
+  <ol>
+    <li>
+      <a href="style-A.html">A · 夜市票券</a>
+      <p>墨黑底、霓虹粉與芥末黃。票券卡，三態投票像攤位點餐券。</p>
+      <p class="tag">Hallmark：atmospheric ｜ 11-catalogue</p>
+    </li>
+    <li>
+      <a href="style-B.html">B · 寺廟金箔誌</a>
+      <p>象牙紙、泰藍墨與金箔細線。雜誌式依區域分章，印章式投票。</p>
+      <p class="tag">Hallmark：editorial ｜ 02-long-document</p>
+    </li>
+    <li>
+      <a href="style-C.html">C · 熱帶明信片</a>
+      <p>海藍、珊瑚與椰綠。明信片網格，圓形按鈕，活潑但不雜亂。</p>
+      <p class="tag">Hallmark：playful ｜ 18-portfolio-grid</p>
+    </li>
+    <li>
+      <a href="style-D.html">D · 瑞士極簡</a>
+      <p>近黑、暖白與單一螢光橘。12 欄網格與索引編號，分段控制投票。</p>
+      <p class="tag">Hallmark：modern-minimal ｜ 13-index-first</p>
+    </li>
+    <li>
+      <a href="style-E.html">E · 手帳拼貼</a>
+      <p>牛皮紙、墨綠與番茄紅。手帳頁與紙膠帶標示狀態，貼紙式勾選。</p>
+      <p class="tag">Hallmark：playful ｜ 14-narrative-workflow</p>
+    </li>
+  </ol>
+  <p class="note">規格與版面邏輯見上一層的 <code>2026-10-12-bangkok-handbook.md</code>。</p>
+</main>
+</body>
+</html>
