@@ -8,7 +8,7 @@
       "items_total": 21
     },
     "checked_on": "2026-10-12",
-    "status_note": "補查結果已合併（supp-G1 至 G4）。部分欄位仍為【資料不足，無法確認】，見各景點 unverified 與 *_note。"
+    "status_note": "清單 21 項 = 16 景點 + 4 附錄 + 1 重複項（已併入 Raan Jay Fai）。"
   },
   "attractions": [
     {
@@ -2192,6 +2192,13 @@
       "type": "備註型",
       "list_rating": null,
       "note": "集合點，不分析"
+    },
+    {
+      "id": "zeaw-merged-into-raan",
+      "name_zh": "痣姐 Zeaw Noodle 49",
+      "type": "重複項目，已併入 Raan Jay Fai",
+      "list_rating": 4.4,
+      "note": "使用者確認此項即 Raan Jay Fai（痣姐熱炒）。清單中兩筆並存（3.6 與 4.4），已合併為一個景點，不重複計算。"
     }
   ]
 }
