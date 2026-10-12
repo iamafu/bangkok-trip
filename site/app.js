@@ -143,7 +143,8 @@ function card(a) {
     infoRow("票價", a.tickets),
     infoRow("營業", a.hours),
     infoRow("交通", a.transport),
-    infoRow("著裝", a.dress_code),
+    // 著裝查不到時整列不顯示（空值或以「【資料不足」開頭），有規定才列出。
+    a.dress_code && !String(a.dress_code).startsWith("【資料不足") ? infoRow("著裝", a.dress_code) : null,
     infoRow("最佳", a.best_time),
   ]);
 
